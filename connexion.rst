@@ -62,9 +62,9 @@ Si vous utilisez Firefox:
 
 1. Aller dans le menu Outils >> Options
 
-2. Cliquer sur la rubrique **Contenu** dans la colonne de gauche
+2. Cliquer sur la rubrique ``Contenu`` dans la colonne de gauche
 
-3. En face de **Bloquer les fenêtres pop-up** cliquer sur **Exceptions**
+3. En face de ``Bloquer les fenêtres pop-up`` cliquer sur ``Exceptions``
 
 4. Dans la nouvelle fenêtre rubrique **Adresse du site web** taper **pro.geofoncier.fr** puis cliquer sur **Autoriser** puis sur **Enregistrer les modifications**.
 
@@ -72,18 +72,18 @@ Si vous utilisez Chrome:
 
 1. En haut à droite, cliquer sur l’icône qui s’affiche: Menu |menu| ou Plus |plus| 
 
-.. |menu| image:: _static/images/image024.gif
+.. |menu| image:: _static/images/image023.png
    :align: middle
    :width: 18
-.. |plus| image:: _static/images/image026.gif
+.. |plus| image:: _static/images/image025.png
    :align: middle
    :width: 18
 
 2. Cliquer sur **Paramètres**
 
-3. En bas de page, cliquer sur **Afficher les paramètres avancés**
+3. En bas de page, cliquer sur ``Afficher les paramètres avancés``
 
-4. Sous *Confidentialité*, cliquer sur **Paramètres de contenu**
+4. Sous *Confidentialité*, cliquer sur ``Paramètres de contenu``
 
 5. Dans la rubrique ``Fenêtres pop-up``, cliquer sur ``Gérer les exceptions``
 

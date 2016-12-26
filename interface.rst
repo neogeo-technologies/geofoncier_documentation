@@ -1,335 +1,311 @@
-3. Présentation des différents éléments de l’interface
-======================================================
+Présentation des différents éléments de l’interface
+===================================================
 
-L’interface du portail Géofoncier a été conçue pour permettre une
-utilisation aisée du portail. En fonction des droits de l’utilisateur
-connecté, les fonctionnalités et couches de données accessibles
-diffèrent. Toutes les descriptions qui suivent s’appliquent aux
-fonctionnalités et couches de données accessibles aux géomètres-
-experts.
+L’interface du portail Géofoncier a été conçue pour permettre une utilisation aisée du portail. En fonction des droits de l’utilisateur connecté, les fonctionnalités et couches de données accessibles diffèrent. Toutes les descriptions qui suivent s’appliquent aux fonctionnalités et couches de données accessibles aux géomètres-experts.
 
-3.1 Remarques générales sur l’utilisation de l’interface
---------------------------------------------------------
+Remarques générales sur l’utilisation de l’interface
+----------------------------------------------------
 
-Géofoncier est une application internet, ainsi l’ensemble du
-«programme» s’exécute dans une unique page web. Il n’est pas inutile
-de rappeler ici que l’utilisateur doit toujours garder à l’esprit que
-Géofoncier n’est pas un logiciel. L’application ne sera ainsi jamais
-aussi réactive qu’un logiciel de bureautique ou de DAO installé sur
-votre poste.
+Géofoncier est une application internet, ainsi l’ensemble du «programme» s’exécute dans une unique page web. Il n’est pas inutile de rappeler ici que l’utilisateur doit toujours garder à l’esprit que Géofoncier n’est pas un logiciel. L’application ne sera ainsi jamais aussi réactive qu’un logiciel de bureautique ou de DAO installé sur votre poste.
 
-Les utilisateurs de Géofoncier doivent toujours veiller à respecter
-les consignes suivantes:
+Les utilisateurs de Géofoncier doivent toujours veiller à respecter les consignes suivantes:
 
-·
-Attendre la fin de l’exécution d’une commande avant d’en lancer une
-autre. Si vous lancez plusieurs commandes à la suite sans laisser le
-temps à chaque commande de s’exécuter, vous risquez très vite de
-saturer l’application,
+.. image:: _static/images/image102.gif
+   :alt: Attendre
+   :width: 200px
+   :align: center
 
-·
+Attendre la fin de l’exécution d’une commande avant d’en lancer une autre. Si vous lancez plusieurs commandes à la suite sans laisser le temps à chaque commande de s’exécuter, vous risquez très vite de saturer l’application,
+
+.. image:: _static/images/image104.gif
+   :alt: Pas de double clic
+   :width: 200px
+   :align: center
+
 Ne jamais utiliser le double-clic sauf dans de très rares cas,
 
-· Ne jamais utiliser les boutons «suivant» et/ou «précédent» de votre
-navigateur. Toute l’application fonctionne dans une seule et même page
-web.
+.. image:: _static/images/image107bis.png
+   :alt: Pas de retour
+   :width: 200px
+   :align: center
 
+Ne jamais utiliser les boutons «suivant» et/ou «précédent» de votre navigateur. Toute l’application fonctionne dans une seule et même page web.
 
 
-· Comme toute application, Géofoncier n’est pas infaillible! Dans
-l’hypothèse où l’application semble «bloquée», la meilleure solution
-consiste à cliquer sur le bouton «Actualiser» de votre navigateur.
+Comme toute application, Géofoncier n’est pas infaillible ! Dans l’hypothèse où l’application semble «bloquée», la meilleure solution consiste à cliquer sur le bouton ``Actualiser`` de votre navigateur.
 
+.. note:: Le bouton «actualiser» se situe à proximité de la barre d’adresse de votre navigateur:
 
 
+Modes d’affichage de l’interface
+--------------------------------
 
+Trois configurations sont possibles pour l’affichage du portail. Si vous souhaitez par exemple uniquement naviguer sur la carte, il vous est possible de masquer certaines parties de l’interface pour gagner en ergonomie.
 
-Le bouton «actualiser» se situe à proximité de la barre d’adresse de
-votre navigateur:
+La capture d’écran suivante présente l’état de l’interface lors d’une ouverture de session sur le territoire «France métropolitaine». Elle met en évidence les deux boutons qui permettent de masquer/afficher les bandeaux de l’interface.
 
+.. image:: _static/images/image114bis.png
+   :alt: Masquage et affichage des bandeaux
+   :align: center
 
-3.2 Modes d’affichage de l’interface
--------------------------------------
 
-Trois configurations sont possibles pour l’affichage du portail. Si
-vous souhaitez par exemple uniquement naviguer sur la carte, il vous
-est possible de masquer certaines parties de l’interface pour gagner
-en ergonomie.
 
-La capture d’écran suivante présente l’état de l’interface lors d’une
-ouverture de session sur le territoire «France métropolitaine». Elle
-met en évidence les deux boutons qui permettent de masquer/afficher
-les bandeaux de l’interface.
+**Configuration 1** : bandeau gauche masqué
 
+.. image:: _static/images/image120.png
+   :alt: bandeau gauche masqué
+   :align: center
 
+**Configuration 2** : bandeau haut masqué
 
+.. image:: _static/images/image122.png
+   :alt: bandeau haut masqué
+   :align: center
 
 
+**Configuration 3** : bandeaux gauche et haut masqués
 
+.. image:: _static/images/image124.png
+   :alt: bandeaux gauche et hauts masqués
+   :align: center
 
 
+.. note:: Il est possible aussi d’activer le mode **plein écran** sur le navigateur pour bénéficier d’un espace de navigation maximal. Pour activer/désactiver le mode **plein écran** de votre navigateur, appuyer simplement sur la touche ``F11`` de votre clavier
 
 
+Organisation de l’interface
+---------------------------
 
+La capture d’écran ci-après situe les différents éléments de l’interface.
 
+.. image:: _static/images/image132bis.png
+   :alt: interface
+   :align: center
 
+**ZONE 1** : Bandeau gauche comprenant cinq volets:
 
+|couches| Gestion de l’affichage des différentes couches de données de la carte
 
+.. |couches| image:: _static/images/image134.png
+   :align: middle
+   :width: 170
 
+|resultats| Affichage des informations demandées par l’utilisateur
 
+.. |resultats| image:: _static/images/image136.png
+   :align: middle
+   :width: 170
 
-Configuration 1
+|localisation| Fonctionnalités de localisation sur la carte
 
+.. |localisation| image:: _static/images/image138.png
+   :align: middle
+   :width: 170
 
+|annotations| Outils d’annotations de la carte
 
-Bandeau gauche masqué
+.. |annotations| image:: _static/images/image140.png
+   :align: middle
+   :width: 170
 
+|aide| Aide contextuelle sur le fonctionnement de la fonction en cours d’exécution
 
+.. |aide| image:: _static/images/image142.png
+   :align: middle
+   :width: 170
 
+**ZONE 2** : Zone d’affichage de la carte
 
+**ZONE 3** : Barres d’outils
 
+**ZONE 4** : Information sur l’utilisateur connecté
 
+**ZONE 5** : Gestion de l’affichage des coordonnées du curseur de la souris
 
-Configuration 2
+**ZONE 6** : Liens vers les pages ``Avertissements``, ``Contact``, ``Mentions légales`` et ``CGU``
 
 
 
-Bandeau haut masqué
+Gestion de l’affichage des couches de données
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: _static/images/image134.png
+   :align: center
+   :width: 200
 
+Le volet ``Couches de données`` vous permet d’agir sur les paramètres d’affichage des différentes couches de données. Il vous est ainsi possible d’obtenir la carte qui correspond le mieux à vos attentes.
 
+L’ensemble des couches de données sont classées par thèmes et éventuellement sous-thèmes. Au regard de chaque thème / sous-thème se trouve une icône vous permettant de développer (|developper| ) ou de réduire (|reduire|) la liste des couches disponibles.
 
+.. |developper| image:: _static/images/image145.png
+   :align: middle
+   :width: 18
+.. |reduire| image:: _static/images/image147.png
+   :align: middle
+   :width: 18
 
+Pour chaque couche de données, il est possible d’agir sur différents paramètres d’affichage:
 
-
-Configuration 3
-
-
-
-Bandeaux gauche et haut masqués
-
-
-
-
-
-Il est possible aussi d’activer le mode «plein écran» sur le
-navigateur pour bénéficier d’un espace de navigation maximal. Pour
-activer/désactiver le mode «plein écran» de votre navigateur, appuyer
-simplement sur la touche «F11» de votre clavier
-
-
-
-
-3.3 Organisation de l’interface
--------------------------------
-
-3
-La capture d’écran ci-après situe les différents éléments de
-l’interface.
-
-
-6
-
-5
-
-2
-
-4
-
-1
-
-
-
-
-**ZONE 1**: Bandeau gauche comprenant cinq volets:
-
->> Gestion de l’affichage des différentes couches de données de la
-carte,
-
->> Affichage des informations demandées par l’utilisateur
-
->> Fonctionnalités de localisation sur la carte
-
->> Outils d’annotations de la carte
-
->> Aide contextuelle sur le fonctionnement de la fonction en cours
-d’exécution
-
-**ZONE 2**: Zone d’affichage de la carte
-
-**ZONE 3**: Barres d’outils
-
-**ZONE 4**: Information sur l’utilisateur connecté
-
-**ZONE 5**: Gestion de l’affichage des coordonnées du curseur de la
-souris
-
-**ZONE 6**: Liens vers les pages «Avertissements», «Contact»,
-«Mentions légales» et «CGU»
-
-
-
-
-
-
-
-3.3.1 Gestion de l’affichage des couches de données
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-Le volet «Couches de données» vous permet d’agir sur les paramètres
-d’affichage des différentes couches de données. Il vous est ainsi
-possible d’obtenir la carte qui correspond le mieux à vos attentes.
-
-L’ensemble des couches de données sont classées par thèmes et
-éventuellement sous-thèmes. Au regard de chaque thème / sous-thème se
-trouve une icône vous permettant de développer ( ) ou de réduire ( )
-la liste des couches disponibles.
-
-Pour chaque couche de données, il est possible d’agir sur différents
-paramètres d’affichage:
-
-· ** Visibilité de la couche de données ** ** **
+**Visibilité de la couche de données**
 
 Il suffit de cliquer sur la case à cocher située à gauche du nom de la
 couche.
 
->> La couche est affichée
+|couche_affichee| >> La couche est affichée
 
->> La couche n’est pas affichée
+.. |couche_affichee| image:: _static/images/image149.png
+   :align: middle
+   :width: 150
+
+|couche_pas_affichee| >> La couche n’est pas affichée
+
+.. |couche_pas_affichee| image:: _static/images/image151.png
+   :align: middle
+   :width: 150
 
 Lorsqu’une couche de données est active et que la position de la carte
 change, le libellé de la couche de données change de forme pour vous
 signaler son état:
 
->> La couche est chargée
+|couche_chargee| >> La couche est chargée
 
->> La couche est en cours de chargement (italique)
+.. |couche_chargee| image:: _static/images/image149.png
+   :align: middle
+   :width: 150
 
->> La couche n’est pas affichable à l’échelle demandée (case à cocher
-grisée)
+|couche_en_cours| >> La couche est en cours de chargement (italique)
 
-· ** Modification de la transparence ** ** de la couche de données **
+.. |couche_en_cours| image:: _static/images/image154.png
+   :align: middle
+   :width: 150
 
-Lorsque vous cliquez sur le nom d’une couche, un curseur apparait pour
-vous permettre d’agir sur le taux de transparence de la couche de 0%
-(translucide) à 100% (opaque). Un second clic sur le nom de la couche
-vous permet de masquer le curseur. En bougeant le curseur, le taux de
-transparence s’affiche.
+|couche_pas_visible| >> La couche n’est pas affichable à l’échelle demandée (case à cocher grisée)
 
-
-
-
-
-· ** Modification de l’ordre d’affichage ** ** de la couche de données
-**
-
-La superposition des couches de données s’effectue de bas en haut.
-Pour changer la position d’une couche de données dans l’arbre des
-couches, il suffit d’effectuer un glisser-déposer pour placer une
-couche au-dessus ou au-dessous d’une autre.
-
-Lorsque vous tentez de faire un glisser-déposer d’une couche de
-données, une info bulle apparait à côté du curseur de la souris. La
-case à cocher qu’elle contient vous rappelle si la couche de données
-est active ou non:
+.. |couche_pas_visible| image:: _static/images/image156.png
+   :align: middle
+   :width: 150
 
 
->> Impossible de placer la couche ici: si vous relâchez, rien ne se
-passe
+**Modification de la transparence de la couche de données**
 
->> La couche sera déplacée dans ce thème/sous-thème: vous pouvez
-relâcher.
+Lorsque vous cliquez sur le nom d’une couche, un curseur apparait pour vous permettre d’agir sur le taux de transparence de la couche de 0% (translucide) à 100% (opaque). Un second clic sur le nom de la couche vous permet de masquer le curseur. En bougeant le curseur, le taux de transparence s’affiche.
 
->> La couche change de position: vous pouvez relâcher.
+.. image:: _static/images/image158.png
+   :align: center
+   :width: 180
 
 
 
+**Modification de l’ordre d’affichage de la couche de données**
+
+La superposition des couches de données s’effectue de bas en haut. Pour changer la position d’une couche de données dans l’arbre des couches, il suffit d’effectuer un glisser-déposer pour placer une couche au-dessus ou au-dessous d’une autre.
+
+Lorsque vous tentez de faire un glisser-déposer d’une couche de données, une info bulle apparait à côté du curseur de la souris. La case à cocher qu’elle contient vous rappelle si la couche de données est active ou non:
 
 
-Un glisser-déposer consiste à cliquer sur le nom d’une couche de
-données et, tout en restant cliqué, à changer la position de l’élément
-dans l’arbre des couches.
+|teria_1| >> Impossible de placer la couche ici : si vous relâchez, rien ne se passe
 
-· ** Légende ** ** de la couche de données **
+.. |teria_1| image:: _static/images/image160.png
+   :align: middle
+   :width: 150
 
-Pour afficher la légende d’une couche de données, il suffit de cliquer
-sur le nom de la couche pour développer le contenu de la légende. Sur
-certaines couches détaillées en chap. 6, la légende est accessible
-uniquement en cliquant sur l’icône qui apparaît lorsque le curseur de
-la souris est positionné sur le nom de la couche.
+|teria_2| >> La couche sera déplacée dans ce thème/sous-thème : vous pouvez relâcher.
 
-· ** Informations liées à la couche ** ** **
+.. |teria_2| image:: _static/images/image162.png
+   :align: middle
+   :width: 150
 
-Sur certaines couches détaillées en chap. 6, des informations
-complémentaires sont accessibles uniquement en cliquant sur l’icône
-qui apparaît lorsque le curseur de la souris est positionné sur le nom
-de la couche.
+|teria_3| >> La couche change de position : vous pouvez relâcher.
 
-· ** Rechercher ** ** une couche de données **
+.. |teria_3| image:: _static/images/image164.png
+   :align: middle
+   :width: 150
 
-Pour gagner en efficacité, Géofoncier vous propose un outil vous
-permettant de filtrer l’arbre des couches. Dès lors, il suffit de
-saisir les premières lettres du nom d’une couche pour la retrouver
-facilement. Pour retrouver la liste complète des couches, il suffit
-d’effacer le texte saisi. ** **
 
-· ** Développer / Réduire / Réinitialiser l’arbre des couches **
+.. note:: Un glisser-déposer consiste à cliquer sur le nom d’une couche de données et, tout en restant cliqué, à changer la position de l’élément dans l’arbre des couches.
+
+**Légende de la couche de données**
+
+Pour afficher la légende d’une couche de données, il suffit de cliquersur le nom de la couche pour développer le contenu de la légende. Sur certaines couches détaillées en chap. 6, la légende est accessible uniquement en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+
+**Informations liées à la couche**
+
+Sur certaines couches détaillées en chap. 6, des informations complémentaires sont accessibles uniquement en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+
+.. |i| image:: _static/images/image167.gif
+   :align: middle
+   :width: 15
+
+**Rechercher une couche de données**
+
+.. image:: _static/images/image168.png
+   :align: right
+   :width: 200
+
+Pour gagner en efficacité, Géofoncier vous propose un outil vous permettant de filtrer l’arbre des couches. Dès lors, il suffit de saisir les premières lettres du nom d’une couche pour la retrouver facilement. Pour retrouver la liste complète des couches, il suffit d’effacer le texte saisi.
+
+**Développer / Réduire / Réinitialiser l’arbre des couches**
 
 Trois boutons vous permettent d’agir à tout instant sur l’arbre des
 couches:
 
->> Permet de développer l’arbre des couches
+|btn_dev| >> Permet de développer l’arbre des couches
 
->> Permet de réduire l’arbre des couches
+|btn_red| >> Permet de réduire l’arbre des couches
 
->> Réinitialise l’arbre des couches
+|btn_init| >> Réinitialise l’arbre des couches
 
+.. |btn_dev| image:: _static/images/image170.gif
+   :align: middle
+   :width: 40
 
+.. |btn_red| image:: _static/images/image171.gif
+   :align: middle
+   :width: 40
 
-
-
-La réinitialisation de l’arbre des couches a pour effet de désactiver
-toutes les couches précédemment sélectionnées par l’utilisateur,
-hormis la couche «Cartes IGN» (opacité 40 %), la couche «Photographies
-aériennes IGN», la couche plan cadastral SPDC et les couches
-géomètres-experts RFU et dossiers. De même, l’ordre d’affichage des
-couches de données se réinitialise par rapport au schéma initial.
-
-
-3.3.2 Affichage des résultats d’une commande ** **
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. |btn_init| image:: _static/images/image172.gif
+   :align: middle
+   :width: 30
 
 
-Le volet «Résultats» est la zone d’affichage des résultats produits
-par une commande, notamment l’interrogation des couches de données et
-l’affichage des informations communales.
-
-3.3.3 Fonctions de localisation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: La réinitialisation de l’arbre des couches a pour effet de désactiver toutes les couches précédemment sélectionnées par l’utilisateur, hormis la couche «Cartes IGN» (opacité 40 %), la couche «Photographies aériennes IGN», la couche plan cadastral SPDC et les couches géomètres-experts RFU et dossiers. De même, l’ordre d’affichage des couches de données se réinitialise par rapport au schéma initial.
 
 
-Le volet «Localiser» vous permet de positionner la carte à un endroit
-précis. Il est possible de se localiser sur une commune, sur une
-section ou parcelle cadastrale, sur une adresse ou un toponyme, ou un
-point.
+Affichage des résultats d’une commande
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Les données exploitées pour permettre la localisation sont les
-contours communaux et les localisants de la BD Parcellaire (IGN).
+.. image:: _static/images/image136.png
+   :align: center
+   :width: 200
+
+Le volet ``Résultats`` est la zone d’affichage des résultats produits par une commande, notamment l’interrogation des couches de données et l’affichage des informations communales.
+
+Fonctions de localisation
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/images/image138.png
+   :align: center
+   :width: 200
+
+.. image:: _static/images/image175.gif
+   :align: right
+   :width: 200
+
+Le volet ``Localiser`` vous permet de positionner la carte à un endroit précis. Il est possible de se localiser sur une commune, sur une section ou parcelle cadastrale, sur une adresse ou un toponyme, ou un point.
+
+Les données exploitées pour permettre la localisation sont les contours communaux et les localisants de la BD Parcellaire (IGN).
 
 
+.. warning:: Certains territoires ne proposent pas tous les types de localisation:
 
-Certains territoires ne proposent pas tous les types de localisation:
+	* pas de localisation à la commune sur Saint-Martin et Saint-Barthélemy (commune unique)
 
-- pas de localisation à la commune sur Saint-Martin et Saint-
-Barthélemy (commune unique)
+	* pas de localisation à la parcelle cadastrale à Mayotte (absence de BD Parcellaire)
 
-- pas de localisation à la parcelle cadastrale à Mayotte (absence de
-BD Parcellaire)
 
-· ** Onglet «Commune ** ** » **
+** Onglet «Commune **
 
-L’onglet «Commune» permet de centrer la carte sur l’ensemble d’une
+L’onglet Commune» permet de centrer la carte sur l’ensemble d’une
 commune. Vous disposez de deux possibilités pour sélectionner une
 commune:
 

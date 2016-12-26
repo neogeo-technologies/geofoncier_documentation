@@ -8,7 +8,7 @@ Guide utilisateur
 à destination des géomètres-experts et de leurs collaborateurs
 --------------------------------------------------------------
 
-.. image:: _static/images/image013.jpg
+.. image:: _static/images/image012.png
    :alt: Géofoncier : premier portail cartographique du foncier 
    :class: floatingflask
 
