@@ -161,7 +161,7 @@ L’URL pour se connecter au portail Géofoncier est la suivante : `<https://pro
 
 .. note:: Pour se connecter au site grand public, l’URL est la suivante : `<http://www.geofoncier.fr>`_
 
-.. note:: Vous pouvez mémoriser l’adresse de Géofoncier en ajoutant le lien dans vos favoris:
+.. tip:: Vous pouvez mémoriser l’adresse de Géofoncier en ajoutant le lien dans vos favoris:
 	
 	* sous Firefox : Marque–pages >> Marquer cette page
 
@@ -256,7 +256,7 @@ Pour modifier les informations de votre compte utilisateur, il vous suffit de cl
 
 Vous disposez de la possibilité d’affecter un logo à votre compte utilisateur. Ce logo sera affiché lors de vos impressions. Il vous suffit pour ce faire de cliquer sur le bouton ``Parcourir`` et de spécifier le fichier à utiliser.
 
-.. note:: peu importe les dimensions du logo, il sera redimensionné automatiquement lors de son utilisation. Cependant, le logo doit faire moins de 100 Ko car une taille supérieure ralentirait significativement le temps de chaque impression. 
+.. note:: Peu importe les dimensions du logo, il sera redimensionné automatiquement lors de son utilisation. Cependant, le logo doit faire moins de 100 Ko car une taille supérieure ralentirait significativement le temps de chaque impression. 
 
 Lorsqu’un logo a été importé, il apparaît automatiquement dans la fenêtre.
 

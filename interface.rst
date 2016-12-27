@@ -296,456 +296,455 @@ Le volet ``Localiser`` vous permet de positionner la carte à un endroit précis
 Les données exploitées pour permettre la localisation sont les contours communaux et les localisants de la BD Parcellaire (IGN).
 
 
-.. warning:: Certains territoires ne proposent pas tous les types de localisation:
+.. attention:: Certains territoires ne proposent pas tous les types de localisation:
 
 	* pas de localisation à la commune sur Saint-Martin et Saint-Barthélemy (commune unique)
 
 	* pas de localisation à la parcelle cadastrale à Mayotte (absence de BD Parcellaire)
 
 
-** Onglet «Commune **
+**Onglet «Commune»**
 
-L’onglet Commune» permet de centrer la carte sur l’ensemble d’une
-commune. Vous disposez de deux possibilités pour sélectionner une
-commune:
+.. image:: _static/images/image178.gif
+   :align: right
+   :width: 200
 
--Choix d’un département puis d’une commune
-(les listes se filtrent automatiquement suivant la saisie /
-possibilité de choisir un département en saisissant son numéro)
+L’onglet ``Commune`` permet de centrer la carte sur l’ensemble d’une commune. Vous disposez de deux possibilités pour sélectionner une commune:
+
+* Choix d’un département puis d’une commune (les listes se filtrent automatiquement suivant la saisie / possibilité de choisir un département en saisissant son numéro)
+
+.. image:: _static/images/image179.gif
+   :align: right
+   :width: 200
 
 OU
 
--Indication d’un code INSEE: si le code INSEE existe, la commune
-correspondante s’affiche.
+* Indication d’un code INSEE: si le code INSEE existe, la commune correspondante s’affiche.
 
 
+La case à cocher ``Afficher la fiche commune`` permet, en plus de la localisation, d’accéder aux informations communales (cf. 5).
 
-La case à cocher «Afficher la fiche commune» permet, en plus de la
-localisation, d’accéder aux informations communales (cf. 5).
+.. image:: _static/images/image180.gif
+   :align: center
+   :width: 200
 
+Un clic sur le bouton ``Localiser`` adapte alors la position et l’échelle de la carte de façon à pouvoir visualiser l’ensemble du territoire communal.
 
+**Onglet «Adresse»**
 
-Un clic sur le bouton «Localiser» adapte alors la position et
-l’échelle de la carte de façon à pouvoir visualiser l’ensemble du
-territoire communal.
+.. image:: _static/images/image181.gif
+   :align: right
+   :width: 200
 
-· ** Onglet «Adresse ** ** » **
+L’onglet ``Adresse`` permet une localisation à l’adresse ou sur un toponyme. Il suffit de renseigner les deux champs «adresse ou toponyme» et «commune». Le mode de fonctionnement de la fonction est le suivant:
 
-L’onglet «Adresse» permet une localisation à l’adresse ou sur un
-toponyme. Il suffit de renseigner les deux champs «adresse ou
-toponyme» et «commune». Le mode de fonctionnement de la fonction est
-le suivant:
+.. image:: _static/images/image182bis.png
+   :align: right
+   :width: 200
 
-1) Renseignement des deux champs
+1. Renseignement des deux champs
 
-2) Clic sur le bouton «localiser»: cela a pour effet d’afficher les
-résultats les plus probables
+2. Clic sur le bouton «localiser»: cela a pour effet d’afficher les résultats les plus probables
 
-3) Clic sur une des lignes résultat: la carte est alors centrée
+3. Clic sur une des lignes résultat: la carte est alors centrée
 
-· ** Onglet «Parcelle ** ** » **
+**Onglet «Parcelle»**
 
-L’onglet «Parcelle» permet une localisation à la parcelle cadastrale.
-Il suffit de renseigner les différents champs de façon descendante:
+.. image:: _static/images/image184.png
+   :align: right
+   :width: 200
 
-Département >> Commune >> Préfixe >> Section >> Parcelle
+L’onglet ``Parcelle`` permet une localisation à la parcelle cadastrale. Il suffit de renseigner les différents champs de façon descendante:
 
-Seuls les préfixes, sections, et numéros existants sur la commune sont
-proposés. Pour la sélection du département, il est possible de saisir
-son numéro.
+``Département`` >> ``Commune`` >> ``Préfixe`` >> ``Section`` >> ``Parcelle``
 
-Un clic sur le bouton «Localiser» centre la carte sur la parcelle
-spécifiée et force l’échelle au 1/2000. L’affichage de la section et
-du numéro de parcelle sur la carte permet d’obtenir la confirmation
-que l’on se situe bien sur la parcelle recherchée.
+Seuls les préfixes, sections, et numéros existants sur la commune sont proposés. Pour la sélection du département, il est possible de saisir son numéro.
 
+.. image:: _static/images/image186.png
+   :align: right
+   :width: 120
 
+Un clic sur le bouton ``Localiser`` centre la carte sur la parcelle spécifiée et force l’échelle au 1/2000. L’affichage de la section et du numéro de parcelle sur la carte permet d’obtenir la confirmation que l’on se situe bien sur la parcelle recherchée.
 
+.. note:: Le premier préfixe de la commune est toujours sélectionné par défaut. ``000`` signifie qu’il n’y a pas de préfixe sur la commune. C’est le cas la plupart du temps.
 
+.. tip:: Pour localiser une section cadastrale, il suffit de ne rien spécifier dans le champ «parcelle» et de cliquer directement sur le bouton ``Localiser``. Géofoncier se centre alors sur l’emprise de la section et affiche en rouge sa référence au centre.
 
-Le premier préfixe de la commune est toujours sélectionné par défaut.
-«000» signifie qu’il n’y a pas de préfixe sur la commune. C’est le cas
-la plupart du temps.
+.. note:: Pour les communes de Paris et Lyon, le préfixe correspond au code de l’arrondissement municipal.
 
+**Onglet «Point»**
 
+.. image:: _static/images/image189.gif
+   :align: right
+   :width: 200
 
+L’onglet ``Point`` permet de se localiser sur les coordonnées d’un point exprimé dans un des systèmes de coordonnées légaux du territoire.
 
-
-Pour localiser une section cadastrale, il suffit de ne rien spécifier
-dans le champ «parcelle» et de cliquer directement sur le bouton
-«Localiser». Géofoncier se centre alors sur l’emprise de la section et
-affiche en rouge sa référence au centre.
-
-
-
-
-
-Pour les communes de Paris et Lyon, le préfixe correspond au code de
-l’arrondissement municipal.
-
-· ** Onglet «Point ** ** » **
-
-L’onglet «Point » permet de se localiser sur les coordonnées d’un
-point exprimé dans un des systèmes de coordonnées légaux du
-territoire.
-
-La case à cocher «Créer un point permanent», permet de garder une
-trace du point sur lequel la localisation a été effectuée.
-
-3.3.4 Outils d’annotations
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+La case à cocher ``Créer un point permanent``, permet de garder une trace du point sur lequel la localisation a été effectuée.
 
 
-Le volet «Annotation» vous permet de «dessiner» des objets sur la
-carte. Cela peut être utile pour concevoir, par exemple, des plans de
-situation.
+Outils d’annotations
+^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/images/image140.png
+   :align: center
+   :width: 200
+
+Le volet ``Annotation`` vous permet de «dessiner» des objets sur la carte. Cela peut être utile pour concevoir, par exemple, des plans de situation.
 
 Plusieurs types d’éléments peuvent être ajoutés :
 
+|symbole|  **Des symboles**
+
+.. |symbole| image:: _static/images/image191.png
+   :align: middle
+   :width: 30
+
+|polyligne|  **Des (poly)lignes**
+
+.. |polyligne| image:: _static/images/image192.png
+   :align: middle
+   :width: 30
+
+|libre|  **Des lignes à main levée**
+
+.. |libre| image:: _static/images/image195.png
+   :align: middle
+   :width: 30
+
+|polygone|  **Des polygones**
+
+.. |polygone| image:: _static/images/image197.png
+   :align: middle
+   :width: 30
+
+|cercle|  **Des cercles**
+
+.. |cercle| image:: _static/images/image199.png
+   :align: middle
+   :width: 30
+
+|texte|  **Du texte**
+
+.. |texte| image:: _static/images/image201.png
+   :align: middle
+   :width: 30
 
 
+**Paramètre définissables pour chaque type d’éléments**
+
+- **Symbole :**
+
++--------------------------------------+
+|.. image:: _static/images/image203.png|
++--------------------------------------+
+
+*Ce paramètre est spécifique au type d’éléments symbole.*
+
+Pour changer de type de symbole, il suffit de cliquer sur le symbole ``cercle``.
+
+Un choix de symbole s’affiche. Il suffit alors de cliquer sur le symbole souhaité.
+
+D’autres symboles peuvent être importés en cliquant sur ``plus de symboles``.
+
+.. image:: _static/images/image205.png
+   :align: left
+   :width: 200
+
+.. image:: _static/images/image206.png
+   :align: center
+   :width: 250
+
+- **Couleur :**
+
++--------------------------------------+
+|.. image:: _static/images/image209.png|
++--------------------------------------+
+
+*Ce paramètre est commun à tout type d’éléments.*
+
+Pour changer de couleur, il suffit de cliquer sur la couleur orange par défaut (couleur noire par défaut pour le type d’élément texte)
+
+Un choix de couleur s’affiche. Il suffit alors de cliquer sur la couleur souhaitée.
+
+.. image:: _static/images/image211.gif
+   :align: center
+   :width: 220
 
 
-** Des symboles **
+Une palette de couleur plus large est disponible en cliquant sur ``plus de couleurs``.
 
-**Des (poly)lignes **
-
-**Des lignes à main levée**
-
-**Des polygones **
-
-**Des cercles**
-
-**Du texte **
+.. image:: _static/images/image212.png
+   :align: center
+   :width: 300
 
 
-· ** Paramètre définissables pour chaque type d’éléments ** ** **
+Il est ainsi possible de définir une couleur par ses composantes RGB, HSV ou son codage hexadécimal [8]_
 
-- **Symbole: **
+- **Taille :**
 
-Ce paramètre est spécifique au type d’éléments symbole.
++--------------------------------------+
+|.. image:: _static/images/image214.png|
++--------------------------------------+
 
-Pour changer de type de symbole, il suffit de cliquer sur le symbole
-«cercle».
+*Ce paramètre est commun aux types d’éléments symbole et texte.*
 
-Un choix de symbole s’affiche. Il suffit alors de cliquer sur le
-symbole souhaité.
+*Pour les symboles, la taille s’exprime en pixels, et pour le texte, la taille s’exprime en points.*
 
-D’autres symboles peuvent être importés en cliquant sur «plus de
-symboles».
-
+Pour changer de taille, il suffit de cliquer sur les flèches du champ taille, ou de rentrer directement la taille souhaitée dans le champ correspondant.
 
 
-** **
+- **Largeur :**
 
-** **
++--------------------------------------+
+|.. image:: _static/images/image216.png|
++--------------------------------------+
 
-
-
-** **
-
-
-- **Couleur: **
-
-Ce paramètre est commun à tout type d’éléments.
-
-Pour changer de couleur, il suffit de cliquer sur la couleur orange
-par défaut (couleur noire par défaut pour le type d’élément texte)
-
-Un choix de couleur s’affiche. Il suffit alors de cliquer sur la
-couleur souhaitée.
-
-
-
-
-
-
-
-
-Une palette de couleur plus large est disponible en cliquant sur «plus
-de couleurs».
-
-** ** ** **
-
-Il est ainsi possible de définir une couleur par ses composantes RGB,
-HSV ou son codage hexadécimal[8]
-
-- **Taille: **
-
-Ce paramètre est commun aux types d’éléments symbole et texte.
-
-Pour les symboles, la taille s’exprime en pixels, et pour le texte, la
-taille s’exprime en points.
-
-Pour changer de taille, il suffit de cliquer sur les flèches du champ
-taille, ou de rentrer directement la taille souhaitée dans le champ
-correspondant.
-
-
-
-- **Largeur: **
-
-Ce paramètre est commun aux types d’éléments (poly)ligne, ligne à main
-levée, polygone et cercle.
+*Ce paramètre est commun aux types d’éléments (poly)ligne, ligne à main levée, polygone et cercle.*
 
 La largeur s’exprime en pixels.
 
-Pour changer de largeur, il suffit de cliquer sur les flèches du champ
-largeur, ou de rentrer directement la largeur souhaitée dans le champ
-correspondant.
+Pour changer de largeur, il suffit de cliquer sur les flèches du champ largeur, ou de rentrer directement la largeur souhaitée dans le champ correspondant.
 
-- **Opacité: **
+- **Opacité :**
 
-Ce paramètre est commun à tout type d’éléments, sauf texte.
++--------------------------------------+
+|.. image:: _static/images/image218.png|
++--------------------------------------+
 
-Pour changer l’opacité, il suffit de cliquer sur le curseur pour le
-bouger sur la règle. Lorsque le curseur est sélectionné par le clic
-gauche, le taux d’opacité s’affiche.
+*Ce paramètre est commun à tout type d’éléments, sauf texte.*
 
-- **Label: **
+Pour changer l’opacité, il suffit de cliquer sur le curseur pour le bouger sur la règle. Lorsque le curseur est sélectionné par le clic gauche, le taux d’opacité s’affiche.
 
-Ce paramètre est spécifique au type d’éléments texte.
+- **Label :**
 
-Pour changer le label, il suffit de cliquer dans le champ et de
-remplacer par le texte souhaité.
++--------------------------------------+
+|.. image:: _static/images/image220.png|
++--------------------------------------+
 
+*Ce paramètre est spécifique au type d’éléments texte.*
 
+Pour changer le label, il suffit de cliquer dans le champ et de remplacer par le texte souhaité.
 
+.. note:: Les caractères ``{i}`` permettent d’afficher un numéro incrémental. 
+	(exemple: lot 1, lot 2, lot 3 )
 
+- **Police :**
 
-Les caractères «{i}» permettent d’afficher un numéro incrémental.
++--------------------------------------+
+|.. image:: _static/images/image222.png|
++--------------------------------------+
 
-(exemple: lot 1, lot 2, lot 3 )
+*Ce paramètre est spécifique au type d’éléments texte.*
 
-- **Police : **
-
-Ce paramètre est spécifique au type d’éléments texte.
-
-Pour changer la police, il suffit de cliquer sur la flèche à droite du
-champ.
+Pour changer la police, il suffit de cliquer sur la flèche à droite du champ.
 
 4 polices sont disponibles: Arial, Verdana, Times, Tahoma
 
-- **Style : **
+- **Style :**
+
++--------------------------------------+
+|.. image:: _static/images/image224.png|
++--------------------------------------+
+
+*Ce paramètre est spécifique au type d’éléments texte.*
+
+|gras| En cliquant sur ce bouton, le texte devient gras.
+
+.. |gras| image:: _static/images/image226.png
+   :align: middle
+   :width: 30
+
+|italique| En cliquant sur ce bouton, le texte devient italique.
+
+.. |italique| image:: _static/images/image228.png
+   :align: middle
+   :width: 30
+
+
+Il suffit de cliquer à nouveau sur les boutons pour désactiver le style.
+
+.. note:: Par défaut, l’option «gras» est activée.
+
+
+**Procédure pour chaque type d’éléments**
+
+.. tabularcolumns:: |1|1|
+
++---------------------------------------------------------------------+------------------------------------------------+
+| Bouton                                                              | Ecran                                          |
++=====================================================================+================================================+
+| |symbole| **Dessiner un symbole :**                                 | .. image:: _static/images/image232.png         |
+|                                                                     |                                                |
+| 1. Renseigner les paramètres du symbole                             |                                                |
+|                                                                     |                                                |
+| 2. Cliquer la position du point sur la carte                        |                                                |
+|                                                                     |                                                |
++---------------------------------------------------------------------+------------------------------------------------+
+| |polyligne| **Dessiner une (poly)ligne :**                          | .. image:: _static/images/image235.png         |
+|                                                                     |                                                |
+| 1. Renseigner les paramètres de la (poly)ligne                      |                                                |
+|                                                                     |                                                |
+| 2. Cliquer les différents points de la (poly)ligne                  |                                                |
+|                                                                     |                                                |
+| 3. Double-cliquer pour terminer la (poly)ligne                      |                                                |
+|                                                                     |                                                |
++---------------------------------------------------------------------+------------------------------------------------+
+| |libre| **Dessiner une ligne à main levée :**                       | .. image:: _static/images/image235.png         |
+|                                                                     |                                                |
+| 1. Renseigner les paramètres de la ligne                            |                                                |
+|                                                                     |                                                |
+| 2. Dessiner la ligne sur la carte en restant cliqué pour dessiner   |                                                |
+|                                                                     |                                                |
++---------------------------------------------------------------------+------------------------------------------------+
+| |polygone| **Dessiner un polygone :**                               | .. image:: _static/images/image240.png         |
+|                                                                     |                                                |
+| 1. Renseigner les paramètres du contour et du fond                  |                                                |
+|                                                                     |                                                |
+| 2. Dessiner la ligne sur la carte en restant cliqué pour dessiner   |                                                |
+|                                                                     |                                                |
++---------------------------------------------------------------------+------------------------------------------------+
+| |cercle| **Dessiner un cercle :**                                   | .. image:: _static/images/image240.png         |
+|                                                                     |                                                |
+| 1. Renseigner les paramètres du cercle                              |                                                |
+|                                                                     |                                                |
+| 2. Dessiner la ligne sur la carte en restant cliqué pour dessiner   |                                                |
+|                                                                     |                                                |
++---------------------------------------------------------------------+------------------------------------------------+
+| |texte| **Ajouter un texte :**                                      | .. image:: _static/images/image244.png         |
+|                                                                     |                                                |
+| 1. Renseigner les paramètres du texte                               |                                                |
+|                                                                     |                                                |
+| 2. Cliquer le point d’insertion du texte sur la carte               |                                                |
+|                                                                     |                                                |
++---------------------------------------------------------------------+------------------------------------------------+
+| |editer| **Editer un objet :**                                      | .. image:: _static/images/image257.png         |
+|                                                                     |                                                |
+| ::                                                                  |                                                |
+|                                                                     |                                                |
+|   Cliquer sur l’objet à éditer. En fonction du type d’objet         |                                                |
+|   il est possible de modifier ces paramètres, sa forme,             |                                                |
+|   son orientation, sa position et sa taille.                        |                                                |
+|                                                                     |                                                |
+| |p1| Poignée permettant de déplacer l’objet                         |                                                |
+|                                                                     |                                                |
+| |p2| Poignée permettant de tourner l’objet                          |                                                |
+|                                                                     |                                                |
+| |p3| Poignée permettant d’étirer l’objet                            |                                                |
+|                                                                     |                                                |
+| |p4| Poignée permettant de modifier le point                        |                                                |
+|                                                                     |                                                |
+| |p5| Poignée permettant de rajouter un point                        |                                                |
+|                                                                     |                                                |
+|                                                                     |                                                |
++---------------------------------------------------------------------+------------------------------------------------+
+
+.. |editer| image:: _static/images/image246.gif
+   :align: middle
+   :width: 30
 
-Ce paramètre est spécifique au type d’éléments texte.
+.. |p1| image:: _static/images/image248.jpg
+   :align: middle
+   :width: 30
 
-En cliquant sur ce bouton, le texte devient gras.
+.. |p2| image:: _static/images/image249.jpg
+   :align: middle
+   :width: 30
 
-En cliquant sur ce bouton, le texte devient italique.
+.. |p3| image:: _static/images/image250.jpg
+   :align: middle
+   :width: 30
 
+.. |p4| image:: _static/images/image251.png
+   :align: middle
+   :width: 30
 
+.. |p5| image:: _static/images/image253.png
+   :align: middle
+   :width: 30
 
-Il suffit de cliquer à nouveau sur les boutons pour désactiver le
-style.
 
+.. tip:: Pour supprimer un point: placer le curseur de la souris sur la poignée |p4| puis appuyer sur la touche «suppr» du clavier.
 
 
 
+|suppr_objet| **Supprimer les objets visibles ou l’objet sélectionné**
 
-Par défaut, l’option «gras» est activée.
-
-** **
-
-** **
-
-· ** Procédure pour chaque type d’éléments ** ** **
-
-
-
-Bouton
-
-Ecran
-
-
-
-**Dessiner un symbole: **
-
-1) Renseigner les paramètres du symbole
-
-2) Cliquer la position du point sur la carte
-
-
-
-
-
-
-
-**Dessiner une (poly)ligne: **
-
-1) Renseigner les paramètres de la (poly)ligne
-
-2) Cliquer les différents points de la (poly)ligne
-
-3) Double-cliquer pour terminer la (poly)ligne
-
-
-
-
-
-
-
-**Dessiner une ligne à main levée: **
-
-1) Renseigner les paramètres de la ligne
-
-2) Dessiner la ligne sur la carte en restant cliqué pour dessiner
-
-
-
-
-
-
-
-**Dessiner un polygone: **
-
-1) Renseigner les paramètres du contour et du fond
-
-2) Dessiner la ligne sur la carte en restant cliqué pour dessiner
-
-
-
-
-
-
-
-**Dessiner un cercle: **
-
-1) Renseigner les paramètres du cercle
-
-2) Dessiner le cercle sur la carte en restant cliqué pour dessiner
-
-
-
-
-
-
-
-**Ajouter un texte: **
-
-1) Renseigner les paramètres du texte
-
-2) Cliquer le point d’insertion du texte sur la carte
-
-
-
-
-
-
-
-
-
-**Editer un objet: **
-
-Cliquer sur l’objet à éditer. En fonction du type d’objet il est
-possible de modifier ces paramètres, sa forme, son orientation, sa
-position et sa taille.
-
-Poignée permettant de déplacer l’objet
-
-Poignée permettant de tourner l’objet
-
-Poignée permettant d’étirer l’objet
-
-Poignée permettant de modifier le point
-
-Poignée permettant de rajouter un point
-
-
-
-
-
-Pour supprimer un point: placer le curseur de la souris sur la poignée
-puis appuyer sur la touche «suppr» du clavier.
-
-
-
-
-
-
-
-**Supprimer les objets visibles ou l’objet sélectionné**
-
-Si un objet est sélectionné (au moyen de l’outil « éditer un objet»),
-seul celui-ci sera effacé.
+Si un objet est sélectionné (au moyen de l’outil ``éditer un objet``), seul celui-ci sera effacé.
 
 Sinon tous les objets visibles à l’écran sont effacés.
 
+.. |suppr_objet| image:: _static/images/image259.gif
+   :align: middle
+   :width: 30
 
 
-**Supprimer tous les objets ou l’objet sélectionné**
+|suppr_objets| **Supprimer tous les objets ou l’objet sélectionné**
 
-Si un objet est sélectionné (au moyen de l’outil « éditer un objet»),
-seul celui-ci sera effacé.
+Si un objet est sélectionné (au moyen de l’outil ``éditer un objet``), seul celui-ci sera effacé.
 
 Sinon tous les objets sont effacés.
 
-· ** Export des annotations ** ** **
-
-L’ensemble des annotations apportés sur le portail sont exportables
-dans plusieurs formats.
-
-Il suffit pour cela de cliquer sur le bouton correspondant en bas de
-la fenêtre des options d’annotations.
-
-Export au format kml (compatible avec le logiciel Google Earth),
-
-Export au format gpx (compatible avec les GPS de randonnée grand
-public)
-
-Export au format dxf (compatible avec les logiciels DAO)
+.. |suppr_objets| image:: _static/images/image260.gif
+   :align: middle
+   :width: 30
 
 
+**Export des annotations**
+
+L’ensemble des annotations apportés sur le portail sont exportables dans plusieurs formats.
+
+Il suffit pour cela de cliquer sur le bouton correspondant en bas de la fenêtre des options d’annotations.
+
+|kml| Export au format kml (compatible avec le logiciel Google Earth),
+
+|gpx| Export au format gpx (compatible avec les GPS de randonnée grand public)
+
+|dxf| Export au format dxf (compatible avec les logiciels DAO)
+
+.. |kml| image:: _static/images/image261.gif
+   :align: middle
+   :width: 30
+
+.. |gpx| image:: _static/images/image262.gif
+   :align: middle
+   :width: 30
+
+.. |dxf| image:: _static/images/image263.gif
+   :align: middle
+   :width: 30
+
+.. image:: _static/images/image264.png
+   :align: center
+   :width: 250
 
 
+Affichage de l’aide contextuelle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/images/image142.png
+   :align: center
+   :width: 200
+
+Le volet «Aide» propose des liens vers des documents PDF (le présent guide utilisateur et la documentation technique sur l’API Géofoncier), ainsi qu’un lien «Production du RFU» vers des vidéos tutoriels pour la production topologique des objets RFU.
 
 
+Affichage des coordonnées du curseur de la souris
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/images/image268.png
+   :align: center
+   :width: 400
 
 
+Géofoncier vous permet d’obtenir à tout moment les coordonnées du curseur de votre souris en coordonnées planes (arrondies au mètre) ou géographiques (degrés sexagésimaux arrondis au dixième de seconde).
+
+Les coordonnées s’actualisent au moindre mouvement du curseur sur la carte.
 
 
+.. note:: Les coordonnées ainsi obtenues sont indicatives. Elles résultent d’interpolations mathématiques.
 
-
-
-
-
-
-
-
-
-
-
-
-3.3.5 Affichage de l’aide contextuelle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-Le volet «Aide» propose des liens vers des documents PDF (le présent
-guide utilisateur et la documentation technique sur l’API Géofoncier),
-ainsi qu’un lien «Production du RFU» vers des vidéos tutoriels pour la
-production topologique des objets RFU.
-
-3.3.6 Affichage des coordonnées du curseur de la souris
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-Géofoncier vous permet d’obtenir à tout moment les coordonnées du
-curseur de votre souris en coordonnées planes (arrondies au mètre) ou
-géographiques (degrés sexagésimaux arrondis au dixième de seconde).
-
-Les coordonnées s’actualisent au moindre mouvement du curseur sur la
-carte.
-
-
-
-
-
-Les coordonnées ainsi obtenues sont indicatives. Elles résultent
-d’interpolations mathématiques.
-
-Le choix proposé pour les projections est fonction du territoire
-considéré; dans tous les cas il s’agit des systèmes légaux en vigueur.
+Le choix proposé pour les projections est fonction du territoire considéré; dans tous les cas il s’agit des systèmes légaux en vigueur.
 
 France
 métropolitaine
