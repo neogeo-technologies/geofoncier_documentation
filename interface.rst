@@ -226,7 +226,7 @@ Lorsque vous tentez de faire un glisser-déposer d’une couche de données, une
 
 **Légende de la couche de données**
 
-Pour afficher la légende d’une couche de données, il suffit de cliquersur le nom de la couche pour développer le contenu de la légende. Sur certaines couches détaillées en chap. 6, la légende est accessible uniquement en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+Pour afficher la légende d’une couche de données, il suffit de cliquer sur le nom de la couche pour développer le contenu de la légende. Sur certaines couches détaillées en chap. 6, la légende est accessible uniquement en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
 
 **Informations liées à la couche**
 
@@ -570,8 +570,6 @@ Il suffit de cliquer à nouveau sur les boutons pour désactiver le style.
 
 
 **Procédure pour chaque type d’éléments**
-
-.. tabularcolumns:: |1|1|
 
 +---------------------------------------------------------------------+------------------------------------------------+
 | Bouton                                                              | Ecran                                          |
