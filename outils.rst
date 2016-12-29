@@ -295,12 +295,12 @@ Sélectionner l’outil, puis cliquer sur la carte les extrémités dessegments 
 Un double-clic permet d’arrêter la mesure. Les distances restent alors affichées.
 
 +-------------------------------------------+-------------------------------------------+
-|  .. figure:: _static/images/image378.png  |   .. figure:: _static/images/image380.png |
-|    :align: center                         |     :align: center                        |
-|    :width: 300                            |     :width: 300                           |
+|  .. image:: _static/images/image378.png   |  .. image:: _static/images/image380.png   |
+|    :align: center                         |    :align: center                         |
+|    :width: 300                            |    :width: 300                            |
 |                                           |                                           |
-|    *Situation en cours de digitalisation* |     *Situation finale après double-clic*  |
-|                                           |                                           |
++-------------------------------------------+-------------------------------------------+
+|  *Situation en cours de digitalisation*   |  *Situation finale après double-clic*     |
 +-------------------------------------------+-------------------------------------------+
 
 
@@ -315,12 +315,12 @@ Sélectionner l’outil, puis cliquer sur la carte les sommets de la surface à 
 Un double-clic permet d’arrêter la mesure. Les distances et surfaces restent alors affichées.
 
 +-------------------------------------------+-------------------------------------------+
-|  .. figure:: _static/images/image385.png  |   .. figure:: _static/images/image387.png |
+|  .. image:: _static/images/image385.png   |   .. image:: _static/images/image387.png  |
 |    :align: center                         |     :align: center                        |
 |    :width: 300                            |     :width: 300                           |
 |                                           |                                           |
++-------------------------------------------+-------------------------------------------+
 |    *Situation en cours de digitalisation* |     *Situation finale après double-clic*  |
-|                                           |                                           |
 +-------------------------------------------+-------------------------------------------+
 
 .. note:: Les valeurs arrondies au mètre et au mètre carré données par l’application sont indicatives.
@@ -334,12 +334,12 @@ Sélectionner l’outil, puis cliquer sur la carte le centre du rayon à mesurer
 Un double-clic permet d’arrêter la mesure. Le rayon reste alors affiché.
 
 +-------------------------------------------+-------------------------------------------+
-|  .. figure:: _static/images/image391.png  |   .. figure:: _static/images/image393.png |
+|  .. image:: _static/images/image391.png   |   .. image:: _static/images/image393.png  |
 |    :align: center                         |     :align: center                        |
 |    :width: 300                            |     :width: 300                           |
 |                                           |                                           |
++-------------------------------------------+-------------------------------------------+
 |    *Situation en cours de digitalisation* |     *Situation finale après double-clic*  |
-|                                           |                                           |
 +-------------------------------------------+-------------------------------------------+
 
 .. note:: Les valeurs arrondies au mètre données par l’application sont indicatives.
@@ -387,12 +387,12 @@ Le bouton |btn_perma_marqueur| permet d’ajouter un marqueur au lien
 Pour ajouter un marqueur sur la carte, il suffit de cliquer sur le bouton correspondant et de cliquer à l’endroit souhaité pour le marqueur
 
 +-------------------------------------------+-------------------------------------------+
-|  .. figure:: _static/images/image404.png  |   .. figure:: _static/images/image406.png |
+|  .. image:: _static/images/image404.png   |   .. image:: _static/images/image406.png  |
 |    :align: center                         |     :align: center                        |
 |    :width: 300                            |     :width: 300                           |
 |                                           |                                           |
++-------------------------------------------+-------------------------------------------+
 |    *Positionnement du marqueur*           |     *Marqueur ajouté à la carte*          |
-|                                           |                                           |
 +-------------------------------------------+-------------------------------------------+
 
 Le bouton |btn_del_marqueur| permet d'enlever le marqueur du lien
@@ -682,10 +682,11 @@ Cette barre permet de naviguer aisément parmi les différentes pages de résult
 Pour trier la liste des résultats, il suffit de cliquer sur l’en-tête d’une colonne (tri par numéro de dossier, date de création ou commune).
 
 +-------------------------------------------+-------------------------------------------+
-|  .. figure:: _static/images/image506.png  |   .. figure:: _static/images/image507.png |
+|  .. image:: _static/images/image506.png   |   .. image:: _static/images/image507.png  |
 |    :align: center                         |     :align: center                        |
 |    :width: 200                            |     :width: 200                           |
 |                                           |                                           |
++-------------------------------------------+-------------------------------------------+
 |    *Tri ascendant*                        |     *Tri descendant*                      |
 +-------------------------------------------+-------------------------------------------+
 
@@ -894,16 +895,18 @@ Une fenêtre d’aide s’affiche avant de commencer la saisie.
 
 
 +--------------------------------------------------+---------------------------------------------------+
-|  .. figure:: _static/images/image554.png         |  .. figure:: _static/images/image556.png          |
+|  .. image:: _static/images/image554.png          |  .. image:: _static/images/image556.png           |
 |    :align: center                                |    :align: center                                 |
 |    :width: 200                                   |    :width: 200                                    |
 |                                                  |                                                   |
++--------------------------------------------------+---------------------------------------------------+
 |    *Saisie du polygone d’emprise en cours*       |    *Fin de la saisie du polygone d’emprise*       |
 +--------------------------------------------------+---------------------------------------------------+
-|  .. figure:: _static/images/image558.png         |  .. figure:: _static/images/image560.png          |
+|  .. image:: _static/images/image558.png          |  .. image:: _static/images/image560.png           |
 |    :align: center                                |    :align: center                                 |
 |    :width: 200                                   |    :width: 200                                    |
 |                                                  |                                                   |
++--------------------------------------------------+---------------------------------------------------+
 |    *Saisie du polygone d’emprise à main levée*   |    *Saisie d’un trou dans le polygone d’emprise*  |
 |                                                  |                                                   |
 |    *(avec la touche Maj)*                        |    *(avec la touche Alt)*                         |
