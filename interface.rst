@@ -10,14 +10,14 @@ Géofoncier est une application internet, ainsi l’ensemble du «programme» s�
 
 Les utilisateurs de Géofoncier doivent toujours veiller à respecter les consignes suivantes:
 
-.. image:: _static/images/image102.gif
+.. image:: _static/images/image102.png
    :alt: Attendre
    :width: 200px
    :align: center
 
 Attendre la fin de l’exécution d’une commande avant d’en lancer une autre. Si vous lancez plusieurs commandes à la suite sans laisser le temps à chaque commande de s’exécuter, vous risquez très vite de saturer l’application,
 
-.. image:: _static/images/image104.gif
+.. image:: _static/images/image104.png
    :alt: Pas de double clic
    :width: 200px
    :align: center
@@ -232,7 +232,7 @@ Pour afficher la légende d’une couche de données, il suffit de cliquersur le
 
 Sur certaines couches détaillées en chap. 6, des informations complémentaires sont accessibles uniquement en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
 
-.. |i| image:: _static/images/image167.gif
+.. |i| image:: _static/images/image167.png
    :align: middle
    :width: 15
 
@@ -255,15 +255,15 @@ couches:
 
 |btn_init| >> Réinitialise l’arbre des couches
 
-.. |btn_dev| image:: _static/images/image170.gif
+.. |btn_dev| image:: _static/images/image170.png
    :align: middle
    :width: 40
 
-.. |btn_red| image:: _static/images/image171.gif
+.. |btn_red| image:: _static/images/image171.png
    :align: middle
    :width: 40
 
-.. |btn_init| image:: _static/images/image172.gif
+.. |btn_init| image:: _static/images/image172.png
    :align: middle
    :width: 30
 
@@ -287,7 +287,7 @@ Fonctions de localisation
    :align: center
    :width: 200
 
-.. image:: _static/images/image175.gif
+.. image:: _static/images/image175.png
    :align: right
    :width: 200
 
@@ -305,7 +305,7 @@ Les données exploitées pour permettre la localisation sont les contours commun
 
 **Onglet «Commune»**
 
-.. image:: _static/images/image178.gif
+.. image:: _static/images/image178.png
    :align: right
    :width: 200
 
@@ -313,7 +313,7 @@ L’onglet ``Commune`` permet de centrer la carte sur l’ensemble d’une commu
 
 * Choix d’un département puis d’une commune (les listes se filtrent automatiquement suivant la saisie / possibilité de choisir un département en saisissant son numéro)
 
-.. image:: _static/images/image179.gif
+.. image:: _static/images/image179.png
    :align: right
    :width: 200
 
@@ -324,7 +324,7 @@ OU
 
 La case à cocher ``Afficher la fiche commune`` permet, en plus de la localisation, d’accéder aux informations communales (cf. 5).
 
-.. image:: _static/images/image180.gif
+.. image:: _static/images/image180.png
    :align: center
    :width: 200
 
@@ -332,7 +332,7 @@ Un clic sur le bouton ``Localiser`` adapte alors la position et l’échelle de 
 
 **Onglet «Adresse»**
 
-.. image:: _static/images/image181.gif
+.. image:: _static/images/image181.png
    :align: right
    :width: 200
 
@@ -374,7 +374,7 @@ Un clic sur le bouton ``Localiser`` centre la carte sur la parcelle spécifiée 
 
 **Onglet «Point»**
 
-.. image:: _static/images/image189.gif
+.. image:: _static/images/image189.png
    :align: right
    :width: 200
 
@@ -467,7 +467,7 @@ Pour changer de couleur, il suffit de cliquer sur la couleur orange par défaut 
 
 Un choix de couleur s’affiche. Il suffit alors de cliquer sur la couleur souhaitée.
 
-.. image:: _static/images/image211.gif
+.. image:: _static/images/image211.png
    :align: center
    :width: 220
 
@@ -479,7 +479,9 @@ Une palette de couleur plus large est disponible en cliquant sur ``plus de coule
    :width: 300
 
 
-Il est ainsi possible de définir une couleur par ses composantes RGB, HSV ou son codage hexadécimal [8]_
+Il est possible de définir une couleur par ses composantes RGB, HSV ou son codage hexadécimal
+
+.. note:: Pour plus d’informations à ce sujet : https://fr.wikipedia.org/wiki/Couleur_du_Web
 
 - **Taille :**
 
@@ -639,7 +641,7 @@ Il suffit de cliquer à nouveau sur les boutons pour désactiver le style.
 |                                                                     |                                                |
 +---------------------------------------------------------------------+------------------------------------------------+
 
-.. |editer| image:: _static/images/image246.gif
+.. |editer| image:: _static/images/image246.png
    :align: middle
    :width: 30
 
@@ -674,7 +676,7 @@ Si un objet est sélectionné (au moyen de l’outil ``éditer un objet``), seul
 
 Sinon tous les objets visibles à l’écran sont effacés.
 
-.. |suppr_objet| image:: _static/images/image259.gif
+.. |suppr_objet| image:: _static/images/image259.png
    :align: middle
    :width: 30
 
@@ -685,7 +687,7 @@ Si un objet est sélectionné (au moyen de l’outil ``éditer un objet``), seul
 
 Sinon tous les objets sont effacés.
 
-.. |suppr_objets| image:: _static/images/image260.gif
+.. |suppr_objets| image:: _static/images/image260.png
    :align: middle
    :width: 30
 
@@ -702,15 +704,15 @@ Il suffit pour cela de cliquer sur le bouton correspondant en bas de la fenêtre
 
 |dxf| Export au format dxf (compatible avec les logiciels DAO)
 
-.. |kml| image:: _static/images/image261.gif
+.. |kml| image:: _static/images/image261.png
    :align: middle
    :width: 30
 
-.. |gpx| image:: _static/images/image262.gif
+.. |gpx| image:: _static/images/image262.png
    :align: middle
    :width: 30
 
-.. |dxf| image:: _static/images/image263.gif
+.. |dxf| image:: _static/images/image263.png
    :align: middle
    :width: 30
 
@@ -839,7 +841,7 @@ L’affichage de l’échelle de la carte est dynamique. A chaque changement d�
 Avertissements, contact, mentions légales et CGU
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: _static/images/image278.gif
+.. image:: _static/images/image278.png
    :align: center
    :width: 300
 

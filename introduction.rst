@@ -21,7 +21,7 @@ Le portail Géofoncier permet d’accéder à plusieurs entrepôts de données g
 
 * Accès directs aux données dont l’OGE est le détenteur et le gestionnaire: localisants des dossiers, RFU et Document Cadastraux Anciens.
 
-.. figure:: _static/images/image015.gif
+.. figure:: _static/images/image015.png
    	:alt: Schéma de principe de l’infrastructure Géofoncier
    	:align: center
 

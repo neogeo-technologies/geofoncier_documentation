@@ -16,7 +16,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **Dossier**                            |   **Localisants des dossiers des géomètres-experts**        |
 |                                           |                                                             |
-|  .. image:: _static/images/image692.gif   |   Territoires : Tous                                        |
+|  .. image:: _static/images/image692.png   |   Territoires : Tous                                        |
 |    :align: center                         |                                                             |
 |                                           |   Activée par défaut : OUI                                  |
 |                                           |                                                             |
@@ -26,7 +26,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **RFU**                                |   **Objets du Référentiel Foncier Unifié**                  |
 |                                           |                                                             |
-|  .. image:: _static/images/image693.gif   |   Territoires : Tous                                        |
+|  .. image:: _static/images/image693.png   |   Territoires : Tous                                        |
 |    :align: center                         |                                                             |
 |                                           |   Activée par défaut : OUI                                  |
 |                                           |                                                             |
@@ -36,7 +36,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **Documents Cadastraux**               |   **Localisants des documents cadastraux**                  |
 |                                           |                                                             |
-|  .. image:: _static/images/image694.gif   |   Territoires : Tous                                        |
+|  .. image:: _static/images/image694.png   |   Territoires : Tous                                        |
 |    :align: center                         |                                                             |
 |                                           |   Activée par défaut : OUI                                  |
 |                                           |                                                             |
@@ -62,7 +62,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **Bureaux des géomètres-experts**      |   **Localisants des cabinets de géomètres-experts**         |
 |                                           |                                                             |
-|  .. image:: _static/images/image696.gif   |   Territoires : Tous                                        |
+|  .. image:: _static/images/image696.png   |   Territoires : Tous                                        |
 |    :align: center                         |                                                             |
 |                                           |   Activée par défaut : NON                                  |
 |                                           |                                                             |
@@ -72,7 +72,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **Années des AFR**                     |   **Zonage des aménagements fonciers ruraux par années**    |
 |                                           |                                                             |
-|  .. image:: _static/images/image697.gif   |   Territoires : Métropole                                   |
+|  .. image:: _static/images/image697.png   |   Territoires : Métropole                                   |
 |    :align: center                         |                                                             |
 |                                           |   Activée par défaut : NON                                  |
 |                                           |                                                             |
@@ -82,7 +82,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **Etat de la vectorisation cadastrale**|   **Zonage de l’état des documents cadastraux**             |
 |                                           |                                                             |
-|  .. image:: _static/images/image698.gif   |   Territoires : Tous (sauf Saint-Martin et Saint-Barthélémy)|
+|  .. image:: _static/images/image698.png   |   Territoires : Tous (sauf Saint-Martin et Saint-Barthélémy)|
 |    :align: center                         |                                                             |
 |                                           |   Activée par défaut : NON                                  |
 |                                           |                                                             |
@@ -623,4 +623,4 @@ Interrogeable : NON
 Echelles d’affichage : du 1/1 000 au 1/500 000
 
 
-.. |ico_info| image:: _static/images/image167.gif
+.. |ico_info| image:: _static/images/image167.png

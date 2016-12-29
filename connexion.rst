@@ -304,10 +304,10 @@ Une carte personnelle permet de mémoriser:
 
 Sur chaque carte, le picto |charger| permet de charger une carte préalablement mémorisée et le picto |supprimer| permet de supprimer une carte.
 
-.. |charger| image:: _static/images/image072.gif
+.. |charger| image:: _static/images/image072.png
    :align: middle
    :width: 18
-.. |supprimer| image:: _static/images/image073.gif
+.. |supprimer| image:: _static/images/image073.png
    :align: middle
    :width: 18
 
@@ -319,7 +319,7 @@ Le bouton |sauver| permet de sauvegarde la configuration de la carte actuelle. I
 
 Le bouton |defaut| permet de retrouver la carte actuelle à chaque ouverture de session.
 
-.. |defaut| image:: _static/images/image076.gif
+.. |defaut| image:: _static/images/image076.png
 
 
 Le bouton |projection| permet de mémoriser le choix de la projection pour l’affichage des coordonnées.
@@ -374,7 +374,7 @@ Un compte collaborateur équivaut à un compte géomètre-expert en mode **lectu
 
 Pour rajouter un collaborateur, cliquer sur :
 
-.. image:: _static/images/image092.gif
+.. image:: _static/images/image092.png
    :alt: Ajouter collaborateur
    :align: center
 

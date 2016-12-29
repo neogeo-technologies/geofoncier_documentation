@@ -7,10 +7,10 @@ Lorsque vous souhaitez lancer une commande, il suffit de cliquer sur le bouton q
 
 |inactive| Commande inactive             |active| Commande active
 
-.. |inactive| image:: _static/images/image279.gif
+.. |inactive| image:: _static/images/image279.png
    :align: middle
    :width: 23
-.. |active| image:: _static/images/image280.gif
+.. |active| image:: _static/images/image280.png
    :align: middle
    :width: 23
 
@@ -39,21 +39,21 @@ Outils de navigation
 
 |vue_precedente| ``Vue précédente`` : Permet de revenir à l’emprise de la vue précédente
 
-.. |vue_precedente| image:: _static/images/image287.gif
+.. |vue_precedente| image:: _static/images/image287.png
 
 |zoom_territoire| ``Zoom sur territoire`` : permet de visualiser l’ensemble du territoire
 
-.. |zoom_territoire| image:: _static/images/image288.gif
+.. |zoom_territoire| image:: _static/images/image288.png
 
 |vue_suivante| ``Vue suivante`` : Permet de revenir à l’emprise de la vue suivante
 
-.. |vue_suivante| image:: _static/images/image289.gif
+.. |vue_suivante| image:: _static/images/image289.png
 
 **Déplacement de la carte**
 
 |pan| ``Déplacer la carte`` : permet de déplacer la carte par glisser-déposer
 
-.. |pan| image:: _static/images/image290.gif
+.. |pan| image:: _static/images/image290.png
 
 Il est également possible d’utiliser les flèches directionnelles de votre clavier.
 
@@ -61,7 +61,7 @@ Il est également possible d’utiliser les flèches directionnelles de votre cl
 
 |zoom| ``Zoom sur la carte`` : permet d’augmenter l’échelle de la carte (outil sélectionné par défaut lorsque vous vous connectez sur Géofoncier).
 
-.. |zoom| image:: _static/images/image291.gif
+.. |zoom| image:: _static/images/image291.png
 
 Sélectionner l’outil puis cliquer sur la carte: l’échelle immédiatement supérieure est sélectionnée
 
@@ -71,7 +71,7 @@ Sélectionner l’outil puis dessiner un rectangle sur la carte: l’échelle la
 
 .. tip:: 
 
-	.. image:: _static/images/image295.gif
+	.. image:: _static/images/image295.png
 		:align: right
 
 	Pour dessiner un rectangle de zoom :
@@ -86,7 +86,7 @@ Sélectionner l’outil puis dessiner un rectangle sur la carte: l’échelle la
 
 |zoom_arriere| ``Zoom arrière`` : permet de passer à l’échelle inférieure
 
-.. |zoom_arriere| image:: _static/images/image296.gif
+.. |zoom_arriere| image:: _static/images/image296.png
 
 Sélectionner l’outil : l’échelle immédiatement inférieure est sélectionnée.
 
@@ -196,7 +196,7 @@ Le bouton |btn_doc| permet d’accéder à la liste des documents dématérialis
 
 .. |btn_doc| image:: _static/images/image331.png
 .. |ico_apercu| image:: _static/images/image335.png
-.. |ico_obtenir| image:: _static/images/image337.gif
+.. |ico_obtenir| image:: _static/images/image337.png
 .. image:: _static/images/image333.png
    :align: center
 
@@ -225,7 +225,7 @@ Ce bouton est accessible uniquement si votre structure est détentrice du dossie
 Le bouton |rapport_consultation| vous permet d’éditer un rapport de
 consultation individuel sous la forme d’un fichier PDF.
 
-.. |rapport_consultation| image:: _static/images/image347.gif
+.. |rapport_consultation| image:: _static/images/image347.png
 
 .. image:: _static/images/image348.png
    :align: center
@@ -346,7 +346,7 @@ Un double-clic permet d’arrêter la mesure. Le rayon reste alors affiché.
 
 **Effacer les mesures** |effacer|
 
-.. |effacer| image:: _static/images/image395.gif
+.. |effacer| image:: _static/images/image395.png
 
 
 Cette action permet de supprimer de la carte des mesures qui viennent d’être effectuées.
@@ -493,7 +493,7 @@ Changement de territoire
 
 Un clic sur le bouton |territoire| permet d’afficher une liste déroulante et de sélectionner l’un des 8 territoires gérés par Géofoncier
 
-.. |territoire| image:: _static/images/image436.gif
+.. |territoire| image:: _static/images/image436.png
 
 .. image:: _static/images/image437.png
    :align: center
@@ -531,7 +531,7 @@ Cette commande vous permet de filtrer l’affichage des localisants des dossiers
 
 .. tip:: Pour interroger un dossier (logo), se référer à la section 4.1.3 |logo_dossier| |int_logo_dossier|
 
-.. |logo_dossier| image:: _static/images/image463.gif
+.. |logo_dossier| image:: _static/images/image463.png
 .. |int_logo_dossier| image:: _static/images/image464.jpg
 
 Accès rapide à un de ses dossiers
@@ -570,9 +570,9 @@ La carte se centre sur le polygone d’emprise du dossier ou, à défaut, ses lo
 
 	|dossier_rouge| Lorsque le dossier indiqué n’existe pas dans la base, l’outil «accéder rapidement à un dossier» s’affiche en rouge.
 
-.. |dossier_vert| image:: _static/images/image471.gif
+.. |dossier_vert| image:: _static/images/image471.png
 .. |dossier_orange| image:: _static/images/image472.png
-.. |dossier_rouge| image:: _static/images/image474.gif
+.. |dossier_rouge| image:: _static/images/image474.png
 
 
 Recherche parmi ses dossiers
@@ -631,7 +631,7 @@ Lors de la recherche, les dossiers sont filtrés selon une liste de critères.
 
 L’ensemble des critères de recherches disponibles sont cumulatifs.
 
-.. |calendrier| image:: _static/images/image487.gif 
+.. |calendrier| image:: _static/images/image487.png 
 
 .. note::
 	.. image:: _static/images/image488.png
@@ -645,8 +645,8 @@ Le bouton |btn_rechercher| permet de lancer la recherche parmi vos dossiers
 
 Le bouton |btn_reinit| permet de réinitialiser les critères de recherche
 
-.. |btn_rechercher| image:: _static/images/image490.gif 
-.. |btn_reinit| image:: _static/images/image491.gif 
+.. |btn_rechercher| image:: _static/images/image490.png 
+.. |btn_reinit| image:: _static/images/image491.png 
 
 
 **Navigation dans les pages de résultats**
@@ -808,10 +808,10 @@ Le choix du type d’opération s’effectue de façon intuitive en sélectionna
 
 Vous pouvez ajouter autant de type d’opération que vous souhaitez avec l’icône |icone_ajouter|. Vous pouvez également supprimer un type d’opération avec l’icône |icone_supprimer|. Les opérations à versement obligatoire apparaissent en gras.
 
-.. |icone_ajouter| image:: _static/images/image532.gif 
-.. |icone_supprimer| image:: _static/images/image533.gif 
+.. |icone_ajouter| image:: _static/images/image532.png 
+.. |icone_supprimer| image:: _static/images/image533.png 
 
-.. image:: _static/images/image534.gif
+.. image:: _static/images/image534.png
 	:align: center
    	:width: 200
 
@@ -862,8 +862,8 @@ Cela a pour effet de créer le localisant et d’ouvrir la fiche dossier en mode
 
 * Vous pouvez ajouter / déplacer / modifier / supprimer des localisants avec les icônes |icone_ajouter|, |icone_oeil|, |icone_deplacer| et |icone_supprimer| 
 
-.. |icone_oeil| image:: _static/images/image547.gif 
-.. |icone_deplacer| image:: _static/images/image548.gif 
+.. |icone_oeil| image:: _static/images/image547.png 
+.. |icone_deplacer| image:: _static/images/image548.png 
 
 |icone_ajouter|  Ajout d’un localisant au dossier : la fenêtre se minimise pour vous permettre de cliquer la position du localisant sur la carte.
 
@@ -1228,25 +1228,25 @@ Liens vers d’autres sites web utiles à la profession
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 +--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image638.gif          |   .. image:: _static/images/image639.png  |
+|  .. image:: _static/images/image638.png          |   .. image:: _static/images/image639.png  |
 |                                                  |     :align: center                        |
 |  Serveur Professionnel de Données Cadastrales    |     :width: 300                           |
 |                                                  |                                           |
 |  https://applications.dgfip.finances.gouv.fr/    |                                           |
 +--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image641.gif          |   .. image:: _static/images/image642.png  |
+|  .. image:: _static/images/image641.png          |   .. image:: _static/images/image642.png  |
 |                                                  |     :align: center                        |
 |  Serveur de Consultation du Plan Cadastral       |     :width: 300                           |
 |                                                  |                                           |
 |  http://www.cadastre.gouv.fr/                    |                                           |
 +--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image644.gif          |   .. image:: _static/images/image645.png  |
+|  .. image:: _static/images/image644.png          |   .. image:: _static/images/image645.png  |
 |                                                  |     :align: center                        |
 |  Espace Pro du site de L’OGE                     |     :width: 300                           |
 |                                                  |                                           |
 |  http://extranet.geometre-expert.fr/             |                                           |
 +--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image647.gif          |   .. image:: _static/images/image648.png  |
+|  .. image:: _static/images/image647.png          |   .. image:: _static/images/image648.png  |
 |                                                  |     :align: center                        |
 |  Réseau GNSS Permanent                           |     :width: 300                           |
 |                                                  |                                           |
@@ -1258,7 +1258,7 @@ Liens vers d’autres sites web utiles à la profession
 |                                                  |                                           |
 |  http://www.legifrance.gouv.fr/                  |                                           |
 +--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image654.gif          |   .. image:: _static/images/image655.png  |
+|  .. image:: _static/images/image654.png          |   .. image:: _static/images/image655.png  |
 |                                                  |     :align: center                        |
 |  Portail INERIS                                  |     :width: 300                           |
 |                                                  |                                           |
