@@ -746,144 +746,110 @@ Les coordonnées s’actualisent au moindre mouvement du curseur sur la carte.
 
 Le choix proposé pour les projections est fonction du territoire considéré; dans tous les cas il s’agit des systèmes légaux en vigueur.
 
-France
-métropolitaine
-
-RGF93: Lambert 93
-
-RGF93: CC42
-
-RGF93: CC43
-
-RGF93: CC44
-
-RGF93: CC45
-
-RGF93: CC46
-
-RGF93: CC47
-
-RGF93: CC48
-
-RGF93: CC49
-
-RGF93: CC50
-
-WGS84: coordonnées géographiques
-
-Guyane
-
-RGFG95: UTM Nord fuseau 22
-
-RGFG95: UTM Nord fuseau 21
-
-WGS84: coordonnées géographiques
-
-
-
-Guadeloupe
-Martinique
-Saint-Martin
-Saint-Barthélemy
-
-RRAF: UTM Nord fuseau 20
-
-WGS84: coordonnées géographiques
-
-Réunion
-
-RGR92: UTM Sud fuseau 40
-
-WGS84: coordonnées géographiques
-
-Mayotte
-
-RGM04: UTM Sud fuseau 38
-
-WGS84: coordonnées géographiques
++-----------------------------------+------------------------------------------------+
+| Territoire                        | Projection                                     |
++===================================+================================================+
+| France métropolitaine             | RGF93: Lambert 93                              |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC42                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC43                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC44                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC45                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC46                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC47                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC48                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC49                                    |
+|                                   +------------------------------------------------+
+|                                   | RGF93: CC50                                    |
+|                                   +------------------------------------------------+
+|                                   | WGS84: coordonnées géographiques               |
++-----------------------------------+------------------------------------------------+
+| Guyane                            | RGFG95: UTM Nord fuseau 22                     |
+|                                   +------------------------------------------------+
+|                                   | RGFG95: UTM Nord fuseau 21                     |
+|                                   +------------------------------------------------+
+|                                   | WGS84: coordonnées géographiques               |
++-----------------------------------+------------------------------------------------+
+| * Guadeloupe                      | RRAF: UTM Nord fuseau 20                       |
+| * Martinique                      +------------------------------------------------+
+| * Saint-Martin                    | WGS84: coordonnées géographiques               |
+| * Saint-Barthélemy                |                                                |
++-----------------------------------+------------------------------------------------+
+| Réunion                           | RGR92: UTM Sud fuseau 40                       |
+|                                   +------------------------------------------------+
+|                                   | WGS84: coordonnées géographiques               |
++-----------------------------------+------------------------------------------------+
+| Mayotte                           | RGM04: UTM Sud fuseau 38                       |
+|                                   +------------------------------------------------+
+|                                   | WGS84: coordonnées géographiques               |
++-----------------------------------+------------------------------------------------+
 
 
 
-Pour obtenir les coordonnées d’un point précis de la carte, cliquer
-sur puis cliquer sur le point. Une fenêtre avec les coordonnées du
-point apparait alors.
+Pour obtenir les coordonnées d’un point précis de la carte, cliquer sur |coord_point| puis cliquer sur le point. Une fenêtre avec les coordonnées du point apparait alors.
+
+.. |coord_point| image:: _static/images/image269.jpg
+   :align: middle
+   :width: 20
+
+.. image:: _static/images/image270.png
+   :align: center
 
 
+Affichage du nom de la commune
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Pour les échelles supérieures ou égales au 1/7 500, il est possible de connaitre la commune sur laquelle se situe le centre de la carte.
+
+.. image:: _static/images/image272.png
+   :align: center
+   :width: 400
+
+.. tip:: Un simple clic sur le nom de la commune permet d’accéder facilement à la fenêtre «fiche commune» (cf. 5).
 
 
+Choix de l‘échelle d’affichage de la carte
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
-
-
-3.3.7 Affichage du nom de la commune
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Pour les échelles supérieures ou égales au 1/7 500, il est possible de
-connaitre la commune sur laquelle se situe le centre de la carte.
-
-
-
-
-
-
-
-Un simple clic sur le nom de la commune permet d’accéder facilement à
-la fenêtre «fiche commune» (cf. 5).
-
-3.3.8 Choix de l‘échelle d’affichage de la carte
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Géofoncier propose 15 échelles prédéfinies pour l’affichage des
-données. Elles s’échelonnent du 1/8000000 au 1/500.
+Géofoncier propose 15 échelles prédéfinies pour l’affichage des données. Elles s’échelonnent du 1/8000000 au 1/500.
 
 Il est possible de visualiser les données aux échelles suivantes:
 
+.. image:: _static/images/image275.png
+   :align: center
+   :width: 200
+
+L’affichage de l’échelle de la carte est dynamique. A chaque changement d’échelle provoqué par l’application, l’élément sélectionné dans la liste se met à jour.
+
+.. note:: Au moment de l’ouverture d’une session, l’échelle 1/8 000000 est sélectionné par défaut. Cela ne concerne pas le cas où l’utilisateur a défini une vue par défaut. (cf. 2.5)
+
+.. note:: Les plages d’échelles disponibles peuvent varier en fonction du territoire considéré.
+
+.. attention::  Les échelles proposées dans la liste ne sont pas rigoureuses. Il s’agit d’échelles arrondies dont la valeur exacte est directement liée à la résolution des images fournies par l’API de l’IGN.
 
 
 
+Avertissements, contact, mentions légales et CGU
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: _static/images/image278.gif
+   :align: center
+   :width: 300
 
 
+Trois liens situés en bas à droite de l’interface permettent d’accéder à trois écrans présentant:
 
-L’affichage de l’échelle de la carte est dynamique. A chaque
-changement d’échelle provoqué par l’application, l’élément sélectionné
-dans la liste se met à jour.
+* ``Avertissement`` >> Avertissements généraux sur l’utilisation du portail
 
+* ``Contact`` >> Coordonnées de la hotline
 
+* ``Mentions légales`` >> Mentions légales
 
-Au moment de l’ouverture d’une session, l’échelle 1/8 000000 est
-sélectionné par défaut. Cela ne concerne pas le cas où l’utilisateur a
-défini une vue par défaut. (cf. 2.5)
-
-
-
-
-
-Les plages d’échelles disponibles peuvent varier en fonction du
-territoire considéré.
-
-
-
-
-
-**À SAVOIR: **
-
-** Les échelles proposées dans la liste ne sont pas rigoureuses ** .
-Il s’agit d’échelles arrondies dont la valeur exacte est directement
-liée à la résolution des images fournies par l’API de l’IGN.
-
-
-
-3.3.9 Avertissements, contact, mentions légales et CGU
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-Trois liens situés en bas à droite de l’interface permettent d’accéder
-à trois écrans présentant:
-
-·Avertissement >> Avertissements généraux sur l’utilisation du portail
-
-·Contact >> Coordonnées de la hotline
-
-·Mentions légales >> Mentions légales
-
-·CGU >> Conditions générales d’utilisation du portail
+* ``CGU`` >> Conditions générales d’utilisation du portail
