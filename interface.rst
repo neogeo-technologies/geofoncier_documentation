@@ -818,7 +818,7 @@ Pour les échelles supérieures ou égales au 1/7 500, il est possible de connai
 Choix de l‘échelle d’affichage de la carte
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Géofoncier propose 15 échelles prédéfinies pour l’affichage des données. Elles s’échelonnent du 1/8000000 au 1/500.
+Géofoncier propose 15 échelles prédéfinies pour l’affichage des données. Elles s’échelonnent du 1/8 000 000 au 1/500.
 
 Il est possible de visualiser les données aux échelles suivantes:
 

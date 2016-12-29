@@ -3,17 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Guide utilisateur
-=================
-à destination des géomètres-experts et de leurs collaborateurs
---------------------------------------------------------------
+Guide utilisateur à destination des géomètres-experts et de leurs collaborateurs
+--------------------------------------------------------------------------------
 
 .. image:: _static/images/image012.png
    :alt: Géofoncier : premier portail cartographique du foncier 
    :class: floatingflask
 
 *Avant-propos*
-
 
 Ce document a été rédigé par la SAS Géofoncier pour servir de guide d’utilisation aux personnes appelées à manipuler le portail Géofoncier pour un usage professionnel au sein des structures d’exercice de la profession de géomètre-expert. Il constitue un document de référence régulièrement mis à jour au rythme des évolutions de Géofoncier.
 
@@ -23,12 +20,11 @@ Géofoncier poursuit l’objectif de répondre aux attentes des géomètres-expe
 
 Bonne découverte du portail Géofoncier !
 
-         *L’équipe Géofoncier*
+*L’équipe Géofoncier*
 
-Guide utilisateur
------------------
 
-Sommaire :
+Sommaire
+--------
 
 .. toctree::
    :maxdepth: 2
@@ -43,8 +39,8 @@ Sommaire :
    support
    annexes
 
-Indices and tables
-------------------
+Index et tables
+---------------
 
 * :ref:`genindex`
 * :ref:`modindex`
