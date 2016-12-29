@@ -45,11 +45,10 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 |                                           |   Echelles d’affichage : à partir du 1/30 000               |
 +-------------------------------------------+-------------------------------------------------------------+
 |  .. note::                                                                                              |
-|     Les documents cadastraux numérisés ne sont disponibles à ce jour qu’en                              |
+|     Les documents cadastraux numérisés ne sont disponibles à ce jour qu’en Haute-Garonne,               |
 |                                                                                                         |
-|     Haute-Garonne, en Aveyron, en Lozère, en Haute-Savoie, en Charente-                                 |
+|     en Aveyron, en Lozère, en Haute-Savoie, en Charente-Maritime et dans le Gers.                       |
 |                                                                                                         |
-|     Maritime et dans le Gers.                                                                           |
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **SIG OGE**                            |   Thème regroupant des couches de données produites         |
 |                                           |                                                             |
