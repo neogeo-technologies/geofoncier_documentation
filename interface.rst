@@ -777,10 +777,14 @@ Le choix proposé pour les projections est fonction du territoire considéré; d
 |                                   +------------------------------------------------+
 |                                   | WGS84: coordonnées géographiques               |
 +-----------------------------------+------------------------------------------------+
-| * Guadeloupe                      | RRAF: UTM Nord fuseau 20                       |
-| * Martinique                      +------------------------------------------------+
-| * Saint-Martin                    | WGS84: coordonnées géographiques               |
-| * Saint-Barthélemy                |                                                |
+| Guadeloupe                        | RRAF: UTM Nord fuseau 20                       |
+|                                   |                                                |
+| Martinique                        |                                                |
+|                                   +------------------------------------------------+
+| Saint-Martin                      | WGS84: coordonnées géographiques               |
+|                                   |                                                |
+| Saint-Barthélemy                  |                                                |
+|                                   |                                                |
 +-----------------------------------+------------------------------------------------+
 | Réunion                           | RGR92: UTM Sud fuseau 40                       |
 |                                   +------------------------------------------------+
