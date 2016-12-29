@@ -48,7 +48,6 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
 |     Les documents cadastraux numérisés ne sont disponibles à ce jour qu’en Haute-Garonne,               |
 |                                                                                                         |
 |     en Aveyron, en Lozère, en Haute-Savoie, en Charente-Maritime et dans le Gers.                       |
-|                                                                                                         |
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **SIG OGE**                            |   Thème regroupant des couches de données produites         |
 |                                           |                                                             |
