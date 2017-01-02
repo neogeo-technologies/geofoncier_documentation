@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Guide utilisateur à destination des géomètres-experts et de leurs collaborateurs
---------------------------------------------------------------------------------
+Guide utilisateur
+=================
+
+A destination des géomètres-experts et de leurs collaborateurs
 
 .. image:: _static/images/image012.png
    :alt: Géofoncier : premier portail cartographique du foncier 
@@ -23,8 +25,7 @@ Bonne découverte du portail Géofoncier !
 *L’équipe Géofoncier*
 
 
-Sommaire
---------
+Les différentes sections de la documentation sont accessibles directement.
 
 .. toctree::
    :maxdepth: 2
@@ -38,11 +39,4 @@ Sommaire
    faq
    support
    annexes
-
-Index et tables
----------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
