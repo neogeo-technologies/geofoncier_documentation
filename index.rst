@@ -28,7 +28,7 @@ Bonne découverte du portail Géofoncier !
 Les différentes sections de la documentation sont accessibles directement.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    introduction
    connexion
