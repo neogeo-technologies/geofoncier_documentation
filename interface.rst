@@ -126,7 +126,7 @@ La capture d’écran ci-après situe les différents éléments de l’interfac
 
 
 
-Gestion de l’affichage des couches de données
+Gestion de l'affichage des couches de données
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: _static/images/image134.png

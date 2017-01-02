@@ -7,43 +7,45 @@ Thème Géomètres-Experts
 -----------------------
 
 Ce thème donne accès aux données produites par l’ensemble des géomètres-experts.
-La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1)
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ )
 
 .. image:: _static/images/image690.png
 	:align: center
 
 
-+-------------------------------------------+-------------------------------------------------------------+
-|  * **Dossier**                            |   **Localisants des dossiers des géomètres-experts**        |
-|                                           |                                                             |
-|  .. image:: _static/images/image692.png   |   Territoires : Tous                                        |
-|    :align: center                         |                                                             |
-|                                           |   Activée par défaut : OUI                                  |
-|                                           |                                                             |
-|                                           |   Interrogeable : OUI (cf. 4.1.3)                           |
-|                                           |                                                             |
-|                                           |   Echelles d’affichage : à partir du 1/30 000               |
-+-------------------------------------------+-------------------------------------------------------------+
-|  * **RFU**                                |   **Objets du Référentiel Foncier Unifié**                  |
-|                                           |                                                             |
-|  .. image:: _static/images/image693.png   |   Territoires : Tous                                        |
-|    :align: center                         |                                                             |
-|                                           |   Activée par défaut : OUI                                  |
-|                                           |                                                             |
-|                                           |   Interrogeable : OUI (points) (cf. 4.2.7)                  |
-|                                           |                                                             |
-|                                           |   Echelles d’affichage : à partir du 1/30 000               |
-+-------------------------------------------+-------------------------------------------------------------+
-|  * **Documents Cadastraux**               |   **Localisants des documents cadastraux**                  |
-|                                           |                                                             |
-|  .. image:: _static/images/image694.png   |   Territoires : Tous                                        |
-|    :align: center                         |                                                             |
-|                                           |   Activée par défaut : OUI                                  |
-|                                           |                                                             |
-|                                           |   Interrogeable : OUI (cf. 4.1.3)                           |
-|                                           |                                                             |
-|                                           |   Echelles d’affichage : à partir du 1/30 000               |
-+-------------------------------------------+-------------------------------------------------------------+
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+|  * **Dossier**                            |   **Localisants des dossiers des géomètres-experts**                                                                                        |
+|                                           |                                                                                                                                             |
+|  .. image:: _static/images/image692.png   |   Territoires : Tous                                                                                                                        |
+|    :align: center                         |                                                                                                                                             |
+|                                           |   Activée par défaut : OUI                                                                                                                  |
+|                                           |                                                                                                                                             |
+|                                           |   Interrogeable : OUI (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_ )              |
+|                                           |                                                                                                                                             |
+|                                           |                                                                                                                                             |
+|                                           |                                                                                                                                             |
+|                                           |   Echelles d’affichage : à partir du 1/30 000                                                                                               |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+|  * **RFU**                                |   **Objets du Référentiel Foncier Unifié**                                                                                                  |
+|                                           |                                                                                                                                             |
+|  .. image:: _static/images/image693.png   |   Territoires : Tous                                                                                                                        |
+|    :align: center                         |                                                                                                                                             |
+|                                           |   Activée par défaut : OUI                                                                                                                  |
+|                                           |                                                                                                                                             |
+|                                           |   Interrogeable : OUI (points) (cf. `Consultation attributs RFU <outils.html#consulter-les-attributs-des-sommets-rfu>`_ )                   |
+|                                           |                                                                                                                                             |
+|                                           |   Echelles d’affichage : à partir du 1/30 000                                                                                               |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+|  * **Documents Cadastraux**               |   **Localisants des documents cadastraux**                                                                                                  |
+|                                           |                                                                                                                                             |
+|  .. image:: _static/images/image694.png   |   Territoires : Tous                                                                                                                        |
+|    :align: center                         |                                                                                                                                             |
+|                                           |   Activée par défaut : OUI                                                                                                                  |
+|                                           |                                                                                                                                             |
+|                                           |   Interrogeable : OUI (cf. `Interrogation documents cadastraux <outils.html#interro-da-interrogation-de-la-couche-documents-cadastraux>`_ ) |
+|                                           |                                                                                                                                             |
+|                                           |   Echelles d’affichage : à partir du 1/30 000                                                                                               |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. note:: Les documents cadastraux numérisés ne sont disponibles à ce jour qu'en Haute-Garonne,en Aveyron, en Lozère, en Haute-Savoie, en Charente-Maritime et dans le Gers.
 
@@ -97,15 +99,15 @@ Thème Géodésie
 
 Ce thème donne accès aux données du Service de Géodésie et Nivellement (SGN) de l’IGN.
 
-La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
-.. tip:: Pour accéder aux fiches des points géodésiques et des antennes du RGP, se reporter à la section 4.1.3.
+.. tip:: Pour accéder aux fiches des points géodésiques et des antennes du RGP, se reporter à la section `Interrogation de la couche Géodesie <outils.html#interro-geodesie-interrogation-de-la-couche-geodesie>`_.
 
 Territoires : Tous
 
 Activée par défaut : NON
 
-Interrogeable : OUI (cf. 4.1.3)
+Interrogeable : OUI (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ )
 
 +-------------------------------------------+-------------------------------------------+
 |  .. image:: _static/images/image703.png   |   .. image:: _static/images/image701.png  |
@@ -121,7 +123,7 @@ Thème Risques
 
 Ce thème donne accès à des couches WMS diffusées par le serveur Géorisque du MEEM (http://www.georisques.gouv.fr/).
 
-La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Territoires : Métropole
 
@@ -144,13 +146,13 @@ Thème Environnement
 
 Ce thème donne accès à des couches WMS diffusées par le serveur CARMEN du MEEM (http://carto.ecologie.gouv.fr/)
 
-La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Territoires : Tous
 
 Activée par défaut : NON
 
-Interrogeable : OUI (cf. annexe 2)
+Interrogeable : OUI (cf. `Annexe 2 - Liste des couches de données interrogeables <annexes.html#liste-des-couches-de-donnees-interrogeables>`_)
 
 Echelles d’affichage : du 1/1 000 au 1/1 000 000
 
@@ -172,7 +174,7 @@ Thème Urbanisme
 
 Ce thème donne accès au plans de zonage des PLUi, PLU et Carte Communales diffusées sur le géoportail de l’urbanisme (https://www.geoportail-urbanisme.gouv.fr/).
 
-La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 .. note:: Sur le géoportail de l’urbanisme, les données sont interrogeables et renvoient vers les pièces écrites des documents d’urbanisme.
 
@@ -249,7 +251,7 @@ Thème Topographie IGN
 
 Ce thème donne accès à des couches WMS correspondant à la BD TOPO de l’IGN.
 
-La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Pour la carte marine, la légende est accessible en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
 
@@ -276,7 +278,7 @@ Thème Registre Parcellaire Graphique
 
 Ce thème donne accès au Registre parcellaire graphique (issu des déclarations PAC) pour les années 2007 à 2012.
 
-La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Territoires : Tous sauf Mayotte
 
@@ -301,7 +303,7 @@ Thème Inventaire Forestier National
 
 Ce thème donne accès à l’Inventaire Forestier National produit par l’IGN
 
-La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Territoires : Métropole
 
@@ -334,7 +336,7 @@ Ce thème donne accès à deux informations:
 
 - un état des lieux de l’occupation du sol réalisé par télédétection (programme européen Corine Land Cover) (visible du 1/2 000 000 au 1/60 000)
 
-La légende s’affiche en cliquant sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Territoires : Métropole, Réunion, Guyane, Martinique, Guadeloupe
 
@@ -358,7 +360,7 @@ Thème Protection du patrimoine
 
 Ce thème donne accès à des couches de zonages issues l’Atlas des Patrimoines du Ministère de la Culture et de la communication (http://atlas.patrimoines.culture.fr/).
 
-La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. 3.3.1). 
+La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ). 
 
 .. note:: A la date de rédaction de ce document, des données sont diffusées pour seulement une partie des départements.
 
@@ -482,7 +484,7 @@ Ce thème donne accès aux données issues du Référentiel à Grande Échelle (
 
 Limites administratives issues de la BD Carto. L’épaisseur et la couleur du trait varient en fonction du niveau administratif: région, département, arrondissement, canton et commune.
 
-La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. 3.3.1).
+La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Territoires : Tous (sauf Mayotte et Guyane)
 
@@ -576,7 +578,7 @@ Territoires : Tous (sauf Mayotte et Guyane)
 
 Activée par défaut : OUI avec transparence
 
-Interrogeable : NON mais permet la localisation à la parcelle (cf. section 3.3.3)
+Interrogeable : NON mais permet la localisation à la parcelle (cf. `Fonctions de localisation <interface.html#fonctions-de-localisation>`_)
 
 Echelles d’affichage : à partir du 1/60 000 jusqu’au 1/1 000
 

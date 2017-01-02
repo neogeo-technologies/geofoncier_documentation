@@ -211,7 +211,7 @@ Le bouton |btn_doc| permet d’accéder à la liste des documents dématérialis
 **Si votre structure est détentrice du dossier**, les documents sont consultables en cliquant sur l’icône Obtenir sur la ligne du document souhaité. Le fichier pdf correspondant au document se télécharge dans un nouvel onglet.
 
 
-Le bouton |btn_edit_dossier| permet d’accéder à la fiche dossier détaillée pour compléter / modifier des informations (cf. section 4.2.4)
+Le bouton |btn_edit_dossier| permet d’accéder à la fiche dossier détaillée pour compléter / modifier des informations (cf. `Création de dossier <outils.html#creation-de-dossier>`_ )
 
 .. |btn_edit_dossier| image:: _static/images/image342.png
 
@@ -271,9 +271,9 @@ Sélectionner l’outil puis cliquer sur la carte, les résultats de l’interro
 .. image:: _static/images/image372.png
    :align: center
 
-Il est nécessaire que des couches interrogeables soient actives telles que par exemple une ou plusieurs couches du thème «environnement» (cf. Annexe 2 - Liste des couches de données interrogeables).
+Il est nécessaire que des couches interrogeables soient actives telles que par exemple une ou plusieurs couches du thème «environnement» (cf. `Annexe 2 - Liste des couches de données interrogeables <annexes.html#liste-des-couches-de-donnees-interrogeables>`_).
 
-Il est également possible d’interroger des WMS importés par l’utilisateur par l’outil «Charger une couche WMS», si ces WMS sont interrogeables. (cf. Annexe 1 - Liste de serveurs WMS compatibles avec Géofoncier)
+Il est également possible d’interroger des WMS importés par l’utilisateur par l’outil «Charger une couche WMS», si ces WMS sont interrogeables. (cf. `Annexe 1 - Liste de serveurs WMS compatibles avec Géofoncier <annexes.html#liste-des-couches-de-donnees-interrogeables>`_)
 
 
 Outils de mesures
@@ -446,11 +446,11 @@ Géofoncier dispose d’un connecteur WMS [1]_ vous permettant de charger des co
 |    :width: 300                            |     :width: 300                           |
 +-------------------------------------------+-------------------------------------------+
 
-Après avoir renseigné l’URL d’un serveur WMS (attention à ne pas oublier le ? à la fin de l’URL), il suffit de cliquer sur le bouton «OK» pour lister les couches de données proposées par le serveur. Lors du clic sur le nom d’une couche, une nouvelle couche est ajoutée automatiquement à l’arbre des couches de Géofoncier. Dès lors, cette couche de données est manipulable comme tout autre couche de Géofoncier (cf 3.3.1).
+Après avoir renseigné l’URL d’un serveur WMS (attention à ne pas oublier le ? à la fin de l’URL), il suffit de cliquer sur le bouton «OK» pour lister les couches de données proposées par le serveur. Lors du clic sur le nom d’une couche, une nouvelle couche est ajoutée automatiquement à l’arbre des couches de Géofoncier. Dès lors, cette couche de données est manipulable comme tout autre couche de Géofoncier (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Dans une même session, il est possible de charger ainsi plusieurs couches WMS.
 
-L’accès à la légende de la couche ajoutée se fait en survolant le nom de la couche (cf. 3.3.1)
+L’accès à la légende de la couche ajoutée se fait en survolant le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ )
 
 .. tip:: Seules les couches de données servies en EPSG:4326 (coordonnées géographiques WGS84) ou EPSG:3857 (projection Mercator) peuvent être chargées dans Géofoncier.
 
@@ -529,7 +529,7 @@ Cette commande vous permet de filtrer l’affichage des localisants des dossiers
 .. |filtre3| image:: _static/images/image461.png
 
 
-.. tip:: Pour interroger un dossier (logo), se référer à la section 4.1.3 |logo_dossier| |int_logo_dossier|
+.. tip:: Pour interroger un dossier (logo), se référer à la section `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_  |logo_dossier| |int_logo_dossier|
 
 .. |logo_dossier| image:: _static/images/image463.png
 .. |int_logo_dossier| image:: _static/images/image464.jpg
@@ -545,7 +545,7 @@ Après avoir saisie la référence d’un dossier, quatre cas peuvent se présen
 
 1. Le dossier indiqué existe dans votre base Géofoncier.
 
-La carte se centre sur le polygone d’emprise du dossier ou, à défaut, ses localisants. La fiche d’information du dossier s’affiche (cf. 4.1.3) et le polygone d’emprise du dossier s’affiche s’il en est pourvu.
+La carte se centre sur le polygone d’emprise du dossier ou, à défaut, ses localisants. La fiche d’information du dossier s’affiche (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_ ) et le polygone d’emprise du dossier s’affiche s’il en est pourvu.
 
 2. Le dossier indiqué n’existe pas dans votre base Géofoncier: un message vous en informe.
 
@@ -831,8 +831,10 @@ Cela a pour effet de créer le localisant et d’ouvrir la fiche dossier en mode
 	Nous vous conseillons toutefois de poursuivre la saisie d’informations complémentaires.
 
 .. note:: Il est possible de revenir à cette fiche à tout moment:
-	* Soit par l’ouverture d’un dossier suite à une recherche de dossiers(cf. section 4.2.2).
-	* Soit par le bouton «Modifier ou compléter le dossier» (cf. section 4.1.3).
+
+	* Soit par l’ouverture d’un dossier suite à une recherche de dossiers(cf. `Accès rapide au dossier <outils.html#acces-rapide-a-un-de-ses-dossiers>`_).
+
+	* Soit par le bouton «Modifier ou compléter le dossier» (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_ ).
 
 
 6. Renseigner des informations supplémentaires sur le dossier (onglet Informations):

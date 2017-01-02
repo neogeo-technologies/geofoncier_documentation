@@ -1,7 +1,7 @@
 Présentation du portail Géofoncier
 ==================================
 
-Le portail Géofoncier a été lancé au 40 ème Congrès de l’Ordre desGéomètres-Experts le 23 juin 2010 à Marseille. Son ouverture auxgéomètres-experts date du 1er juillet 2010. Il s’agit de la première Infrastructure nationale de Données Spatiales (IDS) mise en place par une profession libérale en France.
+Le portail Géofoncier a été lancé au 40 ème Congrès de l’Ordre desGéomètres-Experts le 23 juin 2010 à Marseille. Son ouverture aux géomètres-experts date du 1er juillet 2010. Il s’agit de la première Infrastructure nationale de Données Spatiales (IDS) mise en place par une profession libérale en France.
 
 Qu’est-ce que Géofoncier ?
 --------------------------
