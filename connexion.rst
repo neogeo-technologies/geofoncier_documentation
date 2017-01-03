@@ -198,12 +198,12 @@ Si les identifiants rentrés sont incorrects il vous faut vérifier votre numér
 
 Lorsque les informations saisies sont correctes, un écran d’avertissement s’affiche, vous invitant à accepter les conditions d’utilisation du portail Géofoncier (bouton ``Accepter``).
 
-Cet écran apparaît uniquement lors de votre première connexion, l’acceptation de cet écran vaut une fois pour toutes. Vous disposez toutefois de la possibilité de le réafficher par la suite, à tout moment, en cliquant sur le lien ``Avertissement`` (cf. section 3.3.9).
+Cet écran apparaît uniquement lors de votre première connexion, l’acceptation de cet écran vaut une fois pour toutes. Vous disposez toutefois de la possibilité de le réafficher par la suite, à tout moment, en cliquant sur le lien ``Avertissement`` (cf. `Avertissements, contact, mentions légales et CGU <interface.html#avertissements-contact-mentions-legales-et-cgu>`_).
 
 Après avoir lu et accepté les conditions d’utilisation, la connexion au portail Géofoncier sur le territoire ``France métropolitaine`` est automatique.
 
 
-.. note:: Les utilisateurs souhaitant changer de territoire sont invités à prendre connaissance de la procédure à la section 4.1.9.
+.. note:: Les utilisateurs souhaitant changer de territoire sont invités à prendre connaissance de la procédure à la section  `Changement de territoire <outils.html#changement-de-territoire>`_.
 
 
 
@@ -232,7 +232,7 @@ En cas d’oubli du mot de passe, en tant que géomètre-expert, il suffit de cl
    :align: center
 
 
-Une fenêtre pop-up s’affiche et vous invite à renseigner votre numéro de géomètre-expert (à 5 chiffres) ainsi que votre courriel (courriel normalisé transmise par l’OGE sous la forme @geometre-expert.fr). Un nouveau mot de passe vous sera transmis par mail. Ce mot de passe pourra être ensuite changé (cf. section 2.4).
+Une fenêtre pop-up s’affiche et vous invite à renseigner votre numéro de géomètre-expert (à 5 chiffres) ainsi que votre courriel (courriel normalisé transmise par l’OGE sous la forme @geometre-expert.fr). Un nouveau mot de passe vous sera transmis par mail. Ce mot de passe pourra être ensuite changé (cf.  `Gérer son profil utilisateur <connexion.html#gerer-son-profil-utilisateur>`_).
 
 .. image:: _static/images/image058.png
    :width: 400px
@@ -295,7 +295,7 @@ Une carte personnelle permet de mémoriser:
 
 * Les annotations ajoutées à la carte,
 
-* Les éventuelles couches WMS et /ou vectorielles rajoutéesmanuellement (cf. 4.1.7)
+* Les éventuelles couches WMS et /ou vectorielles rajoutées manuellement (cf. `Outil de chargement de couches de données supplémentaires <outils.html#outil-de-chargement-de-couches-de-donnees-supplementaires>`_)
 
 .. image:: _static/images/image070.png
    :alt: Gestion cartes personnelles
@@ -333,7 +333,7 @@ Le bouton |fermer| permet de fermer la fenêtre
 
 .. note:: Vous n’êtes pas limités en nombre de cartes personnelles mémorisables!
 
-.. warning:: Il n’est pas possible de mémoriser les couches vecteur importées manuellement par l’outil ``lecteur KML / GPX`` (cf. 4.1.8).
+.. warning:: Il n’est pas possible de mémoriser les couches vecteur importées manuellement par l’outil ``lecteur KML / GPX`` (cf. `Outil de chargement de fichier vecteur <outils.html#outil-de-chargement-de-fichier-vecteur>`_).
 
 
 Gestion du compte

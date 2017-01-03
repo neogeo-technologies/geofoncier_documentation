@@ -7,7 +7,7 @@ Géofoncier vous permet d’accéder à toute une série d’informations alphan
 
 Pour accéder à ces informations, deux moyens sont à votre disposition :
 
-* Lors d’une localisation d’une commune avec demande d’affichage des informations communale (cf section 3.3.3), une fiche sommaire se charge dans le volet «Résultats». Cette fiche informe du code INSEE de la commune, de son statut, de l’arrondissement, du département, de la région et de la région ordinale de l’OGE à laquelle elle appartient.
+* Lors d’une localisation d’une commune avec demande d’affichage des informations communale (cf. `Fonctions de localisation <interface.html#fonctions-de-localisation>`_), une fiche sommaire se charge dans le volet «Résultats». Cette fiche informe du code INSEE de la commune, de son statut, de l’arrondissement, du département, de la région et de la région ordinale de l’OGE à laquelle elle appartient.
 
 Il suffit alors de cliquer sur le bouton «Ouvrir la fiche commune» pour accéder à des informations complémentaires.
 

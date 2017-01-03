@@ -832,7 +832,7 @@ Cela a pour effet de créer le localisant et d’ouvrir la fiche dossier en mode
 
 .. note:: Il est possible de revenir à cette fiche à tout moment:
 
-	* Soit par l’ouverture d’un dossier suite à une recherche de dossiers(cf. `Accès rapide au dossier <outils.html#acces-rapide-a-un-de-ses-dossiers>`_).
+	* Soit par l’ouverture d’un dossier suite à une recherche de dossiers (cf. `Accès rapide au dossier <outils.html#acces-rapide-a-un-de-ses-dossiers>`_).
 
 	* Soit par le bouton «Modifier ou compléter le dossier» (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_ ).
 

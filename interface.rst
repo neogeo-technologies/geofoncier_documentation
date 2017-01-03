@@ -322,7 +322,7 @@ OU
 * Indication d’un code INSEE: si le code INSEE existe, la commune correspondante s’affiche.
 
 
-La case à cocher ``Afficher la fiche commune`` permet, en plus de la localisation, d’accéder aux informations communales (cf. 5).
+La case à cocher ``Afficher la fiche commune`` permet, en plus de la localisation, d’accéder aux informations communales (cf. `Informations communales <commune.html>`_).
 
 .. image:: _static/images/image180.png
    :align: center
@@ -816,7 +816,7 @@ Pour les échelles supérieures ou égales au 1/7 500, il est possible de connai
    :align: center
    :width: 400
 
-.. tip:: Un simple clic sur le nom de la commune permet d’accéder facilement à la fenêtre «fiche commune» (cf. 5).
+.. tip:: Un simple clic sur le nom de la commune permet d’accéder facilement à la fenêtre «fiche commune» (cf. `Informations communales <commune.html>`_).
 
 
 Choix de l‘échelle d’affichage de la carte
@@ -832,7 +832,7 @@ Il est possible de visualiser les données aux échelles suivantes:
 
 L’affichage de l’échelle de la carte est dynamique. A chaque changement d’échelle provoqué par l’application, l’élément sélectionné dans la liste se met à jour.
 
-.. note:: Au moment de l’ouverture d’une session, l’échelle 1/8 000000 est sélectionné par défaut. Cela ne concerne pas le cas où l’utilisateur a défini une vue par défaut. (cf. 2.5)
+.. note:: Au moment de l’ouverture d’une session, l’échelle 1/8 000000 est sélectionné par défaut. Cela ne concerne pas le cas où l’utilisateur a défini une vue par défaut. (cf. `Gérer ses cartes personnelles <connexion.html#gerer-ses-cartes-personnelles>`_)
 
 .. note:: Les plages d’échelles disponibles peuvent varier en fonction du territoire considéré.
 

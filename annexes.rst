@@ -66,7 +66,7 @@ Liste des couches de données interrogeables
 **Couches du thème Géomètres-Experts**
  - Dossiers
 
- - RFU (cf. section 4.2.7.)
+ - RFU (cf. `Consulter les attributs des sommets RFU <outils.html#consulter-les-attributs-des-sommets-rfu>`_)
 
  - Documents cadastraux
 
