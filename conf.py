@@ -49,7 +49,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Géofoncier'
+project = 'G&eacute;ofoncier'
 copyright = '2017, Geofoncier SAS'
 author = 'Geofoncier SAS'
 
