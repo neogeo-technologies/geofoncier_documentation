@@ -3,6 +3,8 @@ Présentation des différents éléments de l’interface
 
 L’interface du portail Géofoncier a été conçue pour permettre une utilisation aisée du portail. En fonction des droits de l’utilisateur connecté, les fonctionnalités et couches de données accessibles diffèrent. Toutes les descriptions qui suivent s’appliquent aux fonctionnalités et couches de données accessibles aux géomètres-experts.
 
+TEST
+
 Remarques générales sur l’utilisation de l’interface
 ----------------------------------------------------
 
