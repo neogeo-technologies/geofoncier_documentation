@@ -3,7 +3,7 @@ Informations communales
 
 Géofoncier vous permet d’accéder à toute une série d’informations alphanumériques concernant toutes les communes de France.
 
-.. note:: En fonction de la commune considérée, certaines informations peuvent ne pas être disponibles.
+En fonction de la commune considérée, certaines informations peuvent ne pas être disponibles.
 
 Pour accéder à ces informations, deux moyens sont à votre disposition :
 
