@@ -246,7 +246,7 @@ Echelles d’affichage : du 1/30 000 au 1/8 000 000 (pour le 50 000 scan) et du 
 Thème Topographie IGN
 ---------------------
 
-.. image:: _static/images/image736.png
+.. image:: _static/images/image814.png
 	:align: center
 
 Ce thème donne accès à des couches WMS correspondant à la BD TOPO de l’IGN.
