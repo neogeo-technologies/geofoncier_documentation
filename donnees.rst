@@ -211,7 +211,9 @@ Activée par défaut : NON
 
 Interrogeable : NON
 
-Echelles d’affichage : du 1/1 000 au 1/8 000 000 (pour la carte de Cassini) et du 1/15 000 au 1/8 000 000 (pour les cartes minutes état-major).
+Echelles d’affichage : du 1/120 000 au 1/8 000 000 (pour la carte de Capitaine), du 1/1 000 au 1/8 000 000 (pour la carte de Cassini), du 1/15 000 au 1/60 000 (pour la carte du Service Vicinal) et du 1/15 000 au 1/8 000 000 (pour les cartes minutes état-major).
+
+.. note:: La couverture de la carte du Service Vicinal n'est pas complète sur l'ensemble de la France.
 
 +-------------------------------------------+-------------------------------------------+
 |  .. image:: _static/images/image734.png   |   .. image:: _static/images/image732.png  |
