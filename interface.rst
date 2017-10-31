@@ -226,11 +226,11 @@ Lorsque vous tentez de faire un glisser-déposer d’une couche de données, une
 
 **Légende de la couche de données**
 
-Pour afficher la légende d’une couche de données, il suffit de cliquer sur le nom de la couche pour développer le contenu de la légende. Sur certaines couches détaillées en chap. 6, la légende est accessible uniquement en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+Pour afficher la légende d’une couche de données, il suffit de cliquer sur le nom de la couche pour développer le contenu de la légende. Sur certaines couches, la légende est accessible en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
 
 **Informations liées à la couche**
 
-Sur certaines couches détaillées en chap. 6, des informations complémentaires sont accessibles uniquement en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+Sur certaines couches détaillées en chap. 6, des informations complémentaires sont accessibles en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
 
 .. |i| image:: _static/images/image167.png
    :align: middle
