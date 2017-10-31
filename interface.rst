@@ -662,7 +662,7 @@ Il suffit de cliquer à nouveau sur les boutons pour désactiver le style.
    :width: 30
 
 
-.. tip:: Pour supprimer un point: placer le curseur de la souris sur la poignée |p4| puis appuyer sur la touche «suppr» du clavier.
+.. tip:: Pour supprimer un point : placer le curseur de la souris sur la poignée |p4| puis appuyer sur la touche «suppr» du clavier.
 
 
 
