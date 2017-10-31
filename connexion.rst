@@ -10,13 +10,6 @@ Géofoncier fonctionne sur tout ordinateur capable de se connecter à Internet e
 
 Géofoncier s’exécute indifféremment sous environnement PC ou MAC. L’application fonctionne avec les principaux systèmes d’exploitation du marché: Microsoft Windows, Mac OS, Linux (pour ne citer que les plus connus d’entre eux).
 
-Connexion Internet
-^^^^^^^^^^^^^^^^^^
-
-Pour une utilisation optimale de Géofoncier, il est recommandé de disposer d’une connexion de type ADSL avec un débit descendant de 1024k ou plus. Un débit descendant de 512 k semble être le minimum requis pour une utilisation confortable de Géofoncier (temps de chargement acceptable, bonne réactivité de l’application).
-
-Les connexions par modem 56 k transitant par le réseau téléphonique n’offrent pas des temps de chargement suffisamment courts, si bien que l’application manque cruellement de réactivité. Même si théoriquement rien ne s’oppose à utiliser Géofoncier avec ce type de connexion, cela est très vivement déconseillé.
-
 Configuration de l’écran
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
