@@ -15,7 +15,7 @@ Lorsque vous souhaitez lancer une commande, il suffit de cliquer sur le bouton q
    :width: 23
 
 
-Tous les boutons de la barre d’outils sont munis d’une info-bulle: il suffit de positionner le curseur de la souris quelque temps sur un bouton pour provoquer l’affichage d’un message rappelant le rôle de la commande.
+Tous les boutons de la barre d’outils sont munis d’une info-bulle. Il suffit de positionner le curseur de la souris quelque temps sur un bouton pour provoquer l’affichage d’un message rappelant le rôle de la commande.
 
 .. image:: _static/images/image281.png
    :align: center
@@ -25,7 +25,7 @@ Tous les boutons de la barre d’outils sont munis d’une info-bulle: il suffit
 Barre d’outils «standard»
 -------------------------
 
-La barre d’outils «standard» de couleur noire contient les accès aux fonctions de base de l’application: outils de navigation, de mesures, d’annotations, d’interrogation des couches de données.
+La barre d’outils «standard» de couleur noire contient les accès aux fonctions de base de l’application : outils de navigation, de mesures, d’annotations, d’interrogation des couches de données.
 
 .. image:: _static/images/image283bis.png
    :align: center
@@ -37,7 +37,7 @@ Outils de navigation
 
 **Historique des vues**
 
-|vue_precedente| ``Vue précédente`` : Permet de revenir à l’emprise de la vue précédente
+|vue_precedente| ``Vue précédente`` : permet de revenir à l’emprise de la vue précédente
 
 .. |vue_precedente| image:: _static/images/image287.png
 
@@ -45,7 +45,7 @@ Outils de navigation
 
 .. |zoom_territoire| image:: _static/images/image288.png
 
-|vue_suivante| ``Vue suivante`` : Permet de revenir à l’emprise de la vue suivante
+|vue_suivante| ``Vue suivante`` : permet de revenir à l’emprise de la vue suivante
 
 .. |vue_suivante| image:: _static/images/image289.png
 
@@ -63,11 +63,11 @@ Il est également possible d’utiliser les flèches directionnelles de votre cl
 
 .. |zoom| image:: _static/images/image291.png
 
-Sélectionner l’outil puis cliquer sur la carte: l’échelle immédiatement supérieure est sélectionnée
+Sélectionner l’outil puis cliquer sur la carte : l’échelle immédiatement supérieure est sélectionnée
 
 OU
 
-Sélectionner l’outil puis dessiner un rectangle sur la carte: l’échelle la plus adaptée est sélectionnée
+Sélectionner l’outil puis dessiner un rectangle sur la carte : l’échelle la plus adaptée est sélectionnée
 
 .. tip:: 
 
