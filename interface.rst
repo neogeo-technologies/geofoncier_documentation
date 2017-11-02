@@ -668,7 +668,7 @@ Il suffit de cliquer à nouveau sur les boutons pour désactiver le style.
 
 Si un objet est sélectionné (au moyen de l’outil ``éditer un objet``), seul celui-ci sera effacé.
 
-Sinon tous les objets visibles à l’écran sont effacés.
+Sinon, tous les objets visibles à l’écran sont effacés.
 
 .. |suppr_objet| image:: _static/images/image259.png
    :align: middle
@@ -679,7 +679,7 @@ Sinon tous les objets visibles à l’écran sont effacés.
 
 Si un objet est sélectionné (au moyen de l’outil ``éditer un objet``), seul celui-ci sera effacé.
 
-Sinon tous les objets sont effacés.
+Sinon, tous les objets sont effacés.
 
 .. |suppr_objets| image:: _static/images/image260.png
    :align: middle
@@ -740,7 +740,7 @@ Les coordonnées s’actualisent au moindre mouvement du curseur sur la carte.
 
 .. note:: Les coordonnées ainsi obtenues sont indicatives. Elles résultent d’interpolations mathématiques.
 
-Le choix proposé pour les projections est fonction du territoire considéré; dans tous les cas il s’agit des systèmes légaux en vigueur.
+Le choix proposé pour les projections est fonction du territoire considéré. Dans tous les cas, il s’agit des systèmes légaux en vigueur.
 
 +-----------------------------------+------------------------------------------------+
 | Territoire                        | Projection                                     |
