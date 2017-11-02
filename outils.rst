@@ -290,7 +290,7 @@ Une flèche descendante située à droite du bouton vous permet de faire apparai
 
 .. |distance| image:: _static/images/image376.png
 
-Sélectionner l’outil, puis cliquer sur la carte les extrémités dessegments à mesurer. Les distances partielles (en gris) et la distancecumulée (en rouge) s’affichent dynamiquement.
+Sélectionner l’outil, puis cliquer sur la carte les extrémités des segments à mesurer. Les distances partielles (en gris) et la distance cumulée (en rouge) s’affichent dynamiquement.
 
 Un double-clic permet d’arrêter la mesure. Les distances restent alors affichées.
 
