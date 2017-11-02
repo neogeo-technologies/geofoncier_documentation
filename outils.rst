@@ -243,7 +243,7 @@ Sélectionner l’outil puis cliquer sur un point géodésique pour charger sa f
 
 .. attention:: Au moins une des couches du thème «Géodésie» doit être active.
 
-.. note:: Lorsque l’outil «Interroger géodésie» est sélectionnée, un curseur de ce type |cursor_select| apparaît.
+.. note:: Lorsque l’outil «Interroger géodésie» est sélectionné, un curseur de ce type |cursor_select| apparaît.
 
 
 |interro_da| Interrogation de la couche «Documents cadastraux»
@@ -257,7 +257,7 @@ Sélectionner l’outil puis cliquer sur le localisant d’un document cadastral
 
 .. attention:: La couche «Documents cadastraux» du thème «Géomètres-Experts» doit être active.
 
-.. note:: Lorsque l’outil «Interroger documents cadastraux» est sélectionnée, un curseur de ce type |cursor_select| apparaît.
+.. note:: Lorsque l’outil «Interroger documents cadastraux» est sélectionné, un curseur de ce type |cursor_select| apparaît.
 
 
 |interro_wms| Interrogation des «couches interrogeables»
@@ -266,7 +266,7 @@ Sélectionner l’outil puis cliquer sur le localisant d’un document cadastral
 
 Sélectionner l’outil puis cliquer sur la carte, les résultats de l’interrogation s’affichent dans le volet «Résultats».
 
-.. note:: Lorsque l’outil «Interroger couches» est sélectionnée, un curseur de ce type |cursor_select| apparaît.
+.. note:: Lorsque l’outil «Interroger couches» est sélectionné, un curseur de ce type |cursor_select| apparaît.
 
 .. image:: _static/images/image372.png
    :align: center
