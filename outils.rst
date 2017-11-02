@@ -57,7 +57,7 @@ Outils de navigation
 
 Il est également possible d’utiliser les flèches directionnelles de votre clavier.
 
-** Zoom avant / Zoom arrière **
+**Zoom avant / Zoom arrière**
 
 |zoom| ``Zoom sur la carte`` : permet d’augmenter l’échelle de la carte (outil sélectionné par défaut lorsque vous vous connectez sur Géofoncier).
 
