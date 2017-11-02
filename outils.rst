@@ -541,7 +541,7 @@ Accès rapide à un de ses dossiers
 
 .. |acces_rapide| image:: _static/images/image465.png
 
-Après avoir saisie la référence d’un dossier, quatre cas peuvent se présenter à vous:
+Après avoir saisi la référence d’un dossier, quatre cas peuvent se présenter à vous:
 
 1. Le dossier indiqué existe dans votre base Géofoncier.
 
