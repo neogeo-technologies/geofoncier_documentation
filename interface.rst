@@ -662,6 +662,7 @@ Il suffit de cliquer à nouveau sur les boutons pour désactiver le style.
 
 .. tip:: Pour supprimer un point : placer le curseur de la souris sur la poignée |p4| puis appuyer sur la touche «suppr» du clavier.
 
+.. tip:: En fonction du type d'objet, il est possible de modifier sa forme, son orientation, sa position et sa taille.
 
 
 |suppr_objet| **Supprimer les objets visibles ou l’objet sélectionné**
