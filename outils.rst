@@ -424,7 +424,7 @@ Lorsque vous cliquez sur «Imprimer», une barre de progression apparaît le tem
 .. image:: _static/images/image417.png
    :align: center
 
-L’emprise de la zone à imprimer peut être ajustée à l’écran en déplaçant le rectangle de prévisualisation. Pour cela il convient de cliquer à l’intérieur du rectangle, et en maintenant le clic gauche, de déplacer le rectangle dans la zone souhaitée. La modification de l’échelle met à jour instantanément le cadre de prévisualisation.
+L’emprise de la zone à imprimer peut être ajustée à l’écran en déplaçant le rectangle de prévisualisation. Pour cela, il convient de cliquer à l’intérieur du rectangle, et en maintenant le clic gauche, de déplacer le rectangle dans la zone souhaitée. La modification de l’échelle met à jour instantanément le cadre de prévisualisation.
 
 
 Outil de chargement de couches de données supplémentaires
