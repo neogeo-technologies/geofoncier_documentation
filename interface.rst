@@ -827,7 +827,7 @@ Il est possible de visualiser les données aux échelles suivantes:
    :align: center
    :width: 200
 
-L’affichage de l’échelle de la carte est dynamique. A chaque changement d’échelle provoqué par l’application, l’élément sélectionné dans la liste se met à jour.
+L’affichage de l’échelle de la carte est dynamique. À chaque changement d’échelle provoqué par l’application, l’élément sélectionné dans la liste se met à jour.
 
 .. note:: Au moment de l’ouverture d’une session, l’échelle 1/8 000000 est sélectionné par défaut. Cela ne concerne pas le cas où l’utilisateur a défini une vue par défaut. (cf. `Gérer ses cartes personnelles <connexion.html#gerer-ses-cartes-personnelles>`_)
 
