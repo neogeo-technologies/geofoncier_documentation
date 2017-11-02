@@ -701,9 +701,9 @@ Il est également possible de choisir directement l’ordre de tri à appliquer 
 
 **Actions sur les résultats**
 
-Le bouton |ouvrir_dossier| permet d’éditer un dossier après l’avoir sélectionné
+Le bouton |ouvrir_dossier| permet d’éditer un dossier après l’avoir sélectionné.
 
-Le bouton |supprime_dossier| permet de supprimer un dossier sélectionné après avoir passé l’avertissement
+Le bouton |supprime_dossier| permet de supprimer un dossier sélectionné après avoir passé l’avertissement.
 
 .. |ouvrir_dossier| image:: _static/images/image512.png 
 .. |supprime_dossier| image:: _static/images/image514.png 
@@ -853,7 +853,7 @@ Cela a pour effet de créer le localisant et d’ouvrir la fiche dossier en mode
 
 
 
-.. tip:: Dans le cas de division parcellaire, Géofoncier ne fait pas de distinction entre les parcelles «mères» et les parcelles «filles»; il est recommandé de les saisir indifféremment.
+.. tip:: Dans le cas de division parcellaire, Géofoncier ne fait pas de distinction entre les parcelles «mères» et les parcelles «filles». Il est recommandé de les saisir indifféremment.
 
 .. image:: _static/images/image543.png
 	:align: right
@@ -946,13 +946,13 @@ Pour supprimer un polygone, cliquer sur le bouton, puis cliquer sur le polygone 
 	:align: center
    	:width: 250
 
-.. tip:: La notion de polygone d’emprise est particulièrement adaptée pour les opérations d’aménagements (lotissements ) ou pour les opérations topographiques (étendue d’un plan topographique...)
+.. tip:: La notion de polygone d’emprise est particulièrement adaptée pour les opérations d’aménagements (lotissements, ZAC..) ou pour les opérations topographiques (étendue d’un plan topographique...)
 
 |load_emprise| **Chargement du polygone d’emprise**
 
 .. |load_emprise| image:: _static/images/image572.png 
 
-(le bouton apparaît lorsque vous ouvrez un dossier contenant un polygone d’emprise)
+Ce bouton apparaît lorsque vous ouvrez un dossier contenant un polygone d’emprise.
 
 * Enfin, il est possible de renseigner un mémo.
 
@@ -1192,7 +1192,7 @@ Géofoncier permet de géolocaliser des documents PDF issus de campagnes de num�
 
 .. note:: Pour utiliser cette fonction, vous devez être accrédité par Géofoncier SAS.
 
-Dans la première fenêtre qui apparait, vous devez choisir une couche de donnée à éditer. Seules les couches pour lesquelles vous êtes accrédités sont disponibles.
+Dans la première fenêtre qui apparait, vous devez choisir une couche de données à éditer. Seules les couches pour lesquelles vous êtes accrédités sont disponibles.
 
 .. image:: _static/images/image628.png
 	:align: center
