@@ -230,7 +230,7 @@ Pour afficher la légende d’une couche de données, il suffit de cliquer sur l
 
 **Informations liées à la couche**
 
-Sur certaines couches détaillées en chap. 6, des informations complémentaires sont accessibles en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+Sur certaines couches, des informations complémentaires sont accessibles en cliquant sur l’icône |i| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
 
 .. |i| image:: _static/images/image167.png
    :align: middle
