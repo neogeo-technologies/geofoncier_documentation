@@ -501,7 +501,7 @@ Un clic sur le bouton |territoire| permet d’afficher une liste déroulante et 
 
 Géofoncier mémorise systématiquement le territoire que vous «visitez». Si vous changez de territoire et vous déconnectez, vous le retrouverez à votre prochaine connexion.
 
-.. attention:: Dans l’hypothèse où votre compte Géofoncier est utilisé par plusieurs personnes simultanément, si l’une d’entre elles change de territoire, les autres utilisateurs constateront des disfonctionnements.
+.. attention:: Dans l’hypothèse où votre compte Géofoncier est utilisé par plusieurs personnes simultanément, si l’une d’entre elles change de territoire, les autres utilisateurs constateront des dysfonctionnements.
 
 
 Barre d’outils «géomètre-expert»
