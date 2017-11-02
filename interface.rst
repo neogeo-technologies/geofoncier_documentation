@@ -620,8 +620,9 @@ Il suffit de cliquer à nouveau sur les boutons pour désactiver le style.
 +---------------------------------------------------------------------+------------------------------------------------+
 | |editer| **Editer un objet :**                                      | .. image:: _static/images/image257.png         |
 |                                                                     |                                                |
-|   Cliquer sur l’objet à éditer. En fonction du type d’objet         |                                                |
-|   il est possible de modifier ces paramètres, sa forme,             |                                                |
+|   Cliquer sur l’objet à éditer.         			      |                                                |
+|   En fonction du type d’objet, il est possible de modifier          |                                                |     
+|   ces paramètres : sa forme,					      |                                                |
 |   son orientation, sa position et sa taille.                        |                                                |
 |                                                                     |                                                |
 | |p1| Poignée permettant de déplacer l’objet                         |                                                |
