@@ -350,21 +350,17 @@ En cliquant sur ``Payer ma redevance / Obtenir ma facture``, il est possible de 
    :alt: Etat paiement
    :align: center
 
-
-Gestion des comptes collaborateurs
+Création des comptes collaborateurs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Depuis la version 16.06, il est possible (et même recommandé) de créer des comptes spécifiques pour les collaborateurs.
 
 Les collaborateurs disposent de leurs identifiants et mots de passe propres. 
-Il est possible de ne leur fournir que la lecture seule des dossiers, mais aussi de leur donner les droits à la création, à la modification et à la suppression d’objets RFU, ainsi que les droits à la création, modification et suppression de dossiers.
 
 .. image:: _static/images/image089.png
    :alt: Tableau collaborateurs
    :align: center
-
-Un compte collaborateur équivaut à un compte géomètre-expert en mode **lecture seule**.
-
+   
 Pour rajouter un collaborateur, cliquer sur :
 
 .. image:: _static/images/image092.png
@@ -376,8 +372,63 @@ Un formulaire à renseigner s’affiche ensuite :
 .. image:: _static/images/image093.png
    :alt: Nouveau collaborateur
    :align: center
+   
+Un message de confirmation s'affiche.
+
+.. image:: _static/images/image815.png
+   :alt: Nouveau collaborateur
+   :align: center
+   
+Le collaborateur apparaît dans la liste "Mes collaboteurs" avec ses informations associées.
+
+.. image:: _static/images/image816.png
+   :alt: Nouveau collaborateur
+   :align: center
+
+Le collaborateur peut utiliser dorénavant les identifiants et mot de passe renseignés pour se connecter au portail.
 
 Il est toujours possible de modifier et de supprimer un compte collaborateur.
+
+Gestion des comptes collaborateurs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Par défaut, le compte collaborateur n'a pas de droit de gestion des dossiers et des objets RFU. Un cadenas s'affiche.
+
+.. image:: _static/images/image817.png
+   :alt: Nouveau collaborateur
+   :align: center
+
+Il est possible de ne fournir aux collaborateurs que la lecture seule des dossiers, mais aussi de leur donner les droits à la création, à la modification et à la suppression d’objets RFU, ainsi que les droits à la création, modification et suppression de dossiers.
+
+Pour donner le droit de création, de modification ou de suppression de dossiers et/ou d'objets RFU, cliquer sur le cadenas. Un message de confirmation s'affiche.
+
+.. image:: _static/images/image820.png
+   :alt: Nouveau collaborateur
+   :align: center
+
+.. image:: _static/images/image821.png
+   :alt: Nouveau collaborateur
+   :align: center
+   
+Dans le tableau "Mes collaborateurs", un cadenas indique que le collaborateur n'a pas de droits pour la fonction associée. Un symbole validation indique que l'utilisateur a les droits pour la fonction associée.
+
+.. image:: _static/images/image818.png
+   :alt: Nouveau collaborateur
+   :align: left
+
+.. image:: _static/images/image819.png
+   :alt: Nouveau collaborateur
+   :align: right
+
+Pour supprimer le droit de création, de modification ou de suppression de dossiers et/ou d'objets RFU, cliquer sur le symbole validation. Un message de confirmation s'affiche.
+
+.. image:: _static/images/image822.png
+   :alt: Nouveau collaborateur
+   :align: center
+
+.. image:: _static/images/image823.png
+   :alt: Nouveau collaborateur
+   :align: center
 
 Se déconnecter
 --------------
