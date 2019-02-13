@@ -412,20 +412,10 @@ Pour donner le droit de création, de modification ou de suppression de dossiers
    
 Dans le tableau "Mes collaborateurs", un cadenas indique que le collaborateur n'a pas de droits pour la fonction associée. Un symbole validation indique que l'utilisateur a les droits pour la fonction associée.
 
-
 +-------------------------------------------+-------------------------------------------+
 |  .. image:: _static/images/image818.png   |   .. image:: _static/images/image819.png  |
-|    :align: center                         |     :align: center                        |
-|    		                            |                           		|
+|    :align: center                         |     :align: center                        |                        
 +-------------------------------------------+-------------------------------------------+
-
-.. image:: _static/images/image818.png
-   :alt: Pas de droit dossier
-   :align: left
-
-.. image:: _static/images/image819.png
-   :alt: Droit dossier
-   :align: right
 
 Pour supprimer le droit de création, de modification ou de suppression de dossiers et/ou d'objets RFU, cliquer sur le symbole validation. Un message de confirmation s'affiche.
 
