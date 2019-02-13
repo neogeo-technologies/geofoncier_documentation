@@ -351,7 +351,7 @@ En cliquant sur ``Payer ma redevance / Obtenir ma facture``, il est possible de 
    :align: center
 
 Création des comptes collaborateurs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Depuis la version 16.06, il est possible (et même recommandé) de créer des comptes spécifiques pour les collaborateurs.
 
@@ -432,7 +432,7 @@ Se déconnecter
 
 Pour se déconnecter du portail Géofoncier, il suffit de cliquer sur le lien ``Déconnexion`` situé à droite du bandeau noir de la partie noire de la barre d’outils.
 
-.. image:: _static/images/image096bis.png
+.. image:: _static/images/image824.png
    :alt: Se déconnecter
    :align: center
 
