@@ -356,14 +356,14 @@ Gestion des comptes collaborateurs
 
 Depuis la version 16.06, il est possible (et même recommandé) de créer des comptes spécifiques pour les collaborateurs.
 
-Les collaborateurs disposent de leurs identifiants et mots de passe propres. Il n'ont pas accès à la création, à la modification et à la suppression d’objets RFU, ni à la création, modification et suppression de dossiers (y compris l’import de pièces jointes).
+Les collaborateurs disposent de leurs identifiants et mots de passe propres. 
+Il est possible de ne leur fournir que la lecture seule des dossiers, mais aussi de leur donner les droits à la création, à la modification et à la suppression d’objets RFU, ainsi que les droits à la création, modification et suppression de dossiers.
 
 .. image:: _static/images/image089.png
    :alt: Tableau collaborateurs
    :align: center
 
 Un compte collaborateur équivaut à un compte géomètre-expert en mode **lecture seule**.
-
 
 Pour rajouter un collaborateur, cliquer sur :
 
@@ -377,8 +377,7 @@ Un formulaire à renseigner s’affiche ensuite :
    :alt: Nouveau collaborateur
    :align: center
 
-Il est toujours possible de modifier et de supprimer un compte
-collaborateur.
+Il est toujours possible de modifier et de supprimer un compte collaborateur.
 
 Se déconnecter
 --------------
