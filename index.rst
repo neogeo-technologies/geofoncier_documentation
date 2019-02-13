@@ -22,10 +22,7 @@ Géofoncier poursuit l’objectif de répondre aux attentes des géomètres-expe
 
 Bonne découverte du portail Géofoncier !
 
-*L’équipe Géofoncier*
-
-<br/>
-<br/>
+*L’équipe Géofoncier*  
 
 Les différentes sections de la documentation sont accessibles directement via le sommaire ci-dessous.
 
