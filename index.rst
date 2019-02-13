@@ -12,7 +12,7 @@ Guide utilisateur
    :alt: Géofoncier : premier portail cartographique du foncier 
    :class: floatingflask
 
-*Avant-propos*
+***Avant-propos***
 
 Ce document a été rédigé par la SAS Géofoncier pour servir de guide d’utilisation aux personnes appelées à manipuler le portail Géofoncier pour un usage professionnel au sein des structures d’exercice de la profession de géomètre-expert. Il constitue un document de référence régulièrement mis à jour au rythme des évolutions de Géofoncier.
 
