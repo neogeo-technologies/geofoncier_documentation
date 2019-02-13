@@ -6,7 +6,7 @@ L’interface du portail Géofoncier a été conçue pour permettre une utilisat
 Remarques générales sur l’utilisation de l’interface
 ----------------------------------------------------
 
-Géofoncier est une application internet, ainsi l’ensemble du «programme» s’exécute dans une unique page web. Il n’est pas inutile de rappeler ici que l’utilisateur doit toujours garder à l’esprit que Géofoncier n’est pas un logiciel. L’application ne sera ainsi jamais aussi réactive qu’un logiciel de bureautique ou de DAO installé sur votre poste.
+Géofoncier est une application internet. Ainsi, l’ensemble du «programme» s’exécute dans une unique page web. Il n’est pas inutile de rappeler ici que l’utilisateur doit toujours garder à l’esprit que Géofoncier n’est pas un logiciel. L’application ne sera ainsi jamais aussi réactive qu’un logiciel de bureautique ou de DAO installé sur votre poste.
 
 Les utilisateurs de Géofoncier doivent toujours veiller à respecter les consignes suivantes:
 
@@ -15,14 +15,14 @@ Les utilisateurs de Géofoncier doivent toujours veiller à respecter les consig
    :width: 200px
    :align: center
 
-Attendre la fin de l’exécution d’une commande avant d’en lancer une autre. Si vous lancez plusieurs commandes à la suite sans laisser le temps à chaque commande de s’exécuter, vous risquez très vite de saturer l’application,
+Attendre la fin de l’exécution d’une commande avant d’en lancer une autre. Si vous lancez plusieurs commandes à la suite sans laisser le temps à chaque commande de s’exécuter, vous risquez très vite de saturer l’application.
 
 .. image:: _static/images/image104.png
    :alt: Pas de double clic
    :width: 200px
    :align: center
 
-Ne jamais utiliser le double-clic sauf dans de très rares cas,
+Ne jamais utiliser le double-clic sauf dans de très rares cas.
 
 .. image:: _static/images/image107bis.png
    :alt: Pas de retour
@@ -32,7 +32,7 @@ Ne jamais utiliser le double-clic sauf dans de très rares cas,
 Ne jamais utiliser les boutons «suivant» et/ou «précédent» de votre navigateur. Toute l’application fonctionne dans une seule et même page web.
 
 
-Comme toute application, Géofoncier n’est pas infaillible ! Dans l’hypothèse où l’application semble «bloquée», la meilleure solution consiste à cliquer sur le bouton ``Actualiser`` de votre navigateur.
+Comme toute application, Géofoncier n’est pas infaillible ! Dans l’hypothèse où l’application semble «bloquée», la meilleure solution consiste à cliquer sur le bouton ``Actualiser`` de votre navigateur, ou de faire la combinaison des touches ``Ctrl + F5``.
 
 .. note:: Le bouton «actualiser» se situe à proximité de la barre d’adresse de votre navigateur:
 
@@ -294,14 +294,6 @@ Fonctions de localisation
 Le volet ``Localiser`` vous permet de positionner la carte à un endroit précis. Il est possible de se localiser sur une commune, sur une section ou parcelle cadastrale, sur une adresse ou un toponyme, ou un point.
 
 Les données exploitées pour permettre la localisation sont les contours communaux et les localisants de la BD Parcellaire (IGN).
-
-
-.. attention:: Certains territoires ne proposent pas tous les types de localisation:
-
-	* pas de localisation à la commune sur Saint-Martin et Saint-Barthélemy (commune unique)
-
-	* pas de localisation à la parcelle cadastrale à Mayotte (absence de BD Parcellaire)
-
 
 **Onglet «Commune»**
 
