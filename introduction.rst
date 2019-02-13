@@ -1,7 +1,7 @@
 Présentation du portail Géofoncier
 ==================================
 
-Le portail Géofoncier a été lancé au 40 ème Congrès de l’Ordre desGéomètres-Experts le 23 juin 2010 à Marseille. Son ouverture aux géomètres-experts date du 1er juillet 2010. Il s’agit de la première Infrastructure nationale de Données Spatiales (IDS) mise en place par une profession libérale en France.
+Le portail Géofoncier a été lancé au 40 ème Congrès de l’Ordre des Géomètres-Experts le 23 juin 2010 à Marseille. Son ouverture aux géomètres-experts date du 1er juillet 2010. Il s’agit de la première Infrastructure nationale de Données Spatiales (IDS) mise en place par une profession libérale en France.
 
 Qu’est-ce que Géofoncier ?
 --------------------------
@@ -70,7 +70,7 @@ Le retour d’expérience du prototype e-Foncier a permis à l’OGE de rédiger
 Accès au portail Géofoncier
 ---------------------------
 
-Il est nécessaire de s’identifier pour accéder au portail Géofoncier.
+Il est nécessaire de s’identifier pour accéder au portail Géofoncier. 
 
 Néanmoins, sur la page d’accueil, une carte interactive dite «viewer INSPIRE» à destination du grand public permet la visualisation d’un certain nombre de données sans connexion préalable. Cette carte est visible depuis la page d’accueil du site Géofoncier [5]_.
 
@@ -98,7 +98,7 @@ Le portail Géofoncier est interconnecté avec d’autres portails nationaux tel
 La SAS Géofoncier
 -----------------
 
-Pour permettre le portage, la gestion et l’exploitation commerciale du portail Géofoncier, l’OGE a créé en avril 2010 la SAS Géofoncier. Georges Coudert, géomètre-expert honoraire cofondateur du Plan National Numérique en 1992, en est actuellement le président.
+Pour permettre le portage, la gestion et l’exploitation commerciale du portail Géofoncier, l’OGE a créé en avril 2010 la SAS Géofoncier. Joël PIEGAY, géomètre-expert honoraire, en est actuellement le président.
 
 Le comité de contrôle de la SAS Géofoncier est composé de six géomètres-experts dont trois membres du Conseil Supérieur. Il garantit à la fois la collégialité et la réactivité dans les prises de décision tout en permettant à l’OGE de conserver la maîtrise du projet.
 
