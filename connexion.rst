@@ -344,7 +344,7 @@ Affichage de la facture en ligne
    :alt: Ma facture
    :align: center
 
-En cliquant sur ``Payer ma redevance / Obtenir ma facture``, il est possible de connaître l’état de paiement de la facture, et de télécharger la facture de l’année en cours.
+En cliquant sur ``Payer ma redevance / Obtenir ma facture``, il est possible de connaître l’état de paiement de la facture, et de télécharger la facture de l’année en cours, en cliquant sur le logo pdf.
 
 .. image:: _static/images/image087.png
    :alt: Etat paiement
