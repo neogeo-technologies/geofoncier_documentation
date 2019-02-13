@@ -24,6 +24,7 @@ Bonne découverte du portail Géofoncier !
 
 *L’équipe Géofoncier*
 
+
 Les différentes sections de la documentation sont accessibles directement via le sommaire ci-dessous.
 
 La documentation est également disponible au format PDF ici : http://readthedocs.org/projects/geofoncier/downloads/pdf/latest/
