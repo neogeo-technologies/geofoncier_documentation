@@ -376,13 +376,13 @@ Un formulaire à renseigner s’affiche ensuite :
 Un message de confirmation s'affiche.
 
 .. image:: _static/images/image815.png
-   :alt: Nouveau collaborateur
+   :alt: Nouveau collaborateur confirmation
    :align: center
    
 Le collaborateur apparaît dans la liste "Mes collaboteurs" avec ses informations associées.
 
 .. image:: _static/images/image816.png
-   :alt: Nouveau collaborateur
+   :alt: Info collaborateur
    :align: center
 
 Le collaborateur peut utiliser dorénavant les identifiants et mot de passe renseignés pour se connecter au portail.
@@ -395,7 +395,7 @@ Gestion des comptes collaborateurs
 Par défaut, le compte collaborateur n'a pas de droit de gestion des dossiers et des objets RFU. Un cadenas s'affiche.
 
 .. image:: _static/images/image817.png
-   :alt: Nouveau collaborateur
+   :alt: Sans droit collaborateur
    :align: center
 
 Il est possible de ne fournir aux collaborateurs que la lecture seule des dossiers, mais aussi de leur donner les droits à la création, à la modification et à la suppression d’objets RFU, ainsi que les droits à la création, modification et suppression de dossiers.
@@ -403,31 +403,31 @@ Il est possible de ne fournir aux collaborateurs que la lecture seule des dossie
 Pour donner le droit de création, de modification ou de suppression de dossiers et/ou d'objets RFU, cliquer sur le cadenas. Un message de confirmation s'affiche.
 
 .. image:: _static/images/image820.png
-   :alt: Nouveau collaborateur
+   :alt: Ajout droit dossier collaborateur
    :align: center
 
 .. image:: _static/images/image821.png
-   :alt: Nouveau collaborateur
+   :alt: Ajout droit RFU collaborateur
    :align: center
    
 Dans le tableau "Mes collaborateurs", un cadenas indique que le collaborateur n'a pas de droits pour la fonction associée. Un symbole validation indique que l'utilisateur a les droits pour la fonction associée.
 
 .. image:: _static/images/image818.png
-   :alt: Nouveau collaborateur
+   :alt: Pas de droit dossier
    :align: left
 
 .. image:: _static/images/image819.png
-   :alt: Nouveau collaborateur
+   :alt: Droit dossier
    :align: right
 
 Pour supprimer le droit de création, de modification ou de suppression de dossiers et/ou d'objets RFU, cliquer sur le symbole validation. Un message de confirmation s'affiche.
 
 .. image:: _static/images/image822.png
-   :alt: Nouveau collaborateur
+   :alt: Suppression droit dossier collaborateur
    :align: center
 
 .. image:: _static/images/image823.png
-   :alt: Nouveau collaborateur
+   :alt: Suppression droit dossier RFU
    :align: center
 
 Se déconnecter
