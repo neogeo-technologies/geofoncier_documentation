@@ -14,7 +14,7 @@ Guide utilisateur
 
 **Avant-propos**
 
-Ce _document_ a été rédigé par la SAS Géofoncier pour servir de guide d’utilisation aux personnes appelées à manipuler le portail Géofoncier pour un usage professionnel au sein des structures d’exercice de la profession de géomètre-expert. Il constitue un document de référence régulièrement mis à jour au rythme des évolutions de Géofoncier.
+Ce document a été rédigé par la SAS Géofoncier pour servir de guide d’utilisation aux personnes appelées à manipuler le portail Géofoncier pour un usage professionnel au sein des structures d’exercice de la profession de géomètre-expert. Il constitue un document de référence régulièrement mis à jour au rythme des évolutions de Géofoncier.
 
 Les utilisateurs sont expressément invités à rechercher dans ce document les réponses à leurs interrogations quant à la manipulation et au fonctionnement des différents modules et outils proposés par le portail Géofoncier. En cas de recherche infructueuse ou pour des questionnements d’autres natures, une assistance nationale dédiée aux utilisateurs du portail Géofoncier vous procurera les renseignements attendus.
 
