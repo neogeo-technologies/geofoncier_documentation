@@ -24,8 +24,8 @@ Bonne découverte du portail Géofoncier !
 
 *L’équipe Géofoncier*
 
-
-
+<br/>
+<br/>
 
 Les différentes sections de la documentation sont accessibles directement via le sommaire ci-dessous.
 
