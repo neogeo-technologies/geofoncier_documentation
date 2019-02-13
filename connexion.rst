@@ -324,8 +324,9 @@ Le bouton |fermer| permet de fermer la fenêtre
 
 .. note:: Vous n’êtes pas limités en nombre de cartes personnelles mémorisables!
 
-.. warning:: Il n’est pas possible de mémoriser les couches vecteur importées manuellement par l’outil ``lecteur KML / GPX`` (cf. `Outil de chargement de fichier vecteur <outils.html#outil-de-chargement-de-fichier-vecteur>`_).
-Par ailleurs, les couches WMS ne peuvent pas être sauvegardées dans la vue par défaut. Il faut recharger à nouveau la vue pour que les couches WMS s'affichent.
+.. warning:: 
+	* Il n’est pas possible de mémoriser les couches vecteur importées manuellement par l’outil ``lecteur KML / GPX`` (cf. `Outil de chargement de fichier vecteur <outils.html#outil-de-chargement-de-fichier-vecteur>`_).
+	* Par ailleurs, les couches WMS ne peuvent pas être sauvegardées dans la vue par défaut. Il faut recharger à nouveau la vue pour que les couches WMS s'affichent.
 
 
 Gestion du compte
