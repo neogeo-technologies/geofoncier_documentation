@@ -22,13 +22,11 @@ Navigateur
 
 Pour se connecter à Géofoncier il faut s’assurer de disposer d’un navigateur compatible. Les navigateurs pris en charge actuellement sont:
 
-* Mozilla Firefox version 49 ou supérieure
+* Mozilla Firefox
 
-* Microsoft Internet Explorer version 54 ou supérieure
+* Google Chrome
 
-* Google Chrome version 5 ou supérieure
-
-* Safari version 10
+* Safari
 
 
 
@@ -37,7 +35,7 @@ Pour se connecter à Géofoncier il faut s’assurer de disposer d’un navigate
 Il est recommandé d’utiliser le navigateur Mozilla Firefox, logiciel libre disponible en téléchargement gratuit à cette adresse: `<http://www.mozilla-europe.org/fr/firefox/>`_ ou le logiciel Google
 Chrome, logiciel disponible en téléchargement gratuit à cette adresse: `<https://www.google.fr/chrome/browser/desktop/>`_
 
-D'une façon générale il est déconseillé d’utiliser le navigateur Internet Explorer (lui préférer par exemple le navigateur Mozilla Firefox).
+D'une façon générale, il est déconseillé d’utiliser le navigateur Internet Explorer (lui préférer par exemple le navigateur Mozilla Firefox).
 
 Exécution des scripts JavaScript
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -88,7 +86,7 @@ Ces manipulations qui viennent d’être décrites ne sont pas obligatoires mais
 
 Dès lors, il vous sera possible d’autoriser les pop-up pour le site pro.geofoncier.fr en effectuant la manipulation suivante:
 
-* Sous Firefox: un bandeau jaune s’affiche, cliquer sur ``Options`` puis ``autoriser les pop-up pour geofoncier.fr``.
+* Sous Firefox: un bandeau jaune s’affiche, cliquer sur ``Options`` puis ``autoriser les pop-up pour pro.geofoncier.fr``.
 
 .. image:: _static/images/image027.png
    :alt: Bandeau popup Firefox
@@ -271,7 +269,7 @@ Vous devez alors saisir dans l’ordre: votre mot de passe actuel, un nouveau mo
 Gérer ses cartes personnelles
 -----------------------------
 
-Géofoncier vous permet de *mémoriser* des cartes personnelles. Pour accéder à l’outil de gestion de gestion de vos cartes, il suffit de cliquer sur le lien ``Cartes personnelles`` situé dans le bandeau enhaut à gauche du portail.
+Géofoncier vous permet de **mémoriser** des cartes personnelles. Pour accéder à l’outil de gestion de gestion de vos cartes, il suffit de cliquer sur le lien ``Cartes personnelles`` situé dans le bandeau enhaut à gauche du portail.
 
 .. image:: _static/images/image068bis.png
    :width: 300px
@@ -288,7 +286,7 @@ Une carte personnelle permet de mémoriser:
 
 * Les annotations ajoutées à la carte,
 
-* Les éventuelles couches WMS et /ou vectorielles rajoutées manuellement (cf. `Outil de chargement de couches de données supplémentaires <outils.html#outil-de-chargement-de-couches-de-donnees-supplementaires>`_)
+* Les éventuelles couches WMS rajoutées manuellement (cf. `Outil de chargement de couches de données supplémentaires <outils.html#outil-de-chargement-de-couches-de-donnees-supplementaires>`_)
 
 .. image:: _static/images/image070.png
    :alt: Gestion cartes personnelles
@@ -304,7 +302,7 @@ Sur chaque carte, le picto |charger| permet de charger une carte préalablement 
    :align: middle
    :width: 18
 
-Le bouton |sauver| permet de sauvegarde la configuration de la carte actuelle. Il vous est alors demandé de renseigner un nom pour la carte.
+Le bouton |sauver| permet de sauvegarder la configuration de la carte actuelle. Il vous est alors demandé de renseigner un nom pour la carte.
 
 
 .. |sauver| image:: _static/images/image074.png
@@ -327,6 +325,7 @@ Le bouton |fermer| permet de fermer la fenêtre
 .. note:: Vous n’êtes pas limités en nombre de cartes personnelles mémorisables!
 
 .. warning:: Il n’est pas possible de mémoriser les couches vecteur importées manuellement par l’outil ``lecteur KML / GPX`` (cf. `Outil de chargement de fichier vecteur <outils.html#outil-de-chargement-de-fichier-vecteur>`_).
+Par ailleurs, les couches WMS ne peuvent pas être sauvegardées dans la vue par défaut. Il faut recharger à nouveau la vue pour que les couches WMS s'affichent.
 
 
 Gestion du compte
