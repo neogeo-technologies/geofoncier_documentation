@@ -136,14 +136,10 @@ Les outils d’interrogation permet d’interroger les couches de données prés
 
 |interro_dossier| Interrogation de la couche «Dossiers»
 ````````````````````````````````````````````````````````
-.. |interro_dossier| image:: _static/images/image307.png
+.. |interro_dossier| image:: _static/images/image827.png
 
 
 Sélectionner l’outil puis cliquer sur le localisant d’un dossier ou dessiner un rectangle sur la carte. Les informations s’affichent dans le volet «Résultats» situé dans le bandeau gauche. Lorsque le dossier dispose d’un polygone d’emprise, celui-ci est automatiquement affiché lors de l’interrogation du dossier.
-
-.. image:: _static/images/image304.png
-   :align: right
-
 
 .. tip:: La couche «Dossiers» du thème «Géomètres-Experts» doit être active (couche active par défaut).
 
@@ -234,7 +230,7 @@ consultation individuel sous la forme d’un fichier PDF.
 
 |interro_geodesie| Interrogation de la couche «Géodésie»
 ````````````````````````````````````````````````````````
-.. |interro_geodesie| image:: _static/images/image350.png
+.. |interro_geodesie| image:: _static/images/image828.png
 
 Sélectionner l’outil puis cliquer sur un point géodésique pour charger sa fiche IGN en PDF.
 
@@ -248,32 +244,19 @@ Sélectionner l’outil puis cliquer sur un point géodésique pour charger sa f
 
 |interro_da| Interrogation de la couche «Documents cadastraux»
 ``````````````````````````````````````````````````````````````
-.. |interro_da| image:: _static/images/image361.png
+.. |interro_da| image:: _static/images/image829.png
 
-Sélectionner l’outil puis cliquer sur le localisant d’un document cadastral pour en charger le PDF.
+Sélectionner l’outil puis cliquer sur le localisant d’un document cadastral pour en charger sa fiche.
 
-.. image:: _static/images/image368bis.png
+.. image:: _static/images/image830.png
+   :align: center
+   
+.. image:: _static/images/image831.png
    :align: center
 
 .. attention:: La couche «Documents cadastraux» du thème «Géomètres-Experts» doit être active.
 
 .. note:: Lorsque l’outil «Interroger documents cadastraux» est sélectionné, un curseur de ce type |cursor_select| apparaît.
-
-
-|interro_wms| Interrogation des «couches interrogeables»
-````````````````````````````````````````````````````````
-.. |interro_wms| image:: _static/images/image370.png
-
-Sélectionner l’outil puis cliquer sur la carte, les résultats de l’interrogation s’affichent dans le volet «Résultats».
-
-.. note:: Lorsque l’outil «Interroger couches» est sélectionné, un curseur de ce type |cursor_select| apparaît.
-
-.. image:: _static/images/image372.png
-   :align: center
-
-Il est nécessaire que des couches interrogeables soient actives telles que par exemple une ou plusieurs couches du thème «environnement» (cf. `Annexe 2 - Liste des couches de données interrogeables <annexes.html#liste-des-couches-de-donnees-interrogeables>`_).
-
-Il est également possible d’interroger des WMS importés par l’utilisateur par l’outil «Charger une couche WMS», si ces WMS sont interrogeables. (cf. `Annexe 1 - Liste de serveurs WMS compatibles avec Géofoncier <annexes.html#liste-des-couches-de-donnees-interrogeables>`_)
 
 
 Outils de mesures
