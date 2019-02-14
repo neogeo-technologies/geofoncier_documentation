@@ -122,14 +122,13 @@ L’outil Street View permet d’afficher dans un nouvel onglet le panorama Goog
 .. tip:: S'il n’existe pas de données Street View à l’endroit du point cliqué, un écran noir s’affiche.
 
 
-Outil d’interrogation des couches de données
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Outils d’interrogation des couches de données
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: _static/images/image304.png
-   :align: right
+.. image:: _static/images/image826.png
+   :align: center
 
-L’outil d’interrogation permet d’interroger les couches de données présentes à l’écran. Une flèche descendante située à droite du bouton vous permet de faire apparaitre la liste des couches de données interrogeables.
-
+Les outils d’interrogation permet d’interroger les couches de données présentes à l’écran.
 .. important:: Seules les couches actives dans la liste des couches de données sont interrogeables.
 
 
