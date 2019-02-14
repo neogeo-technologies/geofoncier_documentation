@@ -128,7 +128,8 @@ Outils d’interrogation des couches de données
 .. image:: _static/images/image826.png
    :align: center
 
-Les outils d’interrogation permet d’interroger les couches de données présentes à l’écran.
+Les outils d’interrogation permet d’interroger les couches de données présentes à l’écran, à savoir la couche "Dossiers", la couche "Documents cadastraux (DMPC)" et la couche "Géodésie".
+
 .. important:: Seules les couches actives dans la liste des couches de données sont interrogeables.
 
 
