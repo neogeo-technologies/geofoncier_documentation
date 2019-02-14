@@ -1,7 +1,7 @@
 Barres d’outils
 ===============
 
-La plupart des fonctionnalités disponibles dans Géofoncier peuvent être lancées à partir des barres d’outils de l’interface. Les barres d’outils sont toujours visibles quelle que soit la configuration de l’interface.
+La plupart des fonctionnalités disponibles dans Géofoncier peuvent être lancées à partir des barres d’outils de l’interface. Les barres d’outils sont toujours visibles quelque soit la configuration de l’interface.
 
 Lorsque vous souhaitez lancer une commande, il suffit de cliquer sur le bouton qui convient. La commande est active lorsque le bouton apparaît en rouge:
 
