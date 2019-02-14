@@ -821,7 +821,7 @@ Il est possible de visualiser les données aux échelles suivantes:
 
 L’affichage de l’échelle de la carte est dynamique. À chaque changement d’échelle provoqué par l’application, l’élément sélectionné dans la liste se met à jour.
 
-.. note:: Au moment de l’ouverture d’une session, l’échelle 1/8 000000 est sélectionné par défaut. Cela ne concerne pas le cas où l’utilisateur a défini une vue par défaut. (cf. `Gérer ses cartes personnelles <connexion.html#gerer-ses-cartes-personnelles>`_)
+.. note:: Au moment de l’ouverture d’une session, l’échelle 1/8000000 est sélectionnée par défaut. Cela ne concerne pas le cas où l’utilisateur a défini une vue par défaut. (cf. `Gérer ses cartes personnelles <connexion.html#gerer-ses-cartes-personnelles>`_)
 
 .. note:: Les plages d’échelles disponibles peuvent varier en fonction du territoire considéré.
 
