@@ -248,13 +248,7 @@ Sélectionner l’outil puis cliquer sur un point géodésique pour charger sa f
 
 Sélectionner l’outil puis cliquer sur le localisant d’un document cadastral pour en charger sa fiche.
 
-.. image:: _static/images/image830.png
-   :align: center
-   :width: 600
- 
- 
- 
-.. image:: _static/images/image831.png
+.. image:: _static/images/image832.png
    :align: center
    :width: 600
 
