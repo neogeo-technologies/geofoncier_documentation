@@ -433,11 +433,11 @@ Après avoir renseigné l’URL d’un serveur WMS (attention à ne pas oublier 
 
 Dans une même session, il est possible de charger ainsi plusieurs couches WMS.
 
-L’accès à la légende de la couche ajoutée se fait en survolant le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ )
+L’accès à la légende de la couche ajoutée se fait en survolant le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_).
 
 .. tip:: Seules les couches de données servies en EPSG:4326 (coordonnées géographiques WGS84) ou EPSG:3857 (projection Mercator) peuvent être chargées dans Géofoncier.
 
-.. note:: Un catalogue de lien WMS est fourni en annexe à ce guide utilisateur.
+.. note:: Un catalogue de lien WMS est fourni en `annexe <annexes.html>`_ à ce guide utilisateur.
 
 .. attention:: L’outil permalien ne permet pas de «mémoriser» les couches WMS.
 
