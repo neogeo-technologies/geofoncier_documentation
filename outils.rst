@@ -230,7 +230,7 @@ consultation individuel sous la forme d’un fichier PDF.
 
 |interro_geodesie| Interrogation de la couche «Géodésie»
 ````````````````````````````````````````````````````````
-.. |interro_geodesie| image:: _static/images/image828.png
+.. |interro_geodesie| image:: _static/images/image829.png
 
 Sélectionner l’outil puis cliquer sur un point géodésique pour charger sa fiche IGN en PDF.
 
@@ -244,14 +244,16 @@ Sélectionner l’outil puis cliquer sur un point géodésique pour charger sa f
 
 |interro_da| Interrogation de la couche «Documents cadastraux»
 ``````````````````````````````````````````````````````````````
-.. |interro_da| image:: _static/images/image829.png
+.. |interro_da| image:: _static/images/image828.png
 
 Sélectionner l’outil puis cliquer sur le localisant d’un document cadastral pour en charger sa fiche.
 
 .. image:: _static/images/image830.png
    :align: center
    :width: 600
-   
+ 
+ 
+ 
 .. image:: _static/images/image831.png
    :align: center
    :width: 600
