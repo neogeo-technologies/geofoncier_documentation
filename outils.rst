@@ -482,7 +482,7 @@ Un clic sur le bouton |territoire| permet d’afficher une liste déroulante et 
    :align: center
    :width: 200
 
-Géofoncier mémorise systématiquement le territoire que vous «visitez». Si vous changez de territoire et vous déconnectez, vous le retrouverez à votre prochaine connexion.
+Géofoncier mémorise systématiquement le territoire que vous «visitez». Si vous changez de territoire et vous déconnectez, vous le retrouverez à votre prochaine connexion, si vous n'avez pas défini de cartes personnelles comme vue par défaut. 
 
 .. attention:: Dans l’hypothèse où votre compte Géofoncier est utilisé par plusieurs personnes simultanément, si l’une d’entre elles change de territoire, les autres utilisateurs constateront des dysfonctionnements.
 
@@ -492,7 +492,9 @@ Barre d’outils «géomètre-expert»
 
 La barre d’outils «géomètre-expert» de couleur grise rassemble l’ensemble des fonctionnalités métiers accessibles uniquement aux géomètres-experts. Cette barre d’outils contient notamment les fonctions de recherche et de création de dossier.
 
-.. image:: _static/images/image450bis.png
+.. attention:: Pour que cette barre soit visible, il est impératif de se connecter avec un compte géomètre-expert, c'est-à-dire avec en login le numéro d'inscription à l'Ordre des Géomètres-Experts.
+
+.. image:: _static/images/image833.png
    :align: center
 
 
