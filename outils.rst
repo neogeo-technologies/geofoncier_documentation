@@ -267,7 +267,7 @@ Géofoncier vous propose des outils de mesures pour obtenir une estimation de di
 
 Une flèche descendante située à droite du bouton vous permet de faire apparaitre une liste contenant quatre actions possibles. Lors d’un clic sur «Distance» ou «Surface» ou «Rayon», l’icône de la barre d’outils se met à jour pour vous permettre d’accéder plus rapidement à la commande.
 
-**Mesure de distance** |distance|
+|distance|**Mesure de distance**
 
 .. |distance| image:: _static/images/image376.png
 
@@ -287,7 +287,7 @@ Un double-clic permet d’arrêter la mesure. Les distances restent alors affich
 
 .. note:: Les valeurs arrondies au mètre données par l’application sont indicatives.
 
-**Mesure de surface** |surface|
+|surface|**Mesure de surface**
 
 .. |surface| image:: _static/images/image383.png
 
@@ -306,7 +306,7 @@ Un double-clic permet d’arrêter la mesure. Les distances et surfaces restent 
 
 .. note:: Les valeurs arrondies au mètre et au mètre carré données par l’application sont indicatives.
 
-**Mesure de rayon** |rayon|
+|rayon|**Mesure de rayon**
 
 .. |rayon| image:: _static/images/image389.png
 
@@ -325,7 +325,7 @@ Un double-clic permet d’arrêter la mesure. Le rayon reste alors affiché.
 
 .. note:: Les valeurs arrondies au mètre données par l’application sont indicatives.
 
-**Effacer les mesures** |effacer|
+|effacer|**Effacer les mesures**
 
 .. |effacer| image:: _static/images/image395.png
 
