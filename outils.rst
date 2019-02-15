@@ -360,6 +360,8 @@ Le bouton |btn_perma_mail| permet d’envoyer le permalien par courriel.
 
 .. tip:: Cette fonction est particulièrement utile pour transmettre par courriel une vue Géofoncier.
 
+.. note:: Cette fonction est utilisée pour l'import des objets RFU sous Qgis.
+
 Le bouton |btn_perma_marqueur| permet d’ajouter un marqueur au lien
 
 .. |btn_perma_marqueur| image:: _static/images/image402.png
