@@ -120,3 +120,46 @@ Liste des couches de données interrogeables
  - Natura 2000 - Sites d’importance communautaire
 
  - Natura 2000 - Zones de protection spéciale
+
+
+Liens vers d’autres sites web utiles à la profession
+----------------------------------------------------
+
++--------------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image638.png          |   .. image:: _static/images/image639.png  |
+|                                                  |     :align: center                        |
+|  Serveur Professionnel de Données Cadastrales    |     :width: 300                           |
+|                                                  |                                           |
+|  https://applications.dgfip.finances.gouv.fr/    |                                           |
++--------------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image641.png          |   .. image:: _static/images/image642.png  |
+|                                                  |     :align: center                        |
+|  Serveur de Consultation du Plan Cadastral       |     :width: 300                           |
+|                                                  |                                           |
+|  http://www.cadastre.gouv.fr/                    |                                           |
++--------------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image644.png          |   .. image:: _static/images/image645.png  |
+|                                                  |     :align: center                        |
+|  Espace Pro du site de L’OGE                     |     :width: 300                           |
+|                                                  |                                           |
+|  http://extranet.geometre-expert.fr/             |                                           |
++--------------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image647.png          |   .. image:: _static/images/image648.png  |
+|                                                  |     :align: center                        |
+|  Réseau GNSS Permanent                           |     :width: 300                           |
+|                                                  |                                           |
+|  http://rgp.ign.fr/                              |                                           |
++--------------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image650.png          |   .. image:: _static/images/image652.png  |
+|                                                  |     :align: center                        |
+|  Légifrance                                      |     :width: 300                           |
+|                                                  |                                           |
+|  http://www.legifrance.gouv.fr/                  |                                           |
++--------------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image654.png          |   .. image:: _static/images/image655.png  |
+|                                                  |     :align: center                        |
+|  Portail INERIS                                  |     :width: 300                           |
+|                                                  |                                           |
+|  http://www.reseaux-et-canalisations.ineris.fr/  |                                           |
++--------------------------------------------------+-------------------------------------------+
+
