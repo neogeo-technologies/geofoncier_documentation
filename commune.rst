@@ -167,20 +167,6 @@ Thème «Urbanisme»
 
 .. note:: En fonction de la commune considérée, certaines rubriques peuvent être absentes.
 
-
-Thème «Plans d’alignement»
---------------------------
-
-.. image:: _static/images/image683.png
-   :align: center
-
-**Plan(s) d’alignement** :
-
-	Le cas échéant, liens vers des versions PDF des plans d’alignement sur la commune.
-
-.. note:: Lorsque les plans d’alignement ne sont pas disponibles sur une commune, la rubrique apparaît en grisé.
-
-
 Thème «Plan cadastral»
 ----------------------
 
