@@ -739,7 +739,7 @@ La fonction de création de dossiers vous permet de géolocaliser vos dossiers d
 +---------------+----------------------------------+-------------------------------------------------------------------+
 | Fa            | COPROPRIÉTÉ / DIVISION EN VOLUME | Copropriété : état descriptif de division                         |
 +---------------+----------------------------------+-------------------------------------------------------------------+
-| Fc            | COPROPRIÉTÉ / DIVISION EN VOLUME | Copropriété : Divisions en volume                                 |
+| Fc            | COPROPRIÉTÉ / DIVISION EN VOLUME | Copropriété : divisions en volume                                 |
 +---------------+----------------------------------+-------------------------------------------------------------------+
 
 
@@ -967,6 +967,7 @@ Ce bouton apparaît lorsque vous ouvrez un dossier contenant un polygone d’emp
 Géofoncier vous permet d’attacher des documents de différents formats à vos dossiers. Cela est particulièrement utile pour joindre les procès-verbaux et plans de bornage que vous réalisez, qui par ailleurs font partie des obligations ordinales.
 
 .. note:: Les documents que vous versez sur Géofoncier ne sont visibles que par vous (détenteur du dossier), vos collaborateurs et les conseils régionaux de l’OGE.
+.. note:: En Alsace-Moselle, les DMPC sont visibles entre confrères.
 
 Pour procéder à l’envoi d’un document sur Géofoncier, il vous suffit de suivre la procédure:
 
@@ -1020,7 +1021,7 @@ L'ensemble des interventions liées à ce dossier sont listées.
    	:width: 500
 
 
-**Visibilité de la fiche info aux utilisateurs enregistrées** : option sélectionnable uniquement lorsque le dossier importé ne fait pas partie du périmètre obligatoire.
+**Visibilité de la fiche info aux utilisateurs enregistrées** : Cette option est sélectionnable uniquement lorsque le dossier importé ne fait pas partie du périmètre obligatoire.
 
 **Visibilité de la fiche info au grand public** : Les dossiers du périmètre non obligatoire ne sont pas accessibles sur la version grand public.
 
@@ -1031,6 +1032,7 @@ Vous pouver ajouter / supprimer des codes clients avec les icônes |icone_ajoute
 	:align: center
    	:width: 250
 
+.. note:: A ce jour, la visibilité des fiches infos pour les clients n'est pas opérationnelle.
 
 10. Une fois toutes les informations saisies, il ne vous reste plus qu’à valider la fenêtre d’édition du dossier.
 
@@ -1075,6 +1077,12 @@ Les types d’anomalie rencontrés peuvent être les suivantes:
 
 **Anomalie AM** : ce type d’erreur est spécifique aux dossiers situé dans des communes d’Alsace-Moselle. Un document dématérialisé de type Alsace-Moselle a été versé mais aucune référence DMPC n’est indiquée sur ces dossiers.
 
+**Avec une référence DMPC incorrecte** : la lettre de contrôle est mal renseignée, ou absente.
+
+**Avec localisants superflus** : deux localisants proches de moins de 40m pour un même dossier
+
+**Avec polygone d'emprise suspect** : le polygone d'emprise est anormalement grand.
+
 Un clic sur une ligne de type d’anomalie permet d’obtenir en partie
 droite de la fenêtre la liste exhaustive des dossiers concernés. Des
 outils deviennent alors accessibles:
@@ -1098,7 +1106,7 @@ Le bouton «Dossiers incomplets candidats à un transfert sur la version grand p
 
 .. tip:: Les bases de la version professionnelles et grand public de Géofoncier sont synchronisées toutes les nuits à 3h00 (heure de Paris).
 
-.. note:: Les dossiers susceptibles d’être transférés sur la version grand public étant nécessairement et exclusivement soumis à obligation de versement, il vous appartient de vous assurer qu’aucun de ces dossiers ne reste «bloqués» dans la version professionnelle.
+.. note:: Les dossiers susceptibles d’être transférés sur la version grand public étant nécessairement et exclusivement soumis à obligation de versement, il vous appartient de vous assurer qu’aucun de ces dossiers ne reste «bloqué» dans la version professionnelle.
 
 
 Editer un rapport de consultation
@@ -1171,94 +1179,3 @@ Les attributs disponibles sont:
 * Nom et numéro d’inscription du géomètre-expert créateur
 
 .. note:: L’interrogation du RFU n’est disponible que pour les géomètres-experts, la DGFIP et l’IGN.
-
-
-Géolocaliser un document
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-Géofoncier permet de géolocaliser des documents PDF issus de campagnes de numérisation engagées et/ou soutenus par la profession.
-
-|btn_geoloc| Ce bouton permet d’accéder à l’outil de géolocalisation de document.
-
-.. |btn_geoloc| image:: _static/images/image625.png 
-
-.. note:: Pour utiliser cette fonction, vous devez être accrédité par Géofoncier SAS.
-
-Dans la première fenêtre qui apparait, vous devez choisir une couche de données à éditer. Seules les couches pour lesquelles vous êtes accrédités sont disponibles.
-
-.. image:: _static/images/image628.png
-	:align: center
-   	:width: 300
-
-Dans un second temps, une fenêtre de recherche s’ouvre. Quelques critères de recherche vous permettent de limiter la recherche à une commune donnée et/ou à un type de document.
-
-.. image:: _static/images/image630.png
-	:align: right
-   	:width: 250
-
-Après avoir lancé une recherche, deux options s’offrent à vous:
-
-|icone_oeil| Visualiser un document (PDF). Au clic, le PDF du document se charge dans un nouvel onglet pour vous permettre de l’analyser (référence cadastrales, adresse ou lieu-dit).
-
-|icone_deplacer| Créer / Modifier un localisant: vous permet de créer ou modifier le localisant d’un document.
-
-
-.. image:: _static/images/image632.png
-	:align: center
-   	:width: 600
-
-.. note:: 
-	Pour procéder à la géolocalisation d’un document, la procédure conseillée est la suivante:
-
-	1. Recherche de document à géolocaliser sur une commune donnée
-
-	2. Visualisation du document dans un nouvel onglet (|icone_oeil|) (identification d’une référence cadastrale ou lieudit ou adresse).
-
-	3. Retour à l’onglet précédent et clic sur le bouton «géolocaliser» (|icone_deplacer|)
-
-	4. La fenêtre étant minimisée, utiliser les fonction de localisation pour afficher l’endroit où vous souhaitez positionner le localisant.
-
-	5. Cliquer la position du localisant sur la carte. Un message de confirmation apparaît puis la fenêtre se maximise.
-
-
-Liens vers d’autres sites web utiles à la profession
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-+--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image638.png          |   .. image:: _static/images/image639.png  |
-|                                                  |     :align: center                        |
-|  Serveur Professionnel de Données Cadastrales    |     :width: 300                           |
-|                                                  |                                           |
-|  https://applications.dgfip.finances.gouv.fr/    |                                           |
-+--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image641.png          |   .. image:: _static/images/image642.png  |
-|                                                  |     :align: center                        |
-|  Serveur de Consultation du Plan Cadastral       |     :width: 300                           |
-|                                                  |                                           |
-|  http://www.cadastre.gouv.fr/                    |                                           |
-+--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image644.png          |   .. image:: _static/images/image645.png  |
-|                                                  |     :align: center                        |
-|  Espace Pro du site de L’OGE                     |     :width: 300                           |
-|                                                  |                                           |
-|  http://extranet.geometre-expert.fr/             |                                           |
-+--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image647.png          |   .. image:: _static/images/image648.png  |
-|                                                  |     :align: center                        |
-|  Réseau GNSS Permanent                           |     :width: 300                           |
-|                                                  |                                           |
-|  http://rgp.ign.fr/                              |                                           |
-+--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image650.png          |   .. image:: _static/images/image652.png  |
-|                                                  |     :align: center                        |
-|  Légifrance                                      |     :width: 300                           |
-|                                                  |                                           |
-|  http://www.legifrance.gouv.fr/                  |                                           |
-+--------------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image654.png          |   .. image:: _static/images/image655.png  |
-|                                                  |     :align: center                        |
-|  Portail INERIS                                  |     :width: 300                           |
-|                                                  |                                           |
-|  http://www.reseaux-et-canalisations.ineris.fr/  |                                           |
-+--------------------------------------------------+-------------------------------------------+
-
