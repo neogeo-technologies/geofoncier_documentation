@@ -599,7 +599,7 @@ Lors de la recherche, les dossiers sont filtrés selon une liste de critères.
 
 ``Dossiers`` : permet d’accéder rapidement à un dossier.
 
-``Créateur`` : permet de restreindre la recherche à un géomètre-expert et/ou à un cabinet créateur donnée (cas de plusieurs géomètres-experts et/ou rachat de cabinets).
+``Créateur`` : permet de restreindre la recherche à un géomètre-expert et/ou à un cabinet créateur donné(s) (cas de plusieurs géomètres-experts et/ou rachat de cabinets).
 
 ``Localisation`` : permet de restreindre la recherche à une commune.
 
@@ -694,6 +694,8 @@ Le bouton |supprime_dossier| permet de supprimer un dossier sélectionné après
 
 .. attention:: Supprimer un dossier le supprime définitivement. Les informations du dossier et les documents joints seront perdus. Cette fonction ne doit être utilisée que pour supprimer un dossier dont la référence est erronée.
 
+.. attention:: La suppression d'un dossier n'entraîne pas la suppression des objets RFU qui ont été créés pour le dit dossier.
+
 .. note:: 
 	La suppression d’un dossier n’est possible que si l’utilisateur dispose des droits suffisants. Dans le cas contraire, une fenêtre s’affiche.
 
@@ -701,7 +703,7 @@ Le bouton |supprime_dossier| permet de supprimer un dossier sélectionné après
 		:align: center
 	   	:width: 300
 
-Le bouton |btn_export_excel| permet d’exporter la liste des résultats sous la forme d’un fichier Microsoft Excel
+Le bouton |btn_export_excel| permet d’exporter la liste des résultats sous la forme d’un fichier Microsoft Excel.
 
 .. |btn_export_excel| image:: _static/images/image518.png 
 
@@ -716,27 +718,26 @@ La fonction de création de dossiers vous permet de géolocaliser vos dossiers d
 +===============+==================================+===================================================================+
 | Ca            | AMÉNAGEMENT FONCIER              | Aménagement Foncier Agricole et Forestier (AFAF)                  |
 +---------------+----------------------------------+-------------------------------------------------------------------+
-| Cb            | AMÉNAGEMENT FONCIER              | Échanges et cessions amiables d’immeubles ruraux (ECIR)           | 
-|               |                                  | ou forestiers (ECIF)                                              |
+| Cb            | AMÉNAGEMENT FONCIER              | Échanges et cessions amiables d’immeubles ruraux		       | 
+|               |                                  | ou forestiers	                                               |
 +---------------+----------------------------------+-------------------------------------------------------------------+
 | Ea            | FONCIER                          | Délimitation de la propriété des personnes publiques              |
 +---------------+----------------------------------+-------------------------------------------------------------------+
-| Eb            | FONCIER                          | Bornage et reconnaissance de limites (mitoyenneté...)             |
+| Eb            | FONCIER                          | Bornage et reconnaissance de limites 			       |
 +---------------+----------------------------------+-------------------------------------------------------------------+
-| Ec            | FONCIER                          | Division et partage de propriété (DMPC...)                        |
+| Ec            | FONCIER                          | Division et partage de propriété		                       |
 +---------------+----------------------------------+-------------------------------------------------------------------+
-| Ee            | FONCIER                          | Voirie (alignement, classement, voirie communale,                 |
-|               |                                  | chemins ruraux, d’exploitation...)                                |
+| Ee            | FONCIER                          | Plan d'alignement général 				               |
 +---------------+----------------------------------+-------------------------------------------------------------------+
 | Ef            | FONCIER                          | Documents cadastraux et publicité foncière                        |
-|               |                                  | (rénovation, remaniement, numérisation,                           |
-|               |                                  | régime particulier d’Alsace Moselle)                              |
 +---------------+----------------------------------+-------------------------------------------------------------------+
 | Ei            | FONCIER                          | Servitudes attachées à la propriété                               |
 +---------------+----------------------------------+-------------------------------------------------------------------+
-| Fa            | COPROPRIÉTÉ / DIVISION EN VOLUME | Copropriété : état descriptif de division                         |
+| Ek            | FONCIER                          | Carence complète                              		       |
 +---------------+----------------------------------+-------------------------------------------------------------------+
-| Fb            | COPROPRIÉTÉ / DIVISION EN VOLUME | Copropriété : règlement de copropriété                            |
+| El            | FONCIER                          | Rétablissement de limites                             	       |
++---------------+----------------------------------+-------------------------------------------------------------------+
+| Fa            | COPROPRIÉTÉ / DIVISION EN VOLUME | Copropriété : état descriptif de division                         |
 +---------------+----------------------------------+-------------------------------------------------------------------+
 | Fc            | COPROPRIÉTÉ / DIVISION EN VOLUME | Copropriété : Divisions en volume                                 |
 +---------------+----------------------------------+-------------------------------------------------------------------+
@@ -772,7 +773,7 @@ Le bouton |nouveau_dossier| permet de créer un nouveau dossier
 
 * La référence du dossier
 
-* Le géomètre-expert créateur (s’il s’agit d’une personne ayant cessé son activité, il vous faut selectionner le cabinet createur approprié)
+* Le géomètre-expert créateur (s’il s’agit d’une personne ayant cessé son activité, il vous faut sélectionner le cabinet createur approprié)
 
 * La date de création du dossier (la sélection de la date se fait en cliquant sur l’icône en forme de calendrier (|calendrier|))
 
@@ -847,6 +848,10 @@ Cela a pour effet de créer le localisant et d’ouvrir la fiche dossier en mode
 
 .. note:: Dans le cas de travaux fonciers donnant lieu à division parcellaire, la saisie des références DMPC est obligatoire.
 
+.. tip:: 
+	Lors de la saisie des références DMPC, le portail Géofoncier se chargera de vérifier si la lettre majuscule, dite de contrôle, indiqué derrière les différents chiffres est correcte, et proposera le cas échéant une correction.
+
+
 * Vous pouvez ajouter / déplacer / modifier / supprimer des localisants avec les icônes |icone_ajouter|, |icone_oeil|, |icone_deplacer| et |icone_supprimer| 
 
 .. |icone_oeil| image:: _static/images/image547.png 
@@ -900,7 +905,10 @@ Une fenêtre d’aide s’affiche avant de commencer la saisie.
 
 .. tip:: Il est possible de créer plusieurs polygones d’emprise par dossier.
 
-Lorsque le polygone est créé, deux autres boutons apparaissent«Modification du polygone d’emprise» et «Suppression du polygone d’emprise».
+.. note:: La saisie d'un polygone d'emprise est vivement conseillée sur chaque dossier.
+
+Lorsque le polygone est créé, deux autres boutons apparaissent : 
+«Modification du polygone d’emprise» et «Suppression du polygone d’emprise».
 
 |modif_emprise| **Modification du polygone d’emprise**
 
