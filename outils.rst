@@ -501,7 +501,7 @@ La barre d’outils «géomètre-expert» de couleur grise rassemble l’ensembl
 Filtrage de l’affichage des localisants des dossiers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Cette commande vous permet de filtrer l’affichage des localisants des dossiers:
+Cette commande vous permet de filtrer l’affichage des localisants des dossiers :
 
 |filtre1| Tous les dossiers sont affichés
 
@@ -514,10 +514,9 @@ Cette commande vous permet de filtrer l’affichage des localisants des dossiers
 .. |filtre3| image:: _static/images/image461.png
 
 
-.. tip:: Pour interroger un dossier (logo), se référer à la section `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_  |logo_dossier| |int_logo_dossier|
+.. tip:: Pour interroger un dossier (logo), se référer à la section `Interrogation de la couche "Dossiers" <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_  |logo_dossier| |int_logo_dossier|
 
-.. |logo_dossier| image:: _static/images/image463.png
-.. |int_logo_dossier| image:: _static/images/image464.jpg
+.. |logo_dossier| image:: _static/images/image827.png
 
 Accès rapide à un de ses dossiers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -530,7 +529,7 @@ Après avoir saisi la référence d’un dossier, quatre cas peuvent se présent
 
 1. Le dossier indiqué existe dans votre base Géofoncier.
 
-La carte se centre sur le polygone d’emprise du dossier ou, à défaut, ses localisants. La fiche d’information du dossier s’affiche (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_ ) et le polygone d’emprise du dossier s’affiche s’il en est pourvu.
+La carte se centre sur le polygone d’emprise du dossier ou, à défaut, ses localisants. La fiche d’information du dossier s’affiche (cf. `Interrogation de la couche "Dossiers" <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_ ) et le polygone d’emprise du dossier s’affiche s’il en est pourvu.
 
 2. Le dossier indiqué n’existe pas dans votre base Géofoncier: un message vous en informe.
 
@@ -549,11 +548,11 @@ La carte se centre sur le polygone d’emprise du dossier ou, à défaut, ses lo
 
 
 .. note::
-	|dossier_vert| Lorsque le dossier indiqué existe dans la base, l’outil «accéder rapidement à un dossier» s’affiche en vert.
+	|dossier_vert| Lorsque le dossier indiqué existe dans la base, le numéro de dossier est surligné en vert.
 
-	|dossier_orange| Lorsque le dossier indiqué existe dans la base et n'est pas localisé, l’outil «accéder rapidement à un dossier» s’affiche en orange.
+	|dossier_orange| Lorsque le dossier indiqué existe dans la base et n'est pas localisé, le numéro de dossier est surligné en orange.
 
-	|dossier_rouge| Lorsque le dossier indiqué n’existe pas dans la base, l’outil «accéder rapidement à un dossier» s’affiche en rouge.
+	|dossier_rouge| Lorsque le dossier indiqué n’existe pas dans la base, le numéro de dossier est surligné en rouge.
 
 .. |dossier_vert| image:: _static/images/image471.png
 .. |dossier_orange| image:: _static/images/image472.png
