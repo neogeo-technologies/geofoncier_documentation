@@ -27,11 +27,11 @@ Vous trouverez ici les réponses à des questions courantes.
 	
 	L’ensemble des dossiers versé à l'époque d'Aurige (avant Géofoncier) ont été localisés à partir des coordonnées fournies dans Aurige. Des contrôles de cohérence ont été réalisés après uniformatisation de la projection (une projection unique par territoire). Tous les dossiers présents dans Géofoncier ont l’assurance d’être positionnés «sur la bonne commune», c'est-à-dire que le localisant du dossier est bien situé sur la commune dont le code INSEE correspond avec celui spécifié dans le dossier.
 
-	Si vous détectez un dossier mal positionné vous appartenant, il est possible de déplacer son localisant en éditant sa fiche (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_ ).
+	Si vous détectez un dossier mal positionné vous appartenant, il est possible de déplacer son localisant en éditant sa fiche (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_).
 
 *Est-il possible de supprimer un dossier erroné ?*
 	
-	Oui, tout à fait! Cela est faisable pour tous les dossiers que détient votre structure. Il vous faut rechercher le dossier avant de pouvoir le supprimer (cf. `Rechercher parmi ses dossiers <outils.html#recherche-parmi-ses-dossiers>`_ ).
+	Oui, tout à fait! Cela est faisable pour tous les dossiers que détient votre structure. Il vous faut rechercher le dossier avant de pouvoir le supprimer (cf. `Rechercher parmi ses dossiers <outils.html#recherche-parmi-ses-dossiers>`_).
 
 *Est-il possible de renommer un dossier erroné ?*
 	
