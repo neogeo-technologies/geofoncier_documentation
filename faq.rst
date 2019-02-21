@@ -9,7 +9,7 @@ Vous trouverez ici les réponses à des questions courantes.
 
 *À certaines échelles l’écran devient blanc, est-ce normal ?*
 	
-	Certaines couches de données ne sont visualisables que dans une certaine plage d’échelle. Consulter le chapitre 6 pour connaitre les échelles d’affichage des différentes couches de données. Un usage trop «violent» de la molette de la souris pour changer l’échelle de la carte peut aussi provoquer ce phénomène; il suffit alors de patienter quelques instants pour que les données puissent se charger.
+	Certaines couches de données ne sont visualisables que dans une certaine plage d’échelle. Consulter le chapitre `Couches de données disponibles <donnees.html>`_ pour connaitre les échelles d’affichage des différentes couches de données. Un usage trop «violent» de la molette de la souris pour changer l’échelle de la carte peut aussi provoquer ce phénomène; il suffit alors de patienter quelques instants pour que les données puissent se charger.
 
 *Où puis-je obtenir la date de mise à jour des données IGN ?*
 	
