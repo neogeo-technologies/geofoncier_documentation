@@ -27,7 +27,7 @@ Le nom de la commune apparaît à partir du 1/7500.
 
 Une fenêtre «Fiche commune» s’affiche alors à l’écran. L’en-tête récapitule les informations sommaires sur la commune. Une barre d’onglets vous propose alors d’accéder à des informations thématiques.
 
-.. image:: _static/images/image661.png
+.. image:: _static/images/image834.png
    :align: center
 
 Après avoir sélectionné un onglet, un clic sur le nom d’une rubrique provoque l’affichage des informations (|ico_plus|).
@@ -37,7 +37,7 @@ Après avoir sélectionné un onglet, un clic sur le nom d’une rubrique provoq
 Thème «Mairie»
 --------------
 
-.. image:: _static/images/image665.png
+.. image:: _static/images/image835.png
    :align: center
 
 **Fiche AMF** :
@@ -56,7 +56,7 @@ Thème «Mairie»
 Thème «Intercommunalité »
 -------------------------
 
-.. image:: _static/images/image667.png
+.. image:: _static/images/image836.png
    :align: center
 
 **Intercommunalité** :
@@ -94,7 +94,7 @@ Thème «Intercommunalité »
 Thème «Statistiques»
 --------------------
 
-.. image:: _static/images/image670.png
+.. image:: _static/images/image837.png
    :align: center
 
 **Topographie de la commune** :
@@ -113,7 +113,7 @@ Thème «Statistiques»
 Thème «Urbanisme»
 ------------------
 
-.. image:: _static/images/image672.png
+.. image:: _static/images/image838.png
    :align: center
 
 
@@ -170,7 +170,7 @@ Thème «Urbanisme»
 Thème «Plan cadastral»
 ----------------------
 
-.. image:: _static/images/image685.png
+.. image:: _static/images/image839.png
    :align: center
 
 .. tip:: Lorsque les éléments d’une rubrique ne sont pas disponible, la rubrique apparaît en grisé.
@@ -204,7 +204,7 @@ Thème «Plan cadastral»
 
 Thème «Usages locaux»
 ---------------------
-.. image:: _static/images/image688.png
+.. image:: _static/images/image840.png
    :align: center
 
 **Usages locaux** :
