@@ -13,49 +13,50 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des 
 	:align: center
 
 
-+-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-|  * **Dossier**                            |   **Localisants des dossiers des géomètres-experts**                                                                                        |
-|                                           |                                                                                                                                             |
-|  .. image:: _static/images/image692.png   |   Territoires : Tous                                                                                                                        |
-|    :align: center                         |                                                                                                                                             |
-|                                           |   Activée par défaut : OUI                                                                                                                  |
-|                                           |                                                                                                                                             |
-|                                           |   Interrogeable : OUI (cf. `Interrogation couche dossier <outils.html#interro-dossier-interrogation-de-la-couche-dossiers>`_)              |
-|                                           |                                                                                                                                             |
-|                                           |                                                                                                                                             |
-|                                           |                                                                                                                                             |
-|                                           |   Echelles d’affichage : à partir du 1/30 000                                                                                               |
-+-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-|  * **Documents Cadastraux (DMPC)**        |   **Localisants des documents cadastraux**                                                                                                  |
-|                                           |                                                                                                                                             |
-|  .. image:: _static/images/image842.png   |   Territoires : Tous                                                                                                                        |
-|    :align: center                         |                                                                                                                                             |
-|                                           |   Activée par défaut : OUI                                                                                                                  |
-|                                           |                                                                                                                                             |
-|                                           |   Interrogeable : OUI (cf. `Interrogation documents cadastraux <outils.html#interro-da-interrogation-de-la-couche-documents-cadastraux>`_) |
-|                                           |                                                                                                                                             |
-|                                           |   Echelles d’affichage : à partir du 1/30 000                                                                                               |
-+-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-|  * **Croquis d'Arpentage (avant 1956)**   |   **Localisants des croquis d'arpentage**                                                                                                  |
-|                                           |                                                                                                                                             |
-|  .. image:: _static/images/image694.png   |   Territoires : Tous                                                                                                                        |
-|    :align: center                         |                                                                                                                                             |
-|                                           |   Activée par défaut : NON                                                                                                                  |
-|                                           |                                                                                                                                             |
-|                                           |   Interrogeable : NON
-|                                           |                                                                                                                                             |
-|                                           |   Echelles d’affichage : à partir du 1/30 000                                                                                               |
-+-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-|  * **RFU**                                |   **Objets du Référentiel Foncier Unifié**                                                                                                  |
-|                                           |                                                                                                                                             |
-|  .. image:: _static/images/image693.png   |   Territoires : Tous                                                                                                                        |
-|    :align: center                         |                                                                                                                                             |
-|                                           |   Activée par défaut : OUI                                                                                                                  |
-|                                           |                                                                                                                                             |
-|                                           |   Interrogeable : OUI (points) (cf. `Consultation attributs RFU <outils.html#consulter-les-attributs-des-sommets-rfu>`_ )                   |
-|                                           |                                                                                                                                             |
-|                                           |   Echelles d’affichage : à partir du 1/30 000                                                                                               |
-+-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------+-----------------------------------------------------+
+|  * **Dossier**                            |   **Localisants des dossiers des géomètres-experts**|
+|                                           |						 	  |
+|  .. image:: _static/images/image692.png   |   Territoires : Tous				  |
+|    :align: center                         |                 					  |
+|                                           |   Activée par défaut : OUI			  |
+|                                           |                                                     |
+|                                           |   Interrogeable : OUI				  |
+|                                           |                                                     |
+|                                           |   Echelles d’affichage : à partir du 1/30 000       |
++-------------------------------------------+-----------------------------------------------------+
+|  * **Documents Cadastraux (DMPC)**        |   **Localisants des documents cadastraux**       	  |
+|				   	    |							  |
+|  .. image:: _static/images/image842.png   |   Territoires : Tous               		  |
+|    :align: center                         |                                                     |
+|					    |						  	  |
+|                                           |   Activée par défaut : OUI                          |
+|                                           |          						  |
+|                                           |   Interrogeable : OUI                               |
+|                                           |                                                     |
+|                                           |   Echelles d’affichage : à partir du 1/30 000       |
++-------------------------------------------+-----------------------------------------------------+
+|  * **Croquis d'Arpentage (avant 1956)**   |   **Localisants des croquis d'arpentage**           |
+|                                           |							  |
+|  .. image:: _static/images/image694.png   |   Territoires : Tous                                |
+|    :align: center                         |  							  |
+|					    |							  |
+|                                           |   Activée par défaut : NON    			  |
+|                                           | 							  |
+|                                           |   Interrogeable : NON				  |
+|					    |							  |
+|                                           |   Echelles d’affichage : à partir du 1/30 000       |
++-------------------------------------------+-----------------------------------------------------+
+|  * **RFU**                                |   **Objets du Référentiel Foncier Unifié**          |
+|                                           |							  |
+|  .. image:: _static/images/image693.png   |   Territoires : Tous  				  |
+|    :align: center                         |                                                     |
+|                                           |   Activée par défaut : OUI                          |
+|                                           |                                     		  |
+|                                           |   Interrogeable : OUI (points)                      |
+|                                           |                                               	  |
+|                                           |   Echelles d’affichage : à partir du 1/30 000       |
+|					    |							  |
++-------------------------------------------+-----------------------------------------------------+
 
 .. note:: Les documents cadastraux numérisés ne sont disponibles à ce jour qu'en Haute-Garonne,en Aveyron, en Lozère, en Haute-Savoie, en Charente-Maritime et dans le Gers.
 
