@@ -58,8 +58,6 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des 
 |					    |							  |
 +-------------------------------------------+-----------------------------------------------------+
 
-.. note:: Les documents cadastraux numérisés ne sont disponibles à ce jour qu'en Haute-Garonne,en Aveyron, en Lozère, en Haute-Savoie, en Charente-Maritime et dans le Gers.
-
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **SIG OGE**                            |   Thème regroupant des couches de données produites         |
 |                                           |                                                             |
@@ -126,6 +124,34 @@ Interrogeable : OUI (cf. `Affichage des couches de données <interface.html#gest
 |    :width: 300                            |     :width: 300                           |
 +-------------------------------------------+-------------------------------------------+
 
+Thème Environnement
+-------------------
+
+.. image:: _static/images/image844.png
+	:align: right
+
+Ce thème donne accès à des couches WMS diffusées par le serveur CARMEN du MEEM (http://carto.ecologie.gouv.fr/)
+
+La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
+
+Territoires : Tous
+
+Activée par défaut : NON
+
+Interrogeable : NON
+
+Echelles d’affichage : du 1/1 000 au 1/1 000 000
+
+.. image:: _static/images/image715.png
+	:align: center
+	:width: 400
+
++-------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image713.png   |   .. image:: _static/images/image717.png  |
+|    :align: center                         |     :align: center                        |
+|    :width: 300                            |     :width: 300                           |
++-------------------------------------------+-------------------------------------------+
+
 Thème Risques
 -------------
 
@@ -147,35 +173,6 @@ Echelles d’affichage : toutes (sauf pour mouvements de terrain, entre 1/1 000 
 .. image:: _static/images/image708.png
 	:align: center
 	:width: 400
-
-
-Thème Environnement
--------------------
-
-.. image:: _static/images/image710.png
-	:align: right
-
-Ce thème donne accès à des couches WMS diffusées par le serveur CARMEN du MEEM (http://carto.ecologie.gouv.fr/)
-
-La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
-
-Territoires : Tous
-
-Activée par défaut : NON
-
-Interrogeable : OUI (cf. `Annexe 2 - Liste des couches de données interrogeables <annexes.html#liste-des-couches-de-donnees-interrogeables>`_)
-
-Echelles d’affichage : du 1/1 000 au 1/1 000 000
-
-.. image:: _static/images/image715.png
-	:align: center
-	:width: 400
-
-+-------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image713.png   |   .. image:: _static/images/image717.png  |
-|    :align: center                         |     :align: center                        |
-|    :width: 300                            |     :width: 300                           |
-+-------------------------------------------+-------------------------------------------+
 
 Thème Urbanisme
 ---------------
