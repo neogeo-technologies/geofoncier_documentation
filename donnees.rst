@@ -9,7 +9,7 @@ Thème Géomètres-Experts
 Ce thème donne accès aux données produites par l’ensemble des géomètres-experts.
 La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ )
 
-.. image:: _static/images/image690.png
+.. image:: _static/images/image841.png
 	:align: center
 
 
