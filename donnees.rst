@@ -37,7 +37,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des 
 +-------------------------------------------+-----------------------------------------------------+
 |  * **Croquis d'Arpentage (avant 1956)**   |   **Localisants des croquis d'arpentage**           |
 |                                           |							  |
-|  .. image:: _static/images/image694.png   |   Territoires : Tous                                |
+|  .. image:: _static/images/image843.png   |   Territoires : Tous                                |
 |    :align: center                         |  							  |
 |					    |							  |
 |                                           |   Activée par défaut : NON    			  |
