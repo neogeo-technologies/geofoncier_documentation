@@ -155,7 +155,7 @@ Echelles d’affichage : du 1/1 000 au 1/1 000 000
 Thème Risques
 -------------
 
-.. image:: _static/images/image705.png
+.. image:: _static/images/image845.png
 	:align: right
 
 Ce thème donne accès à des couches WMS diffusées par le serveur Géorisque du MEEM (http://www.georisques.gouv.fr/).
@@ -168,7 +168,7 @@ Activée par défaut : NON
 
 Interrogeable : NON
 
-Echelles d’affichage : toutes (sauf pour mouvements de terrain, entre 1/1 000 et 1/250 000)
+Echelles d’affichage : du 1/30 000 au 1/250 000
 
 .. image:: _static/images/image708.png
 	:align: center
