@@ -180,11 +180,9 @@ Thème Urbanisme
 .. image:: _static/images/image847.png
 	:align: center
 
-Ce thème donne accès au plans de zonage des PLUi, PLU et Carte Communales diffusées sur le géoportail de l’urbanisme (https://www.geoportail-urbanisme.gouv.fr/).
+Ce thème donne accès au plans de zonage des PLUi, PLU et Cartes Communales diffusées sur le géoportail de l’urbanisme (https://www.geoportail-urbanisme.gouv.fr/), ainsi qu'aux périmètres des Schémas de Cohérence Territoriale.
 
 La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
-
-.. note:: Sur le géoportail de l’urbanisme, les données sont interrogeables et renvoient vers les pièces écrites des documents d’urbanisme.
 
 Territoires : Tous (sauf Saint-Martin et Saint-Barthélémy)
 
@@ -198,6 +196,12 @@ Interrogeable : NON
 |    :width: 300                            |     :width: 300                           |
 +-------------------------------------------+-------------------------------------------+
 |  .. image:: _static/images/image721.png   |   .. image:: _static/images/image728.png  |
+|    :align: center                         |     :align: center                        |
+|    :width: 300                            |     :width: 300                           |
++-------------------------------------------+-------------------------------------------+
+
++-------------------------------------------+-------------------------------------------+
+|  .. image:: _static/images/image848.png   |   .. image:: _static/images/image849.png  |
 |    :align: center                         |     :align: center                        |
 |    :width: 300                            |     :width: 300                           |
 +-------------------------------------------+-------------------------------------------+
