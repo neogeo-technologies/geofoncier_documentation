@@ -91,37 +91,6 @@ Liste des couches de données interrogeables
 
  - RGP - Antennes en panne
 
-**Couches du thème Environnement**
-
- - ZNIEFF - Type 1
-
- - ZNIEFF - Type 2
-
- - Parcs - Parcs nationaux
-
- - Parcs - Parcs naturels marins
-
- - Parcs - Parcs naturels régionaux
-
- - Terrains du conservatoire du littoral
-
- - Convention de Ramsar
-
- - Arrêtés de protection de biotope
-
- - Réserves - Réserves biologiques
-
- - Réserves - Réserves de biosphère
-
- - Réserves - Réserves naturelles
-
- - Réserves - Réserves nationales de chasse
-
- - Natura 2000 - Sites d’importance communautaire
-
- - Natura 2000 - Zones de protection spéciale
-
-
 Liens vers d’autres sites web utiles à la profession
 ----------------------------------------------------
 
