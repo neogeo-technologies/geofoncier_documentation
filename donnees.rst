@@ -210,7 +210,7 @@ Interrogeable : NON
 Thème Cartes historiques
 ------------------------
 
-.. image:: _static/images/image730.png
+.. image:: _static/images/image850.png
 	:align: center
 
 Ce thème donne accès à des cartes topographiques historiques.
@@ -223,7 +223,7 @@ Activée par défaut : NON
 
 Interrogeable : NON
 
-Echelles d’affichage : du 1/120 000 au 1/8 000 000 (pour la carte de Capitaine), du 1/1 000 au 1/8 000 000 (pour la carte de Cassini), du 1/15 000 au 1/60 000 (pour la carte du Service Vicinal) et du 1/15 000 au 1/8 000 000 (pour les cartes minutes état-major).
+Echelles d’affichage : du 1/120 000 au 1/8 000 000 (pour la carte de Capitaine), du 1/1 000 au 1/8 000 000 (pour la carte de Cassini), du 1/15 000 au 1/60 000 (pour la carte du Service Vicinal), du 1/15 000 au 1/8 000 000 (pour les cartes minutes état-major 1:40 000) et du 1/7 500 au 1/8 000 000 (pour les cartes minutes état-major 1:10 000 Ile-de-France).
 
 .. note:: La couverture de la carte du Service Vicinal n'est pas complète sur l'ensemble de la France.
 
