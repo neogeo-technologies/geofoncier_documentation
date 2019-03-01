@@ -160,7 +160,7 @@ Thème Risques
 
 Ce thème donne accès à des couches WMS diffusées par le serveur Géorisque du MEEM (http://www.georisques.gouv.fr/).
 
-La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
 Territoires : Métropole
 
@@ -170,14 +170,14 @@ Interrogeable : NON
 
 Echelles d’affichage : du 1/30 000 au 1/250 000
 
-.. image:: _static/images/image708.png
+.. image:: _static/images/image846.png
 	:align: center
 	:width: 400
 
 Thème Urbanisme
 ---------------
 
-.. image:: _static/images/image719.png
+.. image:: _static/images/image847.png
 	:align: center
 
 Ce thème donne accès au plans de zonage des PLUi, PLU et Carte Communales diffusées sur le géoportail de l’urbanisme (https://www.geoportail-urbanisme.gouv.fr/).
