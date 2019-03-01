@@ -309,20 +309,20 @@ Echelles d’affichage : du 1/1 000 au 1/8 000 000 (sauf pour la carte littorale
 Thème Registre Parcellaire Graphique
 ------------------------------------
 
-.. image:: _static/images/image748.png
+.. image:: _static/images/image854.png
 	:align: center
 
-Ce thème donne accès au Registre parcellaire graphique (issu des déclarations PAC) pour les années 2007 à 2012.
+Ce thème donne accès au Registre parcellaire graphique (issu des déclarations PAC) pour les années 2007 à 2017.
 
 La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
-Territoires : Tous sauf Mayotte
+Territoires : Tous
 
 Activée par défaut : NON
 
 Interrogeable : NON
 
-Echelles d’affichage : du 1/500 au 1/8 000 000 (pour les années 2010 à 2012) et du 1/7 500 au 1/8 000 000 (pour les années 2007 à 2009).
+Echelles d’affichage : du 1/500 au 1/8 000 000 (pour les années 2010 à 2017) et du 1/7 500 au 1/8 000 000 (pour les années 2007 à 2009).
 
 +-------------------------------------------+-------------------------------------------+
 |  .. image:: _static/images/image752.png   |   .. image:: _static/images/image750.png  |
