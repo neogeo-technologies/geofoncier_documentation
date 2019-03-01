@@ -257,25 +257,47 @@ Echelles d’affichage : du 1/30 000 au 1/8 000 000 (pour le 50 000 scan) et du 
 |    :width: 300                            |     :width: 300                           |
 +-------------------------------------------+-------------------------------------------+
 
-Thème Topographie IGN
----------------------
+Thème Plans cadastrals anciens
+------------------------------
 
-.. image:: _static/images/image814.png
+.. image:: _static/images/image853.png
 	:align: center
 
-Ce thème donne accès à des couches WMS correspondant à la BD TOPO de l’IGN.
+Ce thème donne accès à de vieux plans cadastraux anciens géoréférencés.
 
-La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
+.. note:: A ce jour, seul le plan cadastral napoléonien est accessible pour les départements du Tarn-et-Garonne et du Vaucluse.
 
-Pour la carte marine, la légende est accessible en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
-
-Territoires : Tous sauf Mayotte
+Territoires : Métropole
 
 Activée par défaut : NON
 
 Interrogeable : NON
 
-Echelles d’affichage : du 1/1 000 au 1/8 000 000 (sauf pour la carte marine, du 1/7 500 au 1/8 000 000)
+Echelles d’affichage : du 1/2 000 au 1/8 000 000.
+
+.. image:: _static/images/image852.png
+	:align: center
+	:width: 400
+
+Thème Topographie IGN
+---------------------
+
+.. image:: _static/images/image851.png
+	:align: center
+
+Ce thème donne accès à des couches WMS correspondant à la BD TOPO de l’IGN et à d'autres couches produites par l'IGN.
+
+La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
+
+Pour la carte littorale, la légende est accessible en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+
+Territoires : Tous
+
+Activée par défaut : NON
+
+Interrogeable : NON
+
+Echelles d’affichage : du 1/1 000 au 1/8 000 000 (sauf pour la carte littorale, du 1/7 500 au 1/8 000 000)
 
 +-------------------------------------------+-------------------------------------------+
 |  .. image:: _static/images/image746.png   |   .. image:: _static/images/image744.png  |
