@@ -504,7 +504,7 @@ Thème Géoportail IGN
 
 Ce thème donne accès aux données issues du Référentiel à Grande Échelle (RGE) de l’IGN.
 
-.. image:: _static/images/image792.png
+.. image:: _static/images/image856.png
 	:align: center
 
 
@@ -518,7 +518,7 @@ Limites administratives issues de la BD Carto. L’épaisseur et la couleur du t
 
 La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
-Territoires : Tous (sauf Mayotte et Guyane)
+Territoires : Tous
 
 Activée par défaut : NON
 
@@ -528,11 +528,11 @@ Echelles d’affichage : jusqu’au 1/1 000
 
 * **Cartes IGN**
 
-.. image:: _static/images/image796.png
+.. image:: _static/images/image857.png
 	:align: left
 	:width: 250
 
-Cartes produites par l’IGN comprenant notammentles cartes au 1/100 000 (TOP 100) et carte au 1/25 000 (série bleue). Le type de carte affiché est fonction de l’échelle.
+Cartes produites par l’IGN comprenant notamment les cartes au 1/100 000 (TOP 100) et carte au 1/25 000 (série bleue). Le type de carte affiché est fonction de l’échelle.
 
 La légende est accessible en cliquant sur l’icône qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
 
@@ -544,7 +544,44 @@ Interrogeable : NON
 
 Echelles d’affichage : jusqu’au 1/2 000
 
-* Photographies aériennes IGN
+
+* **Scan25**
+
+.. image:: _static/images/image796.png
+	:align: left
+	:width: 250
+
+Affichage constant quelque soit l'échelle de la carte Scan25 produite par l'IGN.
+
+La légende est accessible en cliquant sur l’icône qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+
+Territoires : Tous
+
+Activée par défaut : NON
+
+Interrogeable : NON
+
+Echelles d’affichage : jusqu’au 1/2 000
+
+* **BD Parcellaire IGN**
+
+.. image:: _static/images/image804.png
+	:align: left
+	:width: 250
+
+Visualisation de la BD Parcellaire de l’IGN
+
+Pour connaître le millésime de la BD Ortho sur votre département, vous pouvez cliquer sur l’icône qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+
+Territoires : Tous (sauf Mayotte et Guyane)
+
+Activée par défaut : OUI avec transparence
+
+Interrogeable : NON mais permet la localisation à la parcelle (cf. `Fonctions de localisation <interface.html#fonctions-de-localisation>`_)
+
+Echelles d’affichage : à partir du 1/60 000 jusqu’au 1/1 000
+
+* **Photographies aériennes IGN**
 
 .. image:: _static/images/image798.png
 	:align: left
@@ -596,24 +633,21 @@ Interrogeable : NON
 
 Echelles d’affichage : du 1/1 000 au 1/250 000
 
-* **BD Parcellaire IGN**
+* **Photographies IGN 1950-1965**
 
-.. image:: _static/images/image804.png
+.. image:: _static/images/image858.png
 	:align: left
-	:width: 250
+	:width: 200
 
-Visualisation de la BD Parcellaire de l’IGN
+Photographies BD Ortho de l’IGN années 1950-1965
 
-Pour connaître le millésime de la BD Ortho sur votre département, vous pouvez cliquer sur l’icône qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche.
+Territoires : Métropole
 
-Territoires : Tous (sauf Mayotte et Guyane)
+Activée par défaut : NON
 
-Activée par défaut : OUI avec transparence
+Interrogeable : NON
 
-Interrogeable : NON mais permet la localisation à la parcelle (cf. `Fonctions de localisation <interface.html#fonctions-de-localisation>`_)
-
-Echelles d’affichage : à partir du 1/60 000 jusqu’au 1/1 000
-
+Echelles d’affichage : du 1/1 000 au 1/250 000
 
 
 Thème SIAGE
