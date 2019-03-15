@@ -359,20 +359,18 @@ Echelles d’affichage : du 1/1 000 au 1/8 000 000
 Thème Occupation du sol
 -----------------------
 
-.. image:: _static/images/image760.png
+.. image:: _static/images/image855.png
 	:align: center
 
 .. image:: _static/images/image764.png
 	:align: left
 	:width: 280
 
-Ce thème donne accès à deux informations:
+Ce thème donne accès à 4 couches Corine Land Cover : 1990, 2000 révisée, 2006 révisée et 2012
 
-- le taux d’imperméabilisation des sols en 2006
+Les couches Corine Land Cover sont un état des lieux de l’occupation du sol réalisé par télédétection (programme européen Corine Land Cover) .
 
-- un état des lieux de l’occupation du sol réalisé par télédétection (programme européen Corine Land Cover) (visible du 1/2 000 000 au 1/60 000)
-
-La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
+La légende est affichable sur `ce lien <https://www.geoportail.gouv.fr/depot/layers/LANDCOVER.CORINELANDCOVER/legendes/LANDCOVER.CORINELANDCOVER-legend.png>`_ .
 
 Territoires : Métropole, Réunion, Guyane, Martinique, Guadeloupe
 
@@ -380,13 +378,11 @@ Activée par défaut : NON
 
 Interrogeable : NON
 
-Echelles d’affichage : du 1/60 000 au 1/2 000 000 (pour Corine Land Cover)
+Echelles d’affichage : du 1/1 000 au 1/8 000 000
 
-+-------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image762.png   |   .. image:: _static/images/image766.png  |
-|    :align: center                         |     :align: center                        |
-|    :width: 300                            |     :width: 300                           |
-+-------------------------------------------+-------------------------------------------+
+.. image:: _static/images/image762.png 
+  	:align: center
+	:width: 300
 
 Thème Protection du patrimoine
 ------------------------------
