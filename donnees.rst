@@ -37,7 +37,7 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des 
 +-------------------------------------------+-----------------------------------------------------+
 |  * **Croquis d'Arpentage (avant 1956)**   |   **Localisants des croquis d'arpentage**           |
 |                                           |							  |
-|  .. image:: _static/images/image843.png   |   Territoires : Tous                                |
+|  .. image:: _static/images/image843.png   |   Territoires : Métropole                           |
 |    :align: center                         |  							  |
 |					    |							  |
 |                                           |   Activée par défaut : NON    			  |
@@ -57,6 +57,8 @@ La légende s’affiche en cliquant sur le nom de la couche (cf. `Affichage des 
 |                                           |   Echelles d’affichage : à partir du 1/30 000       |
 |					    |							  |
 +-------------------------------------------+-----------------------------------------------------+
+
+.. note:: A ce jour, seule la visualisation des localisants des croquis d'arpentage (avant 1956) est visible en Charente-Maritime.
 
 +-------------------------------------------+-------------------------------------------------------------+
 |  * **SIG OGE**                            |   Thème regroupant des couches de données produites         |
