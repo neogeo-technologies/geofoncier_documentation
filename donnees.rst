@@ -136,7 +136,7 @@ Ce thème donne accès à des couches WMS diffusées par le serveur CARMEN du ME
 
 La légende s’affiche en cliquant sur le nom de la couche mais également en cliquant sur l’icône |ico_info| qui apparaît lorsque le curseur de la souris est positionné sur le nom de la couche (cf. `Affichage des couches de données <interface.html#gestion-de-l-affichage-des-couches-de-donnees>`_ ).
 
-Territoires : Tous
+Territoires : Tous (sauf Saint-Martin et Saint-Barthélémy)
 
 Activée par défaut : NON
 
