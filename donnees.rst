@@ -467,14 +467,10 @@ Echelles d’affichage : du 1/500 au 1/7 500
 Thème Opendata
 --------------
 
-.. image:: _static/images/image786.png
+.. image:: _static/images/image859.png
 	:align: right
 
-Ce thème donne accès à deux données OpenData:
-
-* le rendu Mapnik de la base de données OpenStreetMap
-
-* des photographies aériennes faites par la société Mapbox
+Ce thème donne accès au rendu Mapnik de la base de données OpenStreetMap.
 
 
 .. note:: OpenStreetMap est une base de données géographique libre fonctionnant sur le modèle de l’encyclopédie Wikipédia.
@@ -491,15 +487,11 @@ Interrogeable : NON
 
 Fréquence de la mise à jourdu rendu Mapnik : toutes les 15 minutes
 
-Echelles d’affichage : jusqu’au 1/2 000 (pour le rendu Mapnik) et
-jusqu’au 1/1 000 (pour la photographie aérienne Mapbox)
+Echelles d’affichage : jusqu’au 1/2 000
 
-+-------------------------------------------+-------------------------------------------+
-|  .. image:: _static/images/image790.png   |   .. image:: _static/images/image788.png  |
-|    :align: center                         |     :align: center                        |
-|    :width: 300                            |     :width: 300                           |
-+-------------------------------------------+-------------------------------------------+
-
+.. image:: _static/images/image790.png
+	:align: center
+	:width: 300
 
 Thème Géoportail IGN
 --------------------
@@ -599,7 +591,7 @@ Activée par défaut : OUI
 
 Interrogeable : NON
 
-Echelles d’affichage : jusqu’au 1/1 000
+Echelles d’affichage : jusqu’au 1/500
 
 
 * **Photographies IGN 2006-2010**
